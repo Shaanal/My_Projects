@@ -1,8 +1,10 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, signInWithPopup, GoogleAuthProvider } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-auth.js";
+import 'dotenv/config';
+const API_KEY = process.env.GOOGLE_API_KEY;
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDdTDr0QWem0XqGisJ2nXTYibFCsJd3Xxw",
+  apiKey: API_KEY,
   authDomain: "cgcalc-7af1d.firebaseapp.com",
   databaseURL: "https://cgcalc-7af1d-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "cgcalc-7af1d",
