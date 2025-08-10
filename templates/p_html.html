@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CGPA Calculator</title>
+</head>
+<body>
+    <h1>CGPA Calculator</h1>
+    <form method="post">
+        <label>Marks:</label><br>
+        <input type="text" name="marks" placeholder="Enter marks separated by commas"><br>
+        <label>Credits:</label><br>
+        <input type="text" name="credits" placeholder="Enter credits separated by commas"><br>
+        <input type="submit" value="Calculate">
+    </form>
+    {% if gpa %}
+        <h2>Your GPA is: {{ gpa }}</h2>
+    {% endif %}
+</body>
+</html>
