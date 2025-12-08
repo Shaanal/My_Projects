@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyCGCalc</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+    <!-- Top bar: user email + logout -->
+    <header class="bg-white shadow p-4 flex justify-between">
+        <h2 class="font-semibold">MyCGCalc</h2>
+        <div class="flex gap-4 items-center">
+            <!-- <span id="userEmail" class="text-gray-600 text-sm"></span>
+            <button id="logoutBtn" class="bg-red-500 text-white px-3 py-1 rounded">Logout</button> -->
+            <div class="flex gap-4 items-center">
+                <span id="userEmail" class="text-gray-600 text-sm"></span>
+
+                <!-- HISTORY BUTTON -->
+                <button id="openHistory" class="bg-gray-600 text-white px-3 py-1 rounded">
+                    History
+                </button>
+
+                <button id="logoutBtn" class="bg-red-500 text-white px-3 py-1 rounded">
+                    Logout
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="max-w-4xl mx-auto p-6">
+
+        <!-- (YOUR ORIGINAL CALCULATOR UI REMAINS UNCHANGED) -->
+        <!-- ------------------ NO CHANGE HERE ------------------ -->
+        <!-- I am not removing any logic; only backend changes are needed -->
+        <!-- ----------------------------------------------------- -->
+
+        <h1 class="text-3xl font-bold text-center mb-6">IIITH CGPA Calculator</h1>
+
+        <!-- (ALL YOUR SGPA / CGPA / RequiredSGPA / Course calculators remain identical) -->
+        <!-- I did not paste everything here again, but your code remains EXACTLY as you posted -->
+        <!-- SGPA Calculator -->
+        <div class="bg-white shadow-md rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Semester GPA (SGPA)</h2>
+            <form id="sgpaForm" class="space-y-4">
+                <div id="subjectsContainer"></div>
+                <button type="button" onclick="addSubject()" class="bg-blue-500 text-white px-4 py-2 rounded">Add Subject</button>
+                <button type="submit" class="bg-green-500 text-white px-4 py-2 rounded">Calculate SGPA</button>
+            </form>
+            <p class="mt-4 font-semibold">SGPA: <span id="sgpaResult">-</span></p>
+        </div>
+
+        <!-- CGPA Calculator -->
+        <div class="bg-white shadow-md rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Cumulative GPA (CGPA)</h2>
+            <form id="cgpaForm" class="space-y-4">
+                <input type="number" step="1" id="prevCredits" placeholder="Previous Total Credits" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="0.01" id="prevCGPA" placeholder="Previous CGPA" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="1" id="currCredits" placeholder="Current Semester Credits" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="0.01" id="currSGPA" placeholder="Current Semester SGPA" class="w-full px-4 py-2 border rounded">
+                <button type="submit" class="bg-green-500 text-white px-4 py-2 rounded">Calculate CGPA</button>
+            </form>
+            <p class="mt-4 font-semibold">CGPA: <span id="cgpaResult">-</span></p>
+        </div>
+
+        <!-- Needed SGPA Calculator -->
+        <div class="bg-white shadow-md rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4"> Required SGPA to Reach Target CGPA</h2>
+            <form id="requiredSGPAForm" class="space-y-4">
+                <input type="number" step="1" id="sprevTotalCredits" placeholder="Previous Total Credits" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="0.01" id="sprevCGPA" placeholder="Previous CGPA" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="1" id="scurrCredits" placeholder="Current Semester Credits" class="w-full px-4 py-2 border rounded">
+                <input type="number" step="0.01" id="stargetCGPA" placeholder="Target CGPA" class="w-full px-4 py-2 border rounded">
+                <button type="submit" class="bg-green-500 text-white px-4 py-2 rounded">Calculate Required SGPA</button>
+            </form>
+            <p class="mt-4 font-semibold">Required SGPA: <span id="requiredSGPAResult">-</span></p>
+        </div> 
+
+
+        <!-- Grade Estimator -->
+        <div class="bg-white shadow-md rounded-lg p-6">
+            <h2 class="text-xl font-semibold mb-4">Course Grade Estimator</h2>
+            <form id="gradeForm" class="space-y-4">
+                <div class="grid grid-cols-3 gap-4">
+                <input type="number" step="0.05" id="quiz1" placeholder="Quiz 1 Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total1" placeholder="Quiz 1 Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight1" placeholder="Quiz 1 Weight (%)" class="px-4 py-2 border rounded">
+
+                <input type="number" step="0.05" id="quiz2" placeholder="Quiz 2 Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total2" placeholder="Quiz 2 Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight2" placeholder="Quiz 2 Weight (%)" class="px-4 py-2 border rounded">
+
+                <input type="number" step="0.05" id="midsem" placeholder="Mid Sem Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total3" placeholder="Mid Sem Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight3" placeholder="Mid Sem Weight (%)" class="px-4 py-2 border rounded">
+
+                <input type="number" step="0.05" id="endsem" placeholder="End Sem Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total4" placeholder="End Sem Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight4" placeholder="End Sem Weight (%)" class="px-4 py-2 border rounded">
+
+                <input type="number" step="0.05" id="project" placeholder="Project Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total5" placeholder="Project Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight5" placeholder="Project Weight (%)" class="px-4 py-2 border rounded">
+                
+                <input type="number" step="0.05" id="assignments" placeholder="Assignments Score" class="px-4 py-2 border rounded">
+                <input type="number" id="total6" placeholder="Assignments Total" class="px-4 py-2 border rounded">
+                <input type="number" id="weight6" placeholder="Assignments Weight (%)" class="px-4 py-2 border rounded">
+                </div>
+                <button type="submit" class="bg-green-500 text-white px-4 py-2 rounded">Calculate Grade</button>
+            </form>
+            <p class="mt-4 font-semibold">Course Total: <span id="courseResult">-</span></p>
+        </div>
+    </div>
+
+    <!-- RIGHT SIDE HISTORY DRAWER -->
+    <div id="historyDrawer"
+        class="fixed top-0 right-0 h-full w-80 bg-white shadow-lg transform translate-x-full transition-transform duration-300 overflow-y-auto z-40">
+
+        <div class="p-4 border-b flex justify-between items-center">
+            <h2 class="text-xl font-semibold">History</h2>
+            <div class="flex gap-3 items-center">
+                <button id="clearHistory" class="text-gray-600 text-sm">Clear All</button>
+                <button id="closeHistory" class="text-red-500 text-xl font-bold">✕</button>
+            </div>
+        </div>
+
+        <div id="historyContent" class="p-4 space-y-4"></div>
+    </div>
+
+    <script>
+        function addSubject(gradeValue = "", creditValue = "") {
+            const container = document.getElementById('subjectsContainer');
+            const div = document.createElement('div');
+            div.className = 'flex gap-3 items-center';
+
+            div.innerHTML = `
+                <input type="text"
+                    placeholder="Grade (A, B+, etc)"
+                    class="px-4 py-2 border rounded grade w-60"
+                    value="${gradeValue}">
+
+                <input type="number"
+                    placeholder="Credits"
+                    class="px-4 py-2 border rounded credit w-56"
+                    value="${creditValue}">
+
+                <button type="button"
+                        class="text-red-500 text-2xl font-bold removeSubjectBtn">
+                    ✕
+                </button>
+            `;
+            container.appendChild(div);
+            div.querySelector('.removeSubjectBtn').onclick = () => div.remove();
+
+        }
+
+        // function removeSubject(button) {
+        //     button.parentElement.remove();
+        // }
+
+        document.getElementById('sgpaForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const grades = document.querySelectorAll('.grade');
+            const credits = document.querySelectorAll('.credit');
+            const gradeMap = {"A":10,"A-":9,"B":8,"B-":7,"C":6,"C-":5,"D":4,"F":0};
+            let totalPoints = 0, totalCredits = 0;
+            for (let i = 0; i < grades.length; i++) {
+                let gp = gradeMap[grades[i].value.toUpperCase()] || 0;
+                let cr = parseFloat(credits[i].value) || 0;
+                totalPoints += gp * cr;
+                totalCredits += cr;
+            }
+            let sgpa = (totalPoints / totalCredits).toFixed(2);
+            document.getElementById('sgpaResult').innerText = sgpa;
+        });
+
+        document.getElementById('cgpaForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const prevCred = parseFloat(document.getElementById('prevCredits').value);
+            const prevCg = parseFloat(document.getElementById('prevCGPA').value);
+            const currCred = parseFloat(document.getElementById('currCredits').value);
+            const currSg = parseFloat(document.getElementById('currSGPA').value);
+            const totalCred = prevCred + currCred;
+            const weightedSum = (prevCred * prevCg) + (currCred * currSg);
+            const cgpa = (weightedSum / totalCred).toFixed(4);
+            document.getElementById('cgpaResult').innerText = cgpa;
+        });
+
+        document.getElementById('requiredSGPAForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const prevTotalCredits = parseFloat(document.getElementById('sprevTotalCredits').value);
+            const prevCGPA = parseFloat(document.getElementById('sprevCGPA').value);
+            const currCredits = parseFloat(document.getElementById('scurrCredits').value);
+            const targetCGPA = parseFloat(document.getElementById('stargetCGPA').value);
+
+            const totalCredits = prevTotalCredits + currCredits;
+            const neededSGPA = ((targetCGPA * totalCredits) - (prevCGPA * prevTotalCredits)) / currCredits;
+            let resultText = neededSGPA.toFixed(4);
+
+            document.getElementById('requiredSGPAResult').innerText = resultText;
+        });
+
+        document.getElementById('gradeForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const comp = ["quiz1", "quiz2", "midsem", "endsem", "project", "assignments"];
+            let total = 0;
+
+            for (let i = 0; i < comp.length; i++) {
+                const id = comp[i];
+                const score = parseFloat(document.getElementById(id)?.value) || 0;
+                const marks = parseFloat(document.getElementById('total' + (i + 1))?.value) || 0;
+                const weight = parseFloat(document.getElementById('weight' + (i + 1))?.value) || 0;
+
+                if (marks === 0) continue; // Avoid divide by zero
+
+                const calc_score = (score / marks) * 100;
+                total += (calc_score * weight) / 100;
+            }
+            document.getElementById('courseResult').innerText = isNaN(total) ? "-" : total.toFixed(4);
+        });
+        
+        const sb = window.supabase.createClient(
+            "https://jswfahpezxgkcezfczio.supabase.co",
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impzd2ZhaHBlenhna2NlemZjemlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ3OTkzMTgsImV4cCI6MjA4MDM3NTMxOH0.PQfhxHD4UFU4i3ysNsc2lTCpRDbl6wOmX9Bq3cFs2jM"
+        );
+
+        
+        async function checkUser() {
+            const { data: { user } } = await sb.auth.getUser();
+
+            if (!user) {
+                window.location.href = "login.html";
+            } else {
+                document.getElementById("userEmail").innerText = user.email;
+            }
+        }
+        checkUser();
+
+        
+        document.getElementById("logoutBtn").addEventListener("click", async () => {
+            await sb.auth.signOut();
+            window.location.href = "login.html";
+        });
+
+        
+        async function saveHistory(type, dataObj) {
+            const { data: { user }} = await sb.auth.getUser();
+            if (!user) return;
+
+            await sb.from("history").insert({
+                user_id: user.id,
+                type: type,
+                data: dataObj,
+            });
+        }
+
+        
+        document.getElementById('sgpaForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            // Your original calculation code already executed above
+            const sgpaValue = document.getElementById('sgpaResult').innerText;
+            const grades = document.querySelectorAll('.grade');
+            const credits = document.querySelectorAll('.credit');
+
+            saveHistory("SGPA", {
+                sgpa: sgpaValue,
+                subjects: Array.from(grades).map((g, i) => ({
+                    grade: g.value,
+                    credit: credits[i].value
+                }))
+            });
+        });
+
+        
+        document.getElementById('cgpaForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const cgpaValue = document.getElementById('cgpaResult').innerText;
+
+            saveHistory("CGPA", {
+                cgpa: cgpaValue,
+                prevCredits: document.getElementById('prevCredits').value,
+                prevCGPA: document.getElementById('prevCGPA').value,
+                currCredits: document.getElementById('currCredits').value,
+                currSGPA: document.getElementById('currSGPA').value
+            });
+        });
+
+        
+        document.getElementById('requiredSGPAForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const requiredValue = document.getElementById('requiredSGPAResult').innerText;
+
+            saveHistory("Required_SGPA", {
+                requiredSGPA: requiredValue,
+                targetCGPA: document.getElementById('stargetCGPA').value,
+                currCredits: document.getElementById('scurrCredits').value,
+                prevCGPA: document.getElementById('sprevCGPA').value,
+                prevTotalCredits: document.getElementById('sprevTotalCredits').value
+            });
+        });
+
+        
+        document.getElementById('gradeForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const courseTotal = document.getElementById('courseResult').innerText;
+
+            saveHistory("Course_Grade", {
+                total: courseTotal,
+
+                quiz1: document.getElementById('quiz1').value,
+                total1: document.getElementById('total1').value,
+                weight1: document.getElementById('weight1').value,
+
+                quiz2: document.getElementById('quiz2').value,
+                total2: document.getElementById('total2').value,
+                weight2: document.getElementById('weight2').value,
+
+                midsem: document.getElementById('midsem').value,
+                total3: document.getElementById('total3').value,
+                weight3: document.getElementById('weight3').value,
+
+                endsem: document.getElementById('endsem').value,
+                total4: document.getElementById('total4').value,
+                weight4: document.getElementById('weight4').value,
+
+                project: document.getElementById('project').value,
+                total5: document.getElementById('total5').value,
+                weight5: document.getElementById('weight5').value,
+
+                assignments: document.getElementById('assignments').value,
+                total6: document.getElementById('total6').value,
+                weight6: document.getElementById('weight6').value
+            });
+        });
+
+       
+        document.getElementById("openHistory").addEventListener("click", () => {
+            document.getElementById("historyDrawer").classList.remove("translate-x-full");
+            loadHistory();
+        });
+
+        document.getElementById("closeHistory").addEventListener("click", () => {
+            document.getElementById("historyDrawer").classList.add("translate-x-full");
+        });
+
+        
+        async function loadHistory() {
+            const { data: { user }} = await sb.auth.getUser();
+            if (!user) return;
+
+            const { data, error } = await sb
+                .from("history")
+                .select("*")
+                .eq("user_id", user.id)
+                .order("created_at", { ascending: false });
+
+            const container = document.getElementById("historyContent");
+            container.innerHTML = "";
+
+            if (!data || data.length === 0) {
+                container.innerHTML = "<p class='text-gray-500'>No history saved yet.</p>";
+                return;
+            }
+
+            data.forEach(entry => {
+                const div = document.createElement("div");
+                div.className = "p-3 border rounded shadow-sm bg-gray-50";
+
+                div.innerHTML = `
+                    <div class="flex justify-between items-center mb-2">
+                        <p class="font-semibold">${entry.type}</p>
+                        <div class="flex gap-3">
+                            <button class="text-blue-500 loadEntry"
+                                    data-type="${entry.type}"
+                                    data-json='${JSON.stringify(entry.data)}'>
+                                Load
+                            </button>
+                            <button class="text-red-500 deleteItemBtn" 
+                                    data-id="${entry.id}">
+                                    ✕
+                            </button>
+                        </div>
+                    </div>
+
+                    <pre class="text-sm text-gray-700">${JSON.stringify(entry.data, null, 2)}</pre>
+                    <p class="text-xs text-gray-400 mt-1">${new Date(entry.created_at).toLocaleString()}</p>
+                `;
+
+                container.appendChild(div);
+            });
+        }
+
+        document.getElementById("historyContent").addEventListener("click", async (e) => {
+            if (!e.target.classList.contains("deleteItemBtn")) return;
+
+            const id = e.target.dataset.id;
+            console.log("Attempting delete id:", id);
+
+            const { error } = await sb.from("history").delete().eq("id", id);
+
+            if (error) {
+                console.error("Delete error:", error);
+                showToast("Delete failed");
+                return;
+            }
+
+            loadHistory();
+            showToast("Deleted");
+            // loadHistory();
+        });
+
+        document.getElementById("clearHistory").onclick = async () => {
+            const { data: { user }} = await sb.auth.getUser();
+            await sb.from("history").delete().eq("user_id", user.id);
+            loadHistory();
+        };
+
+        function showToast(message) {
+            const toast = document.getElementById("toast");
+            toast.innerText = message;
+            toast.classList.remove("opacity-0");
+
+            setTimeout(() => {
+                toast.classList.add("opacity-0");
+            }, 3000); // 3 sec
+        }
+
+        document.addEventListener("click", (e) => {
+            if (!e.target.classList.contains("loadEntry")) return;
+
+            const type = e.target.dataset.type;
+            const data = JSON.parse(e.target.dataset.json);
+
+            if (type === "SGPA") {
+                
+                const container = document.getElementById("subjectsContainer");
+                container.innerHTML = "";
+
+                data.subjects.forEach(sub => {
+                    addSubject(sub.grade, sub.credit);
+                });
+            }
+
+            if (type === "CGPA") {
+                document.getElementById("prevCredits").value = data.prevCredits;
+                document.getElementById("prevCGPA").value = data.prevCGPA;
+                document.getElementById("currSGPA").value = data.currSGPA;
+                document.getElementById("currCredits").value = data.currCredits;
+            }
+
+            if (type === "Required_SGPA") {
+                document.getElementById("stargetCGPA").value = data.targetCGPA;
+                document.getElementById("scurrCredits").value = data.currCredits;
+                document.getElementById("sprevCGPA").value = data.prevCGPA;
+                document.getElementById("sprevTotalCredits").value = data.prevTotalCredits;
+            }
+
+            if (type === "Course_Grade") {
+                document.getElementById("quiz1").value = data.quiz1;
+                document.getElementById("quiz2").value = data.quiz2;
+                document.getElementById("midsem").value = data.midsem;
+                document.getElementById("endsem").value = data.endsem;
+                document.getElementById("project").value = data.project;
+                document.getElementById("assignments").value = data.assignments;
+
+                document.getElementById("total1").value = data.total1;
+                document.getElementById("total2").value = data.total2;
+                document.getElementById("total3").value = data.total3;
+                document.getElementById("total4").value = data.total4;
+                document.getElementById("total5").value = data.total5;
+                document.getElementById("total6").value = data.total6;
+
+                document.getElementById("weight1").value = data.weight1;
+                document.getElementById("weight2").value = data.weight2;
+                document.getElementById("weight3").value = data.weight3;
+                document.getElementById("weight4").value = data.weight4;
+                document.getElementById("weight5").value = data.weight5;
+                document.getElementById("weight6").value = data.weight6;
+            }
+
+            showToast("Loaded");
+
+        });
+
+    </script>
+
+    <div id="toast" 
+        class="fixed top-5 right-5 bg-gray-900 text-white px-4 py-2 rounded shadow-lg 
+                opacity-0 pointer-events-none transition-opacity duration-300">
+    </div>
+
+
+</body>
+</html>
