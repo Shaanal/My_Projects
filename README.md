@@ -34,7 +34,7 @@ MyCGCalc allows students to compute **SGPA**, **CGPA**, **Required SGPA**, and *
 - Email + Password login  
 - Google OAuth login  
 - Auto-redirect protection:
-  - If not logged in → redirect to `index.html`
+  - If not logged in → redirect to `login.html`
   - If logged in → access `home.html`  
 - Supabase session handling  
 - Logout instantly clears session  
@@ -111,7 +111,7 @@ When a user loads an entry, the stored values automatically populate into the co
 ```
 mycgcalc/
 │
-├── index.html
+├── login.html
 ├── signup.html
 └── home.html
 ```
