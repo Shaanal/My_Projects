@@ -84,7 +84,7 @@ When a user loads an entry, the stored values automatically populate into the co
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - HTML5  
@@ -117,7 +117,7 @@ mycgcalc/
 
 ---
 
-## 🔧 Important Configuration
+## Important Configuration
 
 ### **Supabase Auth Redirect URLs**
 https://<mycgcalcmeshaa.netlify.app/home.html
