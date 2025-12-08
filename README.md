@@ -108,19 +108,20 @@ When a user loads an entry, the stored values automatically populate into the co
 
 ## Project Structure
 
+```
 mycgcalc/
 │
 ├── index.html
 ├── signup.html
 └── home.html
-
+```
 
 ---
 
 ## Important Configuration
 
 ### **Supabase Auth Redirect URLs**
-https://<mycgcalcmeshaa.netlify.app/home.html
+https://mycgcalcmeshaa.netlify.app/home.html
 
 
 ### **Google OAuth Callback**
