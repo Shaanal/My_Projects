@@ -4,6 +4,7 @@ A full-stack academic calculator web application built using **Supabase**, **Tai
 MyCGCalc allows students to compute **SGPA**, **CGPA**, **Required SGPA**, and **Course Grade totals**, while offering **user authentication** and **persistent history storage**. Users can log in via **email/password** or **Google**, save all calculations, view them in a sleek sliding history drawer, reload saved data, and delete history.
 
 Link to web application: https://mycgcalcmeshaa.netlify.app/
+
 ---
 
 ## Features
