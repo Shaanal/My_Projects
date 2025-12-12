@@ -1,0 +1,317 @@
+void executeKWAYSORT() {
+    logger.log("executeKWAYSORT STARTED");
+
+    Table *table = tableCatalogue.getTable(parsedQuery.sortRelationName);
+    if (!table) {
+        logger.log("ERROR: Table not found.");
+        return;
+    }
+
+    int totalBlocks = table->blockCount;
+    int bufferSize = 10;
+    int k = bufferSize;
+    int numSubfiles = ceil((double)totalBlocks / k);
+    vector<string> tempFiles;
+
+    // 🔹 Store column names before deleting table
+    vector<string> columnNames = table->columns;
+    logger.log("Columns stored successfully.");
+
+    // 🔹 Sorting Phase
+    for (int i = 0; i < numSubfiles; i++) {
+        vector<vector<int>> buffer;
+        int startBlock = i * k;
+        logger.log("Sorting chunk: " + to_string(i));
+
+        for (int j = 0; j < k && startBlock + j < totalBlocks; j++) {
+            Cursor cursor(table->tableName, startBlock + j);
+            while (true) {
+                vector<int> row = cursor.getNext();
+                if (row.empty()) break;  
+                buffer.push_back(row);
+            }
+        }
+
+        if (buffer.empty()) {
+            logger.log("ERROR: Buffer is empty for chunk " + to_string(i));
+            continue;
+        }
+
+        sort(buffer.begin(), buffer.end());
+
+        // ✅ Write sorted chunk to temp file
+        string tempFileName = "temp_" + to_string(i);
+        bufferManager.writePage(tempFileName, 0, buffer, buffer.size());
+        tempFiles.push_back(tempFileName);
+        logger.log("Chunk " + to_string(i) + " written successfully.");
+    }
+
+    // 🔹 Merging Phase
+    while (tempFiles.size() > 1) {
+        vector<string> newTempFiles;
+        int numMerges = ceil((double)tempFiles.size() / (k - 1));
+
+        for (int i = 0; i < numMerges; i++) {
+            vector<string> mergeFiles;
+            for (int j = 0; j < k - 1 && !tempFiles.empty(); j++) {
+                mergeFiles.push_back(tempFiles.back());
+                tempFiles.pop_back();
+            }
+
+            priority_queue<pair<vector<int>, int>> minHeap;
+            vector<Cursor> cursors;
+            vector<vector<int>> currentRows(mergeFiles.size());
+
+            // ✅ Initialize cursors for merging
+            for (size_t f = 0; f < mergeFiles.size(); f++) {
+                cursors.emplace_back(mergeFiles[f], 0);
+                vector<int> row = cursors[f].getNext();
+                if (!row.empty()) {
+                    currentRows[f] = row;
+                    minHeap.push({row, (int)f});
+                }
+            }
+
+            if (minHeap.empty()) {
+                logger.log("ERROR: minHeap is empty. Skipping merge.");
+                continue;
+            }
+
+            vector<vector<int>> mergedRows;
+            while (!minHeap.empty()) {
+                auto [smallestRow, fileIdx] = minHeap.top();
+                minHeap.pop();
+                mergedRows.push_back(smallestRow);
+
+                vector<int> nextRow = cursors[fileIdx].getNext();
+                if (!nextRow.empty()) {
+                    minHeap.push({nextRow, fileIdx});
+                }
+            }
+
+            string mergedFile = "merged_" + to_string(i);
+            bufferManager.writePage(mergedFile, 0, mergedRows, mergedRows.size());
+            newTempFiles.push_back(mergedFile);
+        }
+
+        tempFiles = newTempFiles;
+    }
+
+    // 🔹 Store Final Sorted Table (Fixed)
+    if (!tempFiles.empty()) {
+        string finalSortedFile = tempFiles[0];
+        logger.log("Final sorted file: " + finalSortedFile);
+
+        // ✅ Ensure the file is not empty before using it
+        Cursor cursor(finalSortedFile, 0);
+        vector<int> testRow = cursor.getNext();
+        if (testRow.empty()) {
+            logger.log("ERROR: Final sorted file is empty!");
+            return;
+        }
+
+        // ✅ Create a new table using stored column names
+        Table *sortedTable = new Table(table->tableName, columnNames);
+
+        if (!sortedTable) {
+            logger.log("ERROR: Sorted table could not be created.");
+            return;
+        }
+
+        // ✅ Re-insert all rows into the sorted table
+        sortedTable->writeRow(testRow);
+        while (true) {
+            vector<int> row = cursor.getNext();
+            if (row.empty()) break;
+            sortedTable->writeRow(row);
+        }
+
+        // ✅ Remove old table and replace it with the sorted version
+        tableCatalogue.deleteTable(table->tableName);
+        tableCatalogue.insertTable(sortedTable);
+        logger.log("Sorted table inserted successfully.");
+    } else {
+        logger.log("ERROR: No sorted files remain after merging.");
+    }
+
+    logger.log("executeKWAYSORT FINISHED SUCCESSFULLY.");
+}
+
+k-way merge sort is a divide-and-conquer algorithm that works in the following way:
+Divide: Divide the n records into k subfiles of size n/k each.
+Conquer: Sort the k subfiles recursively.
+Merge: Merge the k sorted subfiles into a single sorted file.
+The k-way merge sort algorithm is as follows:
+1. Divide the n records into k subfiles of size n/k each.
+2. Sort the k subfiles recursively.
+3. Merge the k sorted subfiles into a single sorted file.
+The k-way merge sort algorithm is a generalization of the merge sort algorithm. In the merge sort algorithm, the records are divided into two subfiles, each of size n/2. The two subfiles are sorted recursively and then merged into a single sorted file. In the k-way merge sort algorithm, the records are divided into k subfiles, each of size n/k. The k subfiles are sorted recursively and then merged into a single sorted file.
+The k-way merge sort algorithm is used to sort large files that do not fit into the main memory. The algorithm works in two phases: the sorting phase and the merging phase. In the sorting phase, the records are divided into k subfiles, each of size n/k. The k subfiles are sorted recursively. In the merging phase, the k sorted subfiles are merged into a single sorted file.
+    set 
+i ← 1;
+ j ← b;  
+k ← nB; 
+m ← ⎡(j/k)⎤; 
+{size of the file in blocks}
+ {size of buffer in blocks}
+ {number of subfiles- each fits in buffer}
+ {Sorting Phase}
+ while (i ≤m) 
+do {
+ read next k blocks of the file into the buffer or if there are less than k blocks
+ remaining, then read in the remaining blocks;
+ sort the records in the buffer and write as a temporary subfile;
+ i ← i + 1;
+ }
+ {Merging Phase: merge subfiles until only 1 remains}
+ set 
+i ← 1; 
+p ← ⎡logk–1m⎤ {p is the number of passes for the merging phase}
+ j ← m; 
+while (i ≤ p) 
+do {
+ Figure 18.2 
+Outline of the 
+sort-merge  
+algorithm for 
+external sorting.
+ }
+ n ← 1; 
+q ← ( j/(k–1)⎤ ;  
+{number of subfiles to write in this pass}
+ while (n ≤ q) 
+do {
+ read next k–1 subfiles or remaining subfiles (from previous pass)
+ one block at a time;
+ merge and write as new subfile one block at a time;
+ n ← n + 1;
+ }
+ j ← q;
+ i ← i + 1;
+
+
+void executeKWAYSORT() {
+    logger.log("executeKWAYSORT");
+    Table *table = tableCatalogue.getTable(parsedQuery.sortRelationName);
+    if (!table) {
+        cout << "ERROR: Table not found" << endl;
+        return;
+    }
+
+    int totalBlocks = table->blockCount;
+    int bufferSize = 10; // Number of blocks that can fit in memory
+    int k = bufferSize;
+    int numSubfiles = ceil((double)totalBlocks / k);
+    vector<string> tempfiles;
+
+    // 📌 Phase 1: Create Sorted Runs
+    vector<string> columnNames = table->columns;
+
+    for (int i = 0; i < numSubfiles; i++) {
+        vector<vector<int>> buffer;
+        int startBlock = i * k;
+
+        for (int j = 0; j < k && startBlock + j < totalBlocks; j++) {
+            Cursor cursor(table->tableName, startBlock + j);
+            while (true) {
+                vector<int> row = cursor.getNext();
+                if (row.empty()) break;
+                buffer.push_back(row);
+            }
+        }
+
+        if (buffer.empty()) continue;
+
+        // Sort the buffer based on the specified columns and sorting strategies
+        for (size_t colIdx = 0; colIdx < parsedQuery.sortColumnNames.size(); colIdx++) {
+            int columnIndex = table->getColumnIndex(parsedQuery.sortColumnNames[colIdx]);
+            auto compareRows = [&](const vector<int> &row1, const vector<int> &row2) {
+                if (row1[columnIndex] != row2[columnIndex]) {
+                    return parsedQuery.sortingStrategies[colIdx] == ASC ? row1[columnIndex] < row2[columnIndex]
+                                                                        : row1[columnIndex] > row2[columnIndex];
+                }
+                return false;
+            };
+        bufferManager.writePage(table->tableName, i, buffer, buffer.size());
+        }
+
+        string tempfileName = "temp_" + to_string(i);
+        bufferManager.writePage(table->tableName, i, buffer, buffer.size());
+        tempfiles.push_back(tempfileName);
+    }
+
+    // 📌 Phase 2: Merge Sorted Runs
+    while (tempfiles.size() > 1) {
+        vector<string> newTempfiles;
+        int numMerges = ceil((double)tempfiles.size() / (k - 1));
+
+        for (int i = 0; i < numMerges; i++) {
+            vector<string> mergeFiles;
+            for (int j = 0; j < k - 1 && !tempfiles.empty(); j++) {
+                mergeFiles.push_back(tempfiles.back());
+                tempfiles.pop_back();
+            }
+
+            priority_queue<pair<vector<int>, int>, vector<pair<vector<int>, int>>, greater<>> minHeap;
+            vector<Cursor> cursors;
+            vector<vector<int>> currentRows(mergeFiles.size());
+            string mergedFile = "merged_" + to_string(i); // Declare and initialize mergedFile
+            string finalSortedFile = mergedFile; // Initialize finalSortedFile with the last merged file
+
+            for (size_t f = 0; f < mergeFiles.size(); f++) {
+                cursors.emplace_back(mergeFiles[f], 0);
+                vector<int> row = cursors[f].getNext();
+                if (!row.empty()) {
+                    currentRows[f] = row;
+                    minHeap.push({row, (int)f});
+                }
+            }
+
+            if (minHeap.empty()) continue;
+
+            vector<vector<int>> mergedRows;
+            while (!minHeap.empty()) {
+                auto [smallestRow, fileIdx] = minHeap.top();
+                minHeap.pop();
+                mergedRows.push_back(smallestRow);
+
+            bufferManager.writePage(mergedFile, 0, mergedRows, mergedRows.size());
+                vector<int> nextRow = cursors[fileIdx].getNext();
+                if (!nextRow.empty()) {
+                    minHeap.push({nextRow, fileIdx});
+                }
+            }
+
+            // string mergedFile = "merged_" + to_string(i);
+        // if (!fileExists(finalSortedFile)) {
+        //     cout << "ERROR: Final sorted file does not exist" << endl;
+        //     return;
+        // }
+        Cursor cursor(finalSortedFile, 0);
+            newTempfiles.push_back(mergedFile);
+        }
+
+        tempfiles = newTempfiles;
+    }
+
+    // 📌 Finalize the sorted table
+    if (!tempfiles.empty()) {
+        string finalSortedFile = tempfiles[0];
+        Cursor cursor(finalSortedFile, 0);
+
+        Table *sortedTable = new Table(table->tableName, columnNames);
+        while (true) {
+            vector<int> row = cursor.getNext();
+            if (row.empty()) break;
+            sortedTable->writeRow(row);
+        }
+
+        tableCatalogue.deleteTable(table->tableName);
+        tableCatalogue.insertTable(sortedTable);
+    } else {
+        cout << "ERROR: No Sorting remained after Merging" << endl;
+    }
+
+    cout << "KWAYSORT: EXECUTE done!" << endl;
+    return;
+}
