@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Projects</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="css/projstyle.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Kanit:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Chela+One&family=Poppins:wght@300;400;600&family=Kanit:wght@600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- FIXED BACKGROUND -->
+    <div class="background"></div>
+
+    <!-- HERO -->
+    <section class="projects-hero">
+        <h1>My Projects</h1>
+        <p class="hero-sub">Across ML, software, hardware & system design.</p>
+    </section>
+
+    <!-- FILTER BAR -->
+    <div class="filter-bar glass">
+        <button class="filter active" data-filter="all">All</button>
+        <button class="filter" data-filter="ml">Machine Learning</button>
+        <button class="filter" data-filter="software">Software</button>
+        <button class="filter" data-filter="hardware">Hardware</button>
+    </div>
+
+    <!-- PROJECT GRID -->
+    <section class="projects-grid">
+
+        <div class="project-card glass card-anim" data-type="ml">
+            <h2>Machine Learning Projects</h2>
+            <p class="date">Aug 2024</p>
+            <p class="desc">ML models built from scratch; 99.8% accuracy in leakage prediction.</p>
+
+            <div class="tags">
+                <span>ML</span><span>Python</span><span>Boosting</span>
+            </div>
+
+            <div class="btn-row">
+                <a href="https://github.com/Shaanal/My_Projects/tree/SMAI_A_ML" 
+                target="_blank" class="btn">GitHub</a>
+
+                <!-- <a href="#" class="btn outline">Report</a> -->
+            </div>
+        </div>
+
+
+        <!-- SOFTWARE CARD -->
+        <div class="project-card glass card-anim" data-type="software">
+            <h2>DBMS Engine (RA Processor)</h2>
+            <p class="date">2024</p>
+            <p class="desc">Implemented indexing, merge sort, and buffer management in C++.</p>
+
+            <div class="tags">
+                <span>C++</span><span>DBMS</span><span>Indexing</span>
+            </div>
+
+            <div class="btn-row">
+                <a href="https://github.com/Shaanal/My_Projects/tree/DBMS" 
+                target="_blank" class="btn">GitHub</a>
+            </div>
+        </div>
+
+        <!-- SOFTWARE -->
+        <!-- <div class="project-card glass card-anim" data-type="software">
+            <h2>Bookstore App</h2>
+            <p class="date">2024</p>
+            <p class="desc">Python + Qt Designer billing & search system.</p>
+
+            <div class="tags">
+                <span>Python</span><span>SQLite3</span>
+            </div>
+
+            <div class="btn-row">
+                <a class="btn">GitHub</a>
+            </div>
+        </div> -->
+
+        <!-- SOFTWARE / GAME -->
+        <div class="project-card glass card-anim" data-type="software">
+            <h2>Flappy Bird Game</h2>
+            <p class="date">2024</p>
+            <p class="desc">JavaScript version of Flappy Bird.</p>
+
+            <div class="tags">
+                <span>JavaScript</span><span>Game</span>
+            </div>
+
+            <div class="btn-row">
+                <a href="https://github.com/Shaanal/My_Projects/tree/FlappyBird" 
+                target="_blank" class="btn">GitHub</a>
+
+                <a href="https://flappybirdmeshaa.netlify.app/" 
+                target="_blank" class="btn outline">Play</a>
+            </div>
+        </div>
+
+        <!-- HARDWARE -->
+        <div class="project-card glass card-anim" data-type="hardware">
+            <h2>ECE Hardware Projects</h2>
+            <p class="date">2023 – 2024</p>
+            <p class="desc">4-bit ALU, processor architecture, piano circuit, MATLAB synthesizer.</p>
+
+            <div class="tags">
+                <span>Verilog</span><span>NgSpice</span><span>MATLAB</span>
+            </div>
+
+            <div class="btn-row">
+                <a class="btn">GitHub</a>
+            </div>
+        </div>
+
+        <!-- WEBSITE -->
+        <div class="project-card glass card-anim" data-type="software">
+            <h2>Portfolio Website (v1)</h2>
+            <p class="date">May 2023</p>
+            <p class="desc">My first personal site, created with HTML/CSS/JS.</p>
+
+            <div class="tags">
+                <span>Frontend</span><span>Web</span>
+            </div>
+
+            <div class="btn-row">
+                <a href="https://github.com/Shaanal/My_Projects/tree/My_Portfolio_Website" 
+                target="_blank" class="btn">GitHub</a>
+
+                <a href="https://shaanal.github.io/My_Projects/" 
+                target="_blank" class="btn outline">Visit</a>
+            </div>
+        </div>
+
+
+    </section>
+
+    <nav class="bottom-nav">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a class="active" href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact Info</a></li>
+            <li><a href="resume.html">My Resume</a></li>
+        </ul>
+    </nav>
+
+    <script src="css/projects.js"></script>
+
+</body>
+</html>

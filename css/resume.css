@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    background: #0a0f2f;
+    font-family: 'Poppins', sans-serif;
+    color: #e6e6ff;
+}
+
+/* --- HERO SECTION --- */
+.resume-hero {
+    height: 35vh;
+    background-image: url('images/image7.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 40px;
+    text-shadow: 0 0 18px rgba(0,0,0,0.7);
+}
+
+.resume-hero h1 {
+    font-family: 'Chela One', sans-serif;
+    font-size: 6rem;
+    margin: 0;
+    color: #ffffff;
+}
+
+.resume-hero h2 {
+    font-size: 1.5rem;
+    margin: 5px 0 0;
+    color: #c7bbff;
+}
+
+/* --- GLASS CARD SECTION --- */
+.glass-card {
+    width: 70%;
+    margin: 40px auto 100px;
+    padding: 40px;
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(100,80,200,0.3);
+    text-align: center;
+}
+
+.resume-card p {
+    font-size: 1.1rem;
+    color: #d7d4ff;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.resume-btn {
+    display: inline-block;
+    padding: 14px 30px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #6f32ff, #3c4cf5);
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.25s;
+}
+
+.resume-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 12px rgba(120,80,255,0.6);
+}
+
+/* OPTIONAL PDF EMBED */
+.resume-frame {
+    width: 100%;
+    height: 600px;
+    border-radius: 12px;
+    margin-top: 20px;
+    border: none;
+}
+
+/* --- BOTTOM NAV --- */
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: rgba(20,20,40,0.65);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.bottom-nav ul {
+    margin: 0;
+    padding: 12px 0;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.bottom-nav a {
+    color: #d1d6ff;
+    text-decoration: none;
+}
+
+.bottom-nav a.active,
+.bottom-nav a:hover {
+    color: #bba5ff;
+}

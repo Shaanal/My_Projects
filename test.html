@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Hero + Particles Test</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@700&family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+
+  <style>
+    /* --- Base page --- */
+    :root{
+      --bg:#0a0f2f;
+      --glass: rgba(255,255,255,0.06);
+      --accent1: #6f32ff;
+      --accent2: #3c4cf5;
+      --text:#e6e6ff;
+    }
+    html,body{height:100%;margin:0;background:var(--bg);font-family:Poppins,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+
+    /* --- Hero --- */
+    .hero{
+      position: relative;               /* required for particles absolute positioning */
+      height: 85vh;
+      min-height:520px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background-image: url('images/background.png'); /* replace or keep */
+      background-size:cover;
+      background-position:center;
+      overflow:hidden;
+    }
+
+    /* dim & blur overlay */
+    .hero-overlay{
+      position:absolute; inset:0;
+      background: linear-gradient(180deg, rgba(6,10,35,0.45) 0%, rgba(6,10,35,0.55) 100%);
+      backdrop-filter: blur(6px);
+      z-index:1;
+      pointer-events:none;
+    }
+
+    /* particles container sits above overlay but below content */
+    .particles{
+      position:absolute; inset:0;
+      z-index:2;
+      pointer-events:none; /* so nav and buttons remain clickable */
+      overflow:hidden;
+    }
+
+    /* the hero content (glass card) sits above particles */
+    .hero-content{
+      position:relative;
+      z-index:3;
+      width:min(900px,92%);
+      padding:36px 48px;
+      border-radius:18px;
+      text-align:center;
+      background:var(--glass);
+      border:1px solid rgba(255,255,255,0.08);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 10px 40px rgba(50,30,120,0.28);
+    }
+
+    .title{
+      font-family: 'Kanit', sans-serif;
+      font-size:3.6rem;
+      margin:0;
+      color:var(--text);
+      letter-spacing:1px;
+      text-shadow: 0 6px 24px rgba(70,45,160,0.25);
+    }
+    .subtitle{font-size:1.2rem;color:#cfcfff;margin:8px 0 18px;}
+
+    /* --- Particle styling --- */
+    .particle{
+      position:absolute;
+      width:8px;
+      height:8px;
+      border-radius:50%;
+      background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.95) 0%, rgba(138,79,255,0.85) 30%, rgba(60,76,245,0.6) 65%, rgba(60,76,245,0) 100%);
+      filter: blur(.6px) drop-shadow(0 0 8px rgba(120,80,255,0.25));
+      opacity:0.9;
+      will-change: transform, opacity;
+    }
+
+    /* fallback small screens */
+    @media (max-width:520px){
+      .title{font-size:2.1rem;}
+      .hero{height:70vh;min-height:420px;}
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero" role="banner">
+    <div class="hero-overlay"></div>
+
+    <!-- Particles container -->
+    <div class="particles" aria-hidden="true"></div>
+
+    <!-- Hero content (glass card) -->
+    <div class="hero-content">
+      <h1 class="title">MY PORTFOLIO</h1>
+      <div class="subtitle">R. Shaanal — Building interfaces & experiments</div>
+      <div style="margin-top:18px;">
+        <a href="projects.html" style="display:inline-block;padding:10px 20px;border-radius:8px;background:linear-gradient(135deg,var(--accent1),var(--accent2));color:white;text-decoration:none;margin-right:10px;">Projects</a>
+        <a href="resume.html" style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);color:var(--text);text-decoration:none;">Resume</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Scripts -->
+  <script>
+    // Wait for DOM
+    document.addEventListener('DOMContentLoaded', ()=>{
+
+      const container = document.querySelector('.particles');
+      if(!container){
+        console.error('Particles container not found: .particles');
+        return;
+      }
+
+      const COUNT = 38;               // how many particles
+      const w = container.clientWidth;
+      const h = container.clientHeight;
+
+      // Utility - random in range
+      const rand = (min,max) => Math.random()*(max-min)+min;
+
+      // Create particle elements with properties for animation
+      const particles = [];
+      for(let i=0;i<COUNT;i++){
+        const el = document.createElement('div');
+        el.className = 'particle';
+        // initial position: random within top 60% (so they drift downward)
+        const left = rand(0,100);
+        const top = rand(-8,80);
+
+        // size variance
+        const size = rand(6,18);
+        el.style.width = size + 'px';
+        el.style.height = size + 'px';
+
+        el.style.left = left + '%';
+        el.style.top = top + '%';
+
+        // store motion params
+        const speed = rand(10,40);        // vertical speed (px per second)
+        const sway = rand(10,60);         // horizontal sway amplitude (px)
+        const swaySpeed = rand(2,6);      // sway frequency
+        const life = rand(6,18);          // seconds before reset
+
+        container.appendChild(el);
+
+        particles.push({
+          el, leftPct: left, topPct: top,
+          pxLeft: (left/100)*container.clientWidth,
+          pxTop: (top/100)*container.clientHeight,
+          size, speed, sway, swaySpeed, life,
+          born: performance.now() - rand(0,life*1000) // stagger start
+        });
+      }
+
+      // Resize handler to update pixel positions
+      function updateContainerSize(){
+        const rect = container.getBoundingClientRect();
+        particles.forEach(p=>{
+          p.pxLeft = (p.leftPct/100) * rect.width;
+          p.pxTop = (p.topPct/100) * rect.height;
+        });
+      }
+      window.addEventListener('resize', updateContainerSize);
+      updateContainerSize();
+
+      // Animation loop using requestAnimationFrame
+      let last = performance.now();
+      function loop(now){
+        const dt = (now - last) / 1000; // seconds
+        last = now;
+
+        const rect = container.getBoundingClientRect();
+
+        particles.forEach(p=>{
+          // age in seconds
+          const age = (now - p.born)/1000;
+
+          // simple vertical drift
+          p.pxTop += p.speed * dt * 0.8; // drift factor
+
+          // horizontal sway
+          const swayX = Math.sin(age * p.swaySpeed) * p.sway;
+          const x = p.pxLeft + swayX;
+
+          // set transform
+          p.el.style.transform = `translate(${x}px, ${p.pxTop}px)`;
+
+          // opacity and scale over lifecycle
+          const lifeRatio = (age % p.life) / p.life;
+          const opacity = 1 - lifeRatio;
+          const scale = 0.7 + (1 - lifeRatio) * 1.1;
+          p.el.style.opacity = (opacity*0.95).toFixed(2);
+          p.el.style.width = (p.size * scale) + 'px';
+          p.el.style.height = (p.size * scale) + 'px';
+
+          // reset if moved below container
+          if(p.pxTop - 50 > rect.height){ // buffer 50px
+            p.pxTop = rand(-80, -10); // reset above the view
+            p.pxLeft = rand(0, rect.width);
+            p.leftPct = (p.pxLeft/rect.width)*100;
+            p.born = now - rand(0, p.life*1000);
+          }
+        });
+
+        requestAnimationFrame(loop);
+      }
+      requestAnimationFrame(loop);
+
+      // small console hint
+      console.info('Particle animation started:', particles.length, 'particles');
+    });
+  </script>
+</body>
+</html>
