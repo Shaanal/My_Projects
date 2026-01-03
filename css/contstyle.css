@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    background: #0a0f2f;
+    font-family: 'Poppins', sans-serif;
+    color: #e6e6ff;
+}
+
+/* HERO */
+.contact-hero {
+    height: 35vh;
+    background-image: url("images/image3.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    padding: 40px;
+}
+
+.contact-hero h1 {
+    font-family: 'Chela One', sans-serif;
+    font-size: 6rem;
+    margin: 0;
+    color: #ffffff;
+    text-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+/* GLASS CARD */
+.glass-card {
+    width: 60%;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(100,80,200,0.3);
+}
+
+.contact-card h2 {
+    font-family: 'Kanit', sans-serif;
+    margin-top: 0;
+    font-size: 2rem;
+}
+
+/* CONTACT INFO */
+.contact-info p {
+    font-size: 1.1rem;
+    margin: 12px 0;
+}
+
+.contact-info a {
+    color: #bfaeff;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    color: #e2d8ff;
+    text-shadow: 0 0 10px rgba(180,140,255,0.6);
+}
+
+.note {
+    margin-top: 20px;
+    color: #c7c9ff;
+    font-size: 0.95rem;
+}
+
+/* BOTTOM NAV */
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: rgba(20,20,40,0.65);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.bottom-nav ul {
+    margin: 0;
+    padding: 12px 0;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.bottom-nav a {
+    color: #d1d6ff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.bottom-nav a.active,
+.bottom-nav a:hover {
+    color: #bba5ff;
+}
