@@ -1,0 +1,195 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": "Kiryat Ono, Montefiore, 13",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "I started my career as SQL and PL/SQL developer. Then I changed my profile to a system and business analyst, combining these roles and role of QA tester throughout my career. Thanks to communication skills, high level of emotional intelligence and the ability to see the big picture, took the team leader position. Later, became the leader of several teams, combining leadership with the role of an analyst. Have also been the",
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "senior system\nanalyst"
+  },
+  "skills": {
+    "technical_skills": [
+      "SQL",
+      "Oracle Database",
+      "Microsoft SQL Server",
+      "Jira",
+      "Confluence",
+      "Team Foundation Server",
+      "Microsoft PowerPoint",
+      "Visual Studio Code",
+      "Microsoft Project",
+      "Microsoft Visio",
+      "SQL Developer",
+      "business analytics",
+      "QA and management",
+      "development of management",
+      "Oracle SQL Navigator",
+      "MS SQL Management",
+      "waterfall",
+      "testing",
+      "risk management",
+      "System analysis",
+      "Database architecture development",
+      "Technical documentation",
+      "User documentation",
+      "Report builder"
+    ],
+    "programming_languages": [
+      "SQL"
+    ],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [
+      "Oracle Database",
+      "Microsoft SQL Server"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Team Foundation Server",
+      "Microsoft PowerPoint",
+      "Visual Studio Code",
+      "Microsoft Project",
+      "Microsoft Visio"
+    ],
+    "other_relevant_technologies": [
+      "SQL Developer",
+      "business analytics",
+      "QA and management",
+      "development of management",
+      "Oracle SQL Navigator",
+      "MS SQL Management",
+      "waterfall",
+      "testing",
+      "risk management",
+      "System analysis",
+      "Database architecture development",
+      "Technical documentation",
+      "User documentation",
+      "Report builder"
+    ]
+  },
+  "education": [
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": "Moscow State University",
+      "start_year": "2001",
+      "end_year": "2003",
+      "grade": null,
+      "raw_text": "2001 2003 Moscow State University, Faculty of Mechanics and Mathematics."
+    }
+  ],
+  "projects": [
+    {
+      "name": "project manager of several projects.",
+      "summary": "Now I have extensive experience in system analytics, business analytics, QA and management. Many years of Electronic document management for cash deposit and withdrawal (Alfa-Bank). 90% of transactions go through EDM. Complete automation of deal making processes for collection and self-collection (Alfa-Bank). Integration of electronic document storage system with the main bank's systems. Standardization of the integration process for quick connection of systems (Alfa-Bank). Field Staff Management System of the Technical Support Department of Sberbank (AT Consulting). System for monitoring and analyzing the activities of internal structural divisions of Sberbank (AT Consulting). Joint Stock Company ALFA-BANK Senior Team Manager currently working Process management of four teams: work planning, communication, risk management, team building, human research, requirement review, assessment review, mentoring. Senior System Analyst, Project Lead",
+      "technology_stack": [
+        "business analytics",
+        "QA and management",
+        "risk management"
+      ],
+      "role": "Senior Team Manager",
+      "responsibilities": []
+    },
+    {
+      "name": "September",
+      "summary": "Automation of the process of concluding a cash collection deal. DBMS MsSql. All kinds of requirements and documentation, analyst team leader, management of all processes development, testing and communications.",
+      "technology_stack": [
+        "Microsoft SQL Server",
+        "testing"
+      ],
+      "role": null,
+      "responsibilities": []
+    },
+    {
+      "name": "AT Consulting",
+      "summary": "Field Staff Management System of the Technical Support Department of Sberbank. System for monitoring and analyzing the activities of internal structural divisions of Sberbank DBMS Oracle. All kinds of requirements and documentation, Analyst team leader, Management of all processes of analytics, testing and communication with the customer.",
+      "technology_stack": [
+        "testing"
+      ],
+      "role": "Senior System Analyst",
+      "responsibilities": []
+    },
+    {
+      "name": "E-school",
+      "summary": "Senior System Analyst, Project Lead Software for education system. DBMS MsSql. Business analysis, System analysis, Project management, Database architecture development, Technical documentation, User documentation, testing.",
+      "technology_stack": [
+        "Microsoft SQL Server",
+        "testing",
+        "System analysis",
+        "Database architecture development",
+        "Technical documentation",
+        "User documentation"
+      ],
+      "role": "Senior System Analyst",
+      "responsibilities": []
+    },
+    {
+      "name": "PROMOS",
+      "summary": "PL/SQL, SQL Developer Building sector. DBMS Oracle. Form builder, Report builder, Database architecture development, Interviewing customers, instruction manuals for systems.",
+      "technology_stack": [
+        "SQL",
+        "Database architecture development",
+        "SQL Developer",
+        "Report builder"
+      ],
+      "role": "SQL Developer",
+      "responsibilities": []
+    },
+    {
+      "name": "Beeline Russia",
+      "summary": "Telecommunications. Big data reports developer. INPRIS PL/SQL Developer, SQL Developer Software for publishing houses. DBMS Oracle. Form builder, Report builder, Database architecture development, Interviewing customers, instruction manuals for systems.",
+      "technology_stack": [
+        "SQL",
+        "Database architecture development",
+        "SQL Developer",
+        "Report builder"
+      ],
+      "role": "SQL Developer",
+      "responsibilities": []
+    }
+  ],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "experience working for the largest banks in Russia. Research, definition, optimization and automation of business processes, development of management and analytical reporting, all types of manual testing, team management and project management. Work experience with Jira, Confluence, Visio, TFS, PowerPoint, Visual Studio Code, MS Project, Oracle SQL Navigator, MS SQL Management studio etc. Using waterfall, scram, kanban."
+      ],
+      "technologies_used": [
+        "Jira",
+        "Confluence",
+        "Team Foundation Server",
+        "Microsoft PowerPoint",
+        "Visual Studio Code",
+        "Microsoft Project",
+        "Oracle Database",
+        "Microsoft SQL Server",
+        "SQL",
+        "development of management",
+        "Microsoft Visio",
+        "Oracle SQL Navigator",
+        "MS SQL Management",
+        "waterfall",
+        "testing"
+      ],
+      "raw_text": "experience working for the largest banks in Russia. Research, definition, optimization and automation of business processes, development of management and analytical reporting, all types of manual testing, team management and project management. Work experience with Jira, Confluence, Visio, TFS, PowerPoint, Visual Studio Code, MS Project, Oracle SQL Navigator, MS SQL Management studio etc. Using waterfall, scram, kanban."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

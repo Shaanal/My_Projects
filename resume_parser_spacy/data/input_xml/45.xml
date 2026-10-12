@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Jose Schuppe</label>
+<label type="Designation">Developer </label>- <label type="Companies worked at">Infosys Limited</label>
+
+<label type="Location">Hyderabad, Telangana</label> - Email me on Indeed: <label type="Email Address">Brandie35@kj.info</label>
+
+• Total IT experience of <label type="Years of Experience">4.6 years</label> in IT Industry.
+• Currently working as <label type="Designation">SAP PI/XI and Dell Boomi developer</label>.
+• Good <label type="Soft Skills">communication</label>, <label type="Soft Skills">interpersonal</label> and <label type="Soft Skills">Client interaction</label> skills with clear understanding of
+the requirements.
+• Trained on <label type="Tech Tools">SAP ABAP</label>, <label type="Tech Tools">SAP BASIS</label>, SAP HANA (HCI), <label type="Tech Tools">DELL Boom</label>i.
+• Worked on PI 7.1, 7.31, Dell Boomi Atomsphere.
+• Good knowledge of <label type="Tech Tools">Core Java</label> and good command in writing <label type="Tech Tools">UDFs</label> for <label type="Job Specific Skills">Graphical Mapping</label>.
+• Created Technical systems, Business systems and Software products and components in SLD.
+• Worked on SLD configurations, IR and ID.
+• Good capabilities of trouble shooting and resolving different kinds of issues like connectivity
+problems, mapping exceptions etc.
+• Experience in working with FILE, SOAP, SOAP (AXIS), RFC, IDOC and XI, JMS, JDBC, ARIBA, REST
+in PI and File, <label type="Tech Tools">SOAP</label>, Successfactor, <label type="Tech Tools">Salesforce</label> connectors in Boomi.
+• Implemented standard features like UDMS, message prioritization, iChannel admin.
+• Worked on Transports of IR, ID and SLD objects using file and CTS+ transports.
+• Good knowledge of <label type="Job Specific Skills">Graphical Mapping</label> with node functions and UDFs.
+• Knowledge of <label type="Tech Tools">XSLT</label> and <label type="Tech Tools">Java</label> mapping and Dynamic Configuration.
+• Production support experience in Runtime workbench, communication channel scheduling,
+Message Monitoring.
+• Good knowledge on SLD configuration, IDoc configuration in ECC and PI and alert configuration.
+• Experience in handling quarterly and emergency releases and providing post release support.
+
+WORK EXPERIENCE
+
+<label type="Designation">Developer</label>
+
+<label type="Companies worked at">Infosys Limited</label> -
+
+<label type="Years of Experience">October 2015 to Present</label>
+
+<label type="Companies worked at">Infosys Limited</label> <label type="Designation">Senior Systems Engineer</label> <label type="Years of Experience">01st Oct 2015 - till date</label>
+
+PROJECT SUMMARY - BOOMI
+Project Name Success factor integration with Sterling
+Client SYSCO
+Employer Infosys Limited
+Role Developer
+Team Size 3 members
+Technologies Java script, groovy script, SuccessFactor, Sterling, Webservice
+Duration 2 years
+
+Project Abstract:
+
+https://www.indeed.com/r/jose-schuppe
+
+
+The integration for Sterling is a two-way integration to support the investigation and confirm
+accuracy of background information provided by selected candidates who have received have
+passed phone screening &amp; or accepted verbal offers of employment.
+
+Boomi is the middle ware between success factor and sterling systems.
+Boomi sender interface picks up the profiles from SF and send to sterling for background
+verification. After receiving request from boomi sterling will send synchronous response with an
+Oder number, which will be updated to SF synchronously. After some time boomi receiver process
+(listener process) receives the asynchronous results from sterling which are updated back to SF.
+
+Role and responsibilities:
+
+• <label type="Job Specific Skills">Requirement analysis</label>.
+• Design as per the requirement.
+• <label type="Job Specific Skills">Process development</label> as per design.
+• <label type="Job Specific Skills">Unit testing</label> the applications.
+
+PROJECT SUMMARY - PI
+Project Sysco MS Development
+
+Systems Engineer
+
+Infosys Limited -
+
+September 2013 to September 2015
+
+EDUCATION
+
+<label type="Degree">B. Tech in ECE</label>
+
+<label type="College Name">Vidya Bharati Institute Of Technology</label> -  <label type="Location">Hindupur, Andhra Pradesh</label>
+
+<label type="Graduation Year">2008 to 2012</label>
+
+Hosanna National High School
+
+2006
+
+SKILLS<label type="Tech Tools">
+
+C+</label> (Less than 1 year), <label type="Tech Tools">Citrix</label> (Less than 1 year), <label type="Job Specific Skills">integration</label> (2 years), <label type="Tech Tools">INTEGRATOR</label> (2 years),
+<label type="Tech Tools">Java</label> (2 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL PROFICIENCY
+
+Integration Tools <label type="Tech Tools">SAP PI</label> (7.1, 7.31), <label type="Tech Tools">Eclipse</label>, <label type="Tech Tools">Citrix</label>, <label type="Tech Tools">SQL Server Data</label>, <label type="Tech Tools">SOAP UI</label>, <label type="Tech Tools">NWDS</label>, <label type="Tech Tools">Solution
+Manager</label>, <label type="Tech Tools">HPQC</label>, <label type="Tech Tools">POSTMAN</label>
+Backend Technologies <label type="Tech Tools">Oracle</label> and <label type="Tech Tools">MS SQL</label>.
+Languages <label type="Tech Tools">Core Java</label>, <label type="Tech Tools">C++</label>, <label type="Tech Tools">C</label>.
+
+
+
+KEY STRENGTHS
+• <label type="Soft Skills">Initiative</label>, <label type="Soft Skills">Leadership</label> Qualities and <label type="Soft Skills">Team spirit</label>.
+• Proficiency in <label type="Soft Skills">Communication</label> skills, <label type="Soft Skills">Positive attitude</label>.
+• Good knowledge about Technology and interest towards new learning.
+• Responsibility and patience to do work assigned by superiors.
+</cv>

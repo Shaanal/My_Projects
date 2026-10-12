@@ -1,0 +1,4583 @@
+[
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "ABDELKADER",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "BERKANI",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Web Developer",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "a About Me",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "A (lore AVC [o) ol gato] tar] P40) Ld",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Pane Mra cael at Ml ECM UE ees",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "+213-669-021-172",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "aekberkani0@gmail.com",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "takiyou14.github.io/PORTFOLIO",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "JavaScript",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "SQL",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "Tailwind CSS",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "HTML & CSS",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "BSc - Mathematics & Computer Science",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "USTHB",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "Specialization: Operations Research",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "MSc - Mathematics & Computer Science",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 38,
+    "text": "USTHB",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 39,
+    "text": "Specialization: Big Data Analytics",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 41,
+    "text": "Multi-Store E-Commerce Platform",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 42,
+    "text": "WEB DEVELOPER",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 43,
+    "text": "* User accounts, shopping cart, secure checkout, and role-based",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 44,
+    "text": "admin panel for e-commerce management",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 45,
+    "text": "E-Learning Platform",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 46,
+    "text": "WEB DEVELOPER",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 47,
+    "text": "* Course management, user roles, progress tracking, and interactive",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 48,
+    "text": "dashboards, full-stack implementation",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 49,
+    "text": "Private School Website",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 50,
+    "text": "WEB DEVELOPER",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 51,
+    "text": "+ Re",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 52,
+    "text": "tration, recruitment, programs, and role-based admin panel",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 53,
+    "text": "with permissions, secure full-stack implementation.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 54,
+    "text": "Club Management Platform",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 55,
+    "text": "WEB DEVELOPER",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 56,
+    "text": "* Team profiles, events, news, role-based permissions, and task",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 57,
+    "text": "management; full-stack implementation",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 58,
+    "text": "Landing Pages",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 59,
+    "text": "WEB DEVELOPER",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 60,
+    "text": "* 100+ responsive landing pages with clean code, optimized",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "a5811131-a468-47c9-bd3e-1f208c45a04b",
+    "source_file": "CV_Berkani.pdf",
+    "page_number": 1,
+    "block_index": 61,
+    "text": "performance, and user-friendly design for marketing.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "******************",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "WEB FRONTEND DEVELOPER",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "5 years of experience in frontend development",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "Residence: Herzliya",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "LinkedIn: | Languages: English, Hebrew,                                                  Ukrainian, Russian",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "Programming languages: JavaScript, TypeScript, PHP",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Web: HTML, CSS, SASS, JavaScript, TypeScript, Pug/Jade, Haml, NodeJS, Gulp, Webpack",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Frameworks: React, React Native, Angular",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Libraries: jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tilwind and more..",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Environments – IDE/tools: PhpStorm, VS Code, GitHub, Adobe Photoshop, Figma.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Databases: MySQL",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "System: Windows, Linux, MacOS",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "2021-present:  Frontend developer (remote, part-time)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "-- WPG (Nitzana, Israel)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "Support and development of game sites for cryptocurrencies casino.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "Development of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "2017-2021:  Frontend developer",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "-- WPG (Kharkiv , Ukraine)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "Support and development of the functionality of a large network of auto parts stores.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "Support and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "Development of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "Sometimes outsourcing of small projects.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "2016-2017: HTML markup",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "-- WPG (Kharkiv, Ukraine)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Website layout (with pixel perfect, responsive, CSS and JS animations).",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "2016: Freelance",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "-- Kharkiv, Ukraine",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "HTML markup. PSD to HTML. WordPress plugins development.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "EDUCATION",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "2012- 2017: O.M. Beketov National University of Urban Economy in Kharkiv.",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9a10b3d6-c7cd-4974-92b4-ef229da8ed9f",
+    "source_file": "10.docx",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "Diploma in Engineering, Heat supply, gas supply and ventilation.",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "Chiheb Amri",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Security-Focused Full-Stack Developer",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "+216 53400440 | shihebamrii@gmail.com | linkedin.com/in/shihebamri | github.com/shihebamrii",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "Gafsa, Tunisia · Open to remote opportunities",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Education",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Higher Institute of Technological Studies of Gafsa (ISET Gafsa)\nGafsa, Tunisia\nB.S. in Information Technology – Computer System Development\nSep 2023 – Jun 2026 (Expected)",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "• Relevant Coursework: Computer Networks, Operating Systems, Database Systems, Algorithms & Data Structures",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Professional Experience",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Predictra – Subsidiary of Your Best Solution (Qu´ebec, Canada)\nRemote\nFull-Stack & Cyber Threat Intelligence Developer Intern\nJan 2026 – Jun 2026",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "• Built a real-time 3D cyber threat visualization platform (React, TypeScript, Three.js) rendering geolocated attack telemetry\nfrom multiple OSINT feeds on an interactive WebGL globe.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "• Engineered a Node.js ingestion pipeline scraping and parsing STIX 2.1 IOC feeds into MongoDB, mapping threat actors and\nTTPs to the MITRE ATT&CK framework for analyst correlation.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "• Integrated Socket.io for live dashboard updates and Cheerio-based scrapers for enriching threat actor profiles from public\nintelligence sources.\nTunisian Regional Poste\nGafsa, Tunisia\nSystems Administration & IT Support Intern\nJan 2025 – Feb 2025",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "• Supported LAN configuration and terminal maintenance across 30+ branch offices during a systems administration rotation.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "• Wrote PowerShell scripts to automate daily backup verification and server health monitoring for the IT operations team.\nEmpireCall Call Center\nRegueb, Tunisia\nIT Support & Systems Automation Intern\nJan 2024 – Feb 2024",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "• Configured VoIP softphone routing and CTI systems for 50+ outbound agents; wrote SQL queries to clean and filter CRM lead\ndatabases.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "Selected Projects",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "Distributed Honeypot & Threat Intel Collector | Docker, Python, Flask, Paramiko",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "• Built a multi-container honeypot system (Docker Compose) with low-interaction SSH and HTTP traps capturing attacker\ncredentials, exploit payloads, and session metadata in real time.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "• Developed a central Flask telemetry API aggregating intrusion reports from distributed nodes into a unified SQLite threat\nintelligence database with an interactive CLI dashboard.\nCanary Token Generator & Breach Dashboard | Python, Flask, SQLite, Chart.js",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "• Created a canary token platform generating trackable HTTP links, MS Word pixel trackers, and decoy AWS Access Keys with a\nmock AWS STS endpoint returning realistic AccessDenied responses.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "• Implemented GeoIP intruder fingerprinting and real-time webhook alerting to Slack, Discord, and Telegram on breach detection.\nSecurDNS Firewall Resolver | Python, dnslib, SQLite",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "• Engineered a custom DNS firewall intercepting phishing and malware domains via real-time blocklist matching, sinkholes to\n0.0.0.0, with auto-syncing blocklist ingestion and an interactive management CLI.\nAPI Cartographer | JavaScript, Chrome DevTools API, SVG | Chrome Extension",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "• Developed a DevTools extension reverse-engineering backend API surfaces by intercepting fetch/XHR traffic and scanning scripts\nfor undiscovered routes, with SVG network graphs and OpenAPI v3 export.\nFingerprintID | React, TypeScript, Web Crypto API | Live Demo",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "• Designed a browser fingerprinting analyzer generating unique SHA-256 device identifiers via canvas, WebGL GPU probing,\nAudioContext synthesis, and font enumeration with a privacy score dashboard.\nStegSafe | Cryptography, HTML5 Canvas, Flask | Live Demo",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "• Built a zero-knowledge steganography platform embedding encrypted messages in PNG images using browser-native\nAES-256-GCM, LSB pixel packing, and self-destructing burn-on-read links.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "Technical Skills",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS, Bash, PowerShell, Java, C++\nFrameworks & Libraries: React, Node.js, Express, Flask, Three.js, Vite, Socket.io, Mongoose, Cheerio, dnslib, Paramiko\nInfrastructure & Tools: Docker, Docker Compose, Git, GitHub, MongoDB, SQLite, PostgreSQL, Linux, Postman, Vercel\nSecurity & Protocols: STIX/TAXII, MITRE ATT&CK, AES-256-GCM, PBKDF2, Web Crypto API, DNS Protocol, LSB\nSteganography",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "Languages",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "b5ba808c-5183-4af6-822a-98408b2ec4ff",
+    "source_file": "CV_ShihabAmri.pdf",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "Arabic (Native) · French (Fluent) · English (Professional Working Proficiency)",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "RASHID SAID RASHID AL BALUSHI",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Electrical Engineer | Technical Operations Specialist | IoT Control System | Electrical Specialist",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Muscat, Sultanate of Oman | Phone: +968 99214599 | Email: rsralbalushi@gmail.com",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "PERSONAL SUMMARY",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "A motivated Electrical Power Engineering Fresh Graduate (2026) with a strong interest in technology, automation, \nand smart systems. Skilled in electrical systems, IoT, troubleshooting, and technical support, with hands-on \nexperience in building monitoring and automated systems using microcontrollers. A quick learner with good \nproblem-solving skills, able to work well under pressure and adapt to latest technologies. Looking forward to growing \nprofessionally \nand \ncontributing \nto \na \nsuccessful \nand \ninnovative \nwork \nenvironment.",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "EDUCATION",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "Advanced Diploma in Electrical Power Engineering \n2026",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "University of Technology and Applied Sciences (UTAS), Oman",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "WORK EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Internship – Nama Electricity Distribution \nJun 2025 – Aug 2025",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Operations Department",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "• Operational Support: Assisted in the real-time monitoring and maintenance of electrical distribution networks,",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "ensuring high system availability.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "• Technical Troubleshooting: Participated in diagnosing and resolving faults within complex power systems and",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "protective relays.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "• Documentation & Compliance: Supported operational documentation and safety inspections in compliance with",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "utility standards, similar to IT standard operating procedures (SOPs).",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "PROJECTS & INNOVATIONS\n \n&\n \nCERTIFICATIONS",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "Remote Monitoring & Protection System (IoT): Designed a real-time system for monitoring electrical parameters. \nImplemented data integration and remote alert features, showing ability in connectivity and sensor-based automation.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "Automated Irrigation System: Developed a moisture-controlled automated system. Awarded Best Project (2022-\n2023) for innovation in automation and efficiency.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "TECHNICAL SKILLS (TAILORED FOR APPLICATIONS OPS)",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "• Systems & Infrastructure: Basic understanding of Linux-based systems (through IoT projects), Server-side logic,",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "and Cloud monitoring concepts.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "• Automation & Scripting: Proficient in C/C++ (Arduino), Python (for IoT/Data), and logic-based programming",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "(PLC/SCADA).",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "• Technical Troubleshooting: Expert in fault analysis, root cause diagnosis, and systematic problem-solving in high-",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "pressure operational environments.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "• Applications & Tools: Microsoft 365, AutoCAD Electrical, and familiarity with data integration via APIs in IoT",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "projects.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "9acb9340-3494-416d-afd0-0dd398af0e19",
+    "source_file": "CV_RashidSaid.pdf",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "Language: ( Arabic – English)",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "ALI GHANDI",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "[ alighandij@gmail.com\n¯ Linkedin\nu Youtube\n Medium\nÓ +989134328961\n½ Tehran, Iran",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "SUMMARY",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Lead AI Engineer – Wisdomise (Multinational FinTech)\nDec 2021 – Jul 2025, Dubai",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "• Joined as an early member and led an 8-person tech team to deliver\nproduction-grade LLM and ML solutions for crypto ﬁnance.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "• Spearheaded sentiment analysis, coin scoring, and forecasting tools\nusing social, technical, and on-chain data.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "• Directed the development of a RAG-based crypto assistant with inter-\nactive document parsing and live search features.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "• Acted as Technical Product Manager, aligning cross-functional teams\nwith business and data strategy goals.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Chapter Lead of Data science team- Balad Map\nMay 2020 – Feb 2022 ,Tehran",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "• Led a 10-person data science chapter; drove hiring, and mentorship,\nand designed a career ladder framework.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "• Collaborated closely with product and engineering teams to align mod-\nels with business needs.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "AI Engineer with 8+ years of experience in\nmachine learning, NLP, and AI product devel-\nopment, with a strong track record in apply-\ning LLMs and ML techniques across domains\nlike crypto, mapping, and logistics. Proven\nability to lead data-driven product develop-\nment, align technical teams, and contribute\nto business goals—shaped by hands-on expe-\nrience in both startups and complex AI sys-\ntems.\nSkilled in bridging technical and business\nteams through clear communication and\nshared objectives. Passionate about contin-\nuous learning and adaptability, with a focus\non using data and AI not as ends, but as tools\nto solve real-world problems. Experienced\nin tackling human-centered challenges and\nmaintaining technical currency through ac-\ntive learning and collaboration with local AI\ninstitutions.\nWORKED WITH",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "• Built the ﬁrst in-house traﬃc prediction system without crawling ex-\nternal sources.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "• Initiated road bump detection via clustering and real-time user reports.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "• Boosted map search relevance by 50% using Bayesian ranking meth-\nods.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "• Languages & Libraries: Python, SQL, PyS-\npark, NumPy, pandas, scikit-learn, Py-\nTorch, TensorFlow, Hugging Face",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "• Developed change-point detection for real-time anomaly spotting (e.g.,\naccidents, weather).",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "• LLMs & NLP: OpenAI APIs (GPTs), Hug-\nging Face Transformers, RAG, LangChain,\nVector DBs (e.g., FAISS), Multimodal mod-\nels, CLIP, Open Source LLMs (e.g., LLaMA,\nMistral, Phi),Ollama,Vllm,TGI",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "ML Engineer - ESI\nOct 2017 – Jan 2020, Tehran",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "• Data Tools:\nApache Airﬂow, Metabase,\nElasticsearch (basic), Docker",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "• Led a 3-person team and performed data analytics for urban mobility.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "• Frameworks & Backend: Django (basic),\nFastAPI",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "• Analyzed Tehran’s OD matrix and modeled district traﬃc using Gaus-\nsian processes.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "• MLOps & Infra:\nML pipeline design,\nmonitoring (basic),\nMLﬂow,\nGrafana /\nPrometheus (basic)",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "Product Manager(shareholder) at HerminaTech\nAug 2018 – Jan 2020, Tehran",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "• Analytics & Visualization: A/B testing, ex-\nperiment tracking, matplotlib, seaborn",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "• Designed and managed a full-cycle B2B cloud-based hotel manage-\nment and reservation service.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "RECOMMENDATIONS",
+    "label": "OTHER",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "• Gained solid product management experience with strong cross-team\ncommunication skills.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "EDUCATION",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "PhD, Artiﬁcial Intelligence – Sharif Univ. of Tech. 2019–25",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "MSc, Artiﬁcial Intelligence – Sharif Univ. of Tech. 2017–19",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "You can ﬁnd professional recommendations\non my LinkedIn proﬁle or reach out to my col-\nleagues directly.\nFor brevity, some earlier roles and collabora-\ntions (e.g., consulting or teaching engagements\nwith academic and industry partners) are not\nlisted here.",
+    "label": "OTHER",
+    "split": "test"
+  },
+  {
+    "document_id": "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "source_file": "CV_GhandiAli.pdf",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "BSc, Digital Systems – Sharif Univ. of Tech. 2013–17",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "Abdelhamid Soukeur",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Tabbech Ramdan, 07002, Ouled djalel",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Phone: 0562850343",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "linkedin.com/in/hami",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "DOB : 24 | Nationality : Algeria | Family situation : single",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Summary",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "e Taman electromechanical engineer with a strong background in electrical systems and industrial",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "maintenance, experienced in installation, diagnosis, and repair of electrical equipment. I work",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "efficiently in industrial environments requiring precision, discipline, and safety compliance, with",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "strong teamwork skills and a continuous drive to improve my abilities.",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Skills",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "e Electric motor maintenance e [have experience using simulation software such",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "as EasyEDA, and MATLAB",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "¢ Detection of electrical faults « Proficient in AutoCAD Electrical for schematics",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "Experience",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "February 2025 -March 2025 Electrical Engineer Hassi Messaoud",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "National Drilling Enterprise (Final-year internship):",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "Knowledge of electrical starting systems used in oil",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "drilling operations.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "December 2023-January 2024 Electrician Biskra",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "Sonatrach :We received practical training",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "in the maintenance and rewinding of electric motors.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "Education",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "Master's degree: Electromechanics. Biskra",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "Mohamed Khider University, 2025",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "Completed projects",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Automated Temperature, Humidity, and Egg Turning Controller",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "for Incubators (Remote-Controlled via Mobile Phone)",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "Certifications",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "- Startup Certificate - Automatic Egg Incubator Control System[2025]",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "- Electricity Internship Certificate at Sonatrach Company- biskra-[2023]",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "- Electricity Internship Certificate at the National Drilling Enterprise-hassi messaoud-[2025]",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "- Certificate of Online Course in Electric Motors — [ M3aarf], [2025]",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "- Certificate of Good Conduct — Issued by [mohamed khider university of biskra], 2025",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "Language",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "Arabic : NATIVE LANGUAGE",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "English: Upper Intermediate B2 french: Upper Intermediate B2",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "19e55b34-ba3b-4e40-b035-0c21dbd22a40",
+    "source_file": "CV_SoukeurAbdelhamid.jpg",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "se ee ee ee",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "**************",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Frontend developer",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Languages: English, Hebrew, Russian, German, Kazakh",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "Residence: Tel-Aviv Area, Israel",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Phone:**********",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "E-mail:",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "EXPERIENCE SUMMARY:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Programming languages: JavaScript ES6+, familiar with Java, C#, C++/C.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Web: HTML5/CSS3, NPM, webpack, Babel, Bootstrap, Material UI, React, LESS.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Technologies & Frameworks: JSON, AJAX.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Environments-IDE: WebStorm, Eclipse, Intellij IDEA, Android Studio, Visual Studio, Visual Studio Code, GitHub, Agile, UML, Adobe Photoshop, Figma.",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Collaboration tools: Slack, MS Teams, Trello",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "PROFESSIONAL EXPERIENCE:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "2020-2022 | Customer Care Associate | CGS (Netanya, Israel) |",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "Project: Customer care for Dell (***************** in CIS.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "Areas of responsibilities:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "Support Dell customers and service providers in CIS",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "2019 – 2020 | Frontend React developer | Inetex Ltd (Rehovot, Israel) |",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "Project: A single page web application of ticket service: 1) Administrator/ moderator control panel: simple and clear mechanism for managing events; for setting up the structure of concert halls with prices and capacity; 2) User part: user-friendly interface for booking and buying tickets through PayPal service.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "Areas of responsibilities:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "developing responsive UI;",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "building and maintaining code, participating in code review;",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "adding new features, fixing problems;",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "code deployment.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "Technologies: ES6+, HTML5, CSS3, LESS, React, React Router, React DayPicker, Redux, Bootstrap, Material UI, MomentJS, JSON, NPM, Jest, ESLint, AJAX, webpack, Babel.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "Process organization technologies: git, GitHub, Scrum, pair-programming, Trello.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "2017 – 2019 | User Support and Information Security IT Specialist | Bayer KAZ LLP (Almaty, Kazakhstan) |",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "Areas of responsibilities:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "Developing and supporting corporate website on SharePoint, users support, physical infrastructure monitoring, IT security issues preventing and monitoring.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "2016 – 2017 | Junior Web Developer | STEAM & M (Almaty, Kazakhstan)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "Projects: enterprise management system which includes employee and equipment management, production processes management. Road display system – shows traffic level, nearest places and important information.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "Areas of responsibilities:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "building and maintaining code, participating in code review;",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "adding and testing new features, fixing problems;",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "Technologies: Node.js, Asp.net, ES6+, HTML5, CSS3, Bootstrap, JSON, NPM, ESLint, AJAX, webpack, Babel.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "Process organization technologies: git, GitHub, Discord, VSTS.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "EDUCATION:",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "2017 – 2018 | Software Development | STEP Computer Academy (Almaty, Kazakhstan).",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "e45e124f-9007-4886-aeea-ec4badd28509",
+    "source_file": "9.docx",
+    "page_number": 1,
+    "block_index": 38,
+    "text": "2011 – 2015 | B.Sc. in Telematics | Kazakh-German University (Almaty, Kazakhstan).",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "AYA MESSAR",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "AI ENGINEER",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Algeria | ayamessar00@gmail.com | 0699556714",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "PROFILE",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Master's graduate in Intelligent Systems Engineering with real-world experience in AI, NLP, and software development.",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Interested in creating intelligent solutions and enhancing technical and problem-solving abilities continuously in",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "practical settings",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "TECHNICAL SKILLS",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Programming Languages Frameworks & Libraries Tools & Platforms",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Python , Java, SQL, JavaScript, PHP FastAPI, Flask, Angular, TensorFlow, Git, GitLab, Docker, Google",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 10,
+    "text": ", Scala (basic) PyTorch, Keras, scikit-learn, Hugging Face — Colab,n$n,Odoo, Jupyter Notebook,",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Transformers, OpenCV, Streamlit VS Code",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "PROFESSIONAL EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "Junior Data Scientist — -Yusr Nov 2025 - Present",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "Dely Brahim - Algiers",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "© Contribute to developing Al-based solutions for internal projects.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "¢ Assist in data preparation, analysis, and building basic machine learning models.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "¢ Support the team in testing and improving existing AI pipelines.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "¢ work on Odoo modules to help integrate AI features into internal tools",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "Intern - AI Engineering Intern , CM Consulting Dec 2025 - Jul 2025",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "Ben Aknoun - Algiers",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "¢ Built an internal assistant using Retrieval-Augmented Generation (RAG) and LLMs to answer queries.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "¢ Developed the frontend in Angular and backend in FastAPI, integrating with a PostgreSQL database.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "¢ Designed custom AI pipelines for document retrieval and answer generation.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "¢ Deployed services using Docker and managed development with GitLab.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "© automating workflow using n8n",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Intern — Mobile Application Developer , CASNOS Jan 2023 - Jun 2023",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "Blida",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "¢ Built a native Android app using Java, PHP, and MySQL.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "e Integrated RESTful APIs for real-time document status, payment tracking, and online service requests.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "ac8c08a2-0c5c-4266-8d4e-de59c5b1313e",
+    "source_file": "CV_MessarAya.jpg",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "¢ Followed MVC architecture for backend development.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "BOUTABBA AYOUB",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Computer Science Graduate",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "CONTACT",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "+213 540614601",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "+213 672014456",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "W%_ Ayoubboutabba1@gmail.com",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "Q Bougara,Blida",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Hi www. linkedin.com/in/",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "PROFILE SUMMARY",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "A computer science graduate with practical experience in reinforcement",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "learning, data routing, and wireless sensor network optimization.",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Passionate about network-based solutions and cybersecurity, | am",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "seeking an opportunity to apply and develop my technical and research",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "skills in a dynamic environment.",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "EDUCATION",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "2018 - 2025",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "UNIVERSITY OF BLIDA",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "(UNIVERSITE DE BLIDA 1",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "« Master's in Computer Science",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "SPECIALIZATION:SYSTEM",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "INFORMATIQUE ET RESEAU",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "SKILLS",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "+ Programming: Python, Java",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "* AI/ML: TensorFlow, Reinforcement",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "Learning (A3C, DQN)",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "* Tools: Linux, VS Code",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "+ Networking: WSN, Energy",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "Optimization, Routing Protocols",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "+ Team Leader at CDEC club in Cyber",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "—Security —________o",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "“LANGUAGES",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "Arabic: Native / Excellent",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "« English: Intermediate",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "* French: Intermediate",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "WORK EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "IT Intern - Entreprise de Viabilisation de Sidi Moussa",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "July - August 2022",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "* Learned basic hardware maintenance, including computer",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 38,
+    "text": "disassembly and troubleshooting.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 39,
+    "text": "* Installed and configured Windows operating systems on client",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 40,
+    "text": "machines.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 41,
+    "text": "* Gained hands-on experience with Microsoft Office tools: Word,",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 42,
+    "text": "Excel, PowerPoint.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 43,
+    "text": "* Worked with Windows Server: protocols, Active Directory (AD),",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 44,
+    "text": "and basic network configuration.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 45,
+    "text": "Master's Thesis - University of Blida",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 46,
+    "text": "2024 - 2025",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 47,
+    "text": "* Title: \"Reinforcement Learning-based Approach for WSN Energy and",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 48,
+    "text": "Latency Optimization\"",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 49,
+    "text": "* Designed and implemented an A3C (Asynchronous Actor-Critic) algorithm",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 50,
+    "text": "to optimize energy consumption and reduce latency in Wireless Sensor",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 51,
+    "text": "Networks (WSN).",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 52,
+    "text": "* -Developed simulations using Python and [mention tool if used, e.g., NS2,",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 53,
+    "text": "TensorFlow, etc.].",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 54,
+    "text": "* -Compared the proposed model with traditional routing techniques and",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 55,
+    "text": "metaheuristic algorithms.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 56,
+    "text": "* -Focused on balancing energy efficiency and data transmission delay.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 57,
+    "text": "Master's Graduation Project - University of Blida",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 58,
+    "text": "2022",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 59,
+    "text": "* Title: “A Web Application for Archive Management Using Python and Flask\"",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 60,
+    "text": "« -1| developed a web-based archive management system as part of my graduation",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 61,
+    "text": "project.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 62,
+    "text": "* -Itwas built using the Python framework and Flask for backend logic and routing.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 63,
+    "text": "+ - | designed a user-friendly interface using HTML, CSS, and basic JavaScript for",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 64,
+    "text": "uploading, searching, and organizing files.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 65,
+    "text": "+ -lintegrated a SQLite database to manage stored files and metadata.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 1,
+    "block_index": 66,
+    "text": "+ -| focused on modularity, code clarity, and ease of deployment.",
+    "label": "PROJECTS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 0,
+    "text": "SERTIFICAT",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 1,
+    "text": "Cybersecurity Operations - Self-study",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 2,
+    "text": "2023 - Present",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 3,
+    "text": "- Gained understanding of threat detection, incident response, and secure operations.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 4,
+    "text": "- Explored concepts like malware analysis and penetration testing.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 5,
+    "text": "Networks Fundamentals - University of Khartoum (Online Course)",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 6,
+    "text": "- Covered OSI model, routing basics, IP addressing, and switching.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 7,
+    "text": "- Practical exposure to networking simulations.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 8,
+    "text": "Python Programming (Basics) - University of Khartoum (Online Course)",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 9,
+    "text": "- Learned Python syntax, variables, loops, and functions.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 10,
+    "text": "- Completed small assignments for hands-on practice.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 11,
+    "text": "Huawei ICT Competition - National Finalist (Algeria)",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 12,
+    "text": "2024",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 13,
+    "text": "- Qualified for the national stage after completing HCIA curriculum:",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 14,
+    "text": "= Datacom",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 15,
+    "text": "* Security",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 16,
+    "text": "* Wireless",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 17,
+    "text": "- Covered all modules without sitting for the official certification.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 18,
+    "text": "Cisco CCNA (200-301) - Self-Study",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 19,
+    "text": "- Studied switching, routing, subnetting, VLANs, and network protocols.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 20,
+    "text": "- Practiced with Packet Tracer and real-world labs.",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 21,
+    "text": "CompTIA (Self-Study)",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 22,
+    "text": "- A+ - Computer hardware, OS installation, and maintenance",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 23,
+    "text": "- Network+ - IP addressing, protocols, ports, and security basics",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "598e0ed1-3085-429f-9c70-c5d3cbb0de1f",
+    "source_file": "CV_BoutabbaAyoub.pdf",
+    "page_number": 2,
+    "block_index": 24,
+    "text": "- Malware Analysis - Identifying malicious behavior and tools for detection",
+    "label": "CERTIFICATIONS",
+    "split": "train"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "**************",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "A fast self-learner and an excellent team player with passion for the quality of the code and the product",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "Looking for the next place to apply my skills and experience, i.e. for a full time back-end developer position",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Phone:\t\t**********",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "E-mail:",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "Birthdate:",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Residence:\t\tPetah Tikva",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Languages:\t\tHebrew, English, Russian",
+    "label": "OTHER",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Programming languages:\t\tJAVA, Go, JavaScript, TypeScript",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Databases:\t\t\t\tMySQL, PostgreSQL, MongoDB, Couchbase",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "Frameworks and technologies:\tSpring, ORM Hibernate, JDBC, Apache Kafka, Apache Camel, Broadleaf, Angular 4, Maven, JUnit, REST, WSDL",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "Environments – IDE/tools:\t\tEclipse, IntelliJ IDEA, WebStorm, VS Code, Postman, Git, SVN, Perforce, Jenkins, Docker, IBM WebSphere, JBoss Fuse, TFS, JIRA",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "2019 – 2020:\tAmdocs (Raanana) – Java Back-End Developer",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "Working as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "Technologies: \tJava 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "Databases: \t\tMySQL, PostgreSQL, Couchbase",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "Tools: \t\tIntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "2018 – 2019:\tMost Technologies (Petah Tikva) – Java Developer",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "As a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app’s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "Technologies: \tJava 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "EDUCATION",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "2017 – 2018:\tTel-Ran Educational Center (Rehovot) – Java Full-Stack",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "During my studies, I have participated in several commercial and educational projects:",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "A web service for browsing restaurants and purchasing meals vouchers. Java 8, ORM Hibernate, Spring MVC, Spring Boot, MySQL, MongoDB, Angular 4.",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "A service for collecting and processing data from various rooms sensors. Generating randomized mocked data, maintaining back-end server (Java MVC, REST API), MySQL database (ORM Hibernate, Spring Boot), reducing and analyzing data (Apache Kafka), informing end user about alerts via emails.",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "A web service for browsing articles. Back-end server development (Java MVC, REST API), maintaining database with articles and user data (ORM Hibernate, Spring Boot).",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "Experimental development of a light-weight map reduce Big Data system. Back-end development using Go language, parallel mapping and reducing data.",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "042376b1-371d-4553-8342-11cad42f8e44",
+    "source_file": "4.docx",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "Recommendations are available upon request",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "YASSINE ALI KACEM",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "Agentic Al Developer * Multi-Agent Systems Engineer * Computer Science Student",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "Algeria - Age 21 - Saad Dahleb University, Blida - 3rd Year B.Sc. Computer Science",
+    "label": "PERSONAL_INFORMATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "@ PROFESSIONAL SUMMARY",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Motivated 3rd-year Computer Science student with a specialization in Agentic Al, Multi-Agent Systems, and Intelligent",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Automation. Proven builder of real-world Al systems including a production-grade Multi-Agent ERP with Master Orchestrator",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "architecture, an Al hiring automation pipeline, and an e-commerce analytics platform. Experienced leader managing a 9-",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "member Al team, with a track record of organizing major university tech events. Driven to design scalable, Al-powered",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "systems that transform how businesses operate and make decisions.",
+    "label": "SUMMARY",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "m EDUCATION",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Bachelor of Science in Computer Science (3rd Year)",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Saad Dahleb University - Blida, Algeria",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "— Focus areas: Artificial Intelligence, Machine Learning, Multi-Agent Systems, Software Engineering",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "— Additional studies: Data Analysis, System Architecture, Networking",
+    "label": "EDUCATION",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "= CERTIFICATIONS",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "= CiscoCCNA1&2 (Certified) * CCNA3 (In Progress)",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "— DataCamp - Introduction to Natural Language Processing in Python (Oct 2025)",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "— Cyfrin - Blockchain Basics (Feb 2026)",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "@ LEADERSHIP & EXPERIENCE",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "Al Team Leader",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "Computer Science Community Club (CSCC) * Current",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "— Leading a team of 9 Al developers on applied Al research and production projects",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "= Designing multi-agent system architectures and agentic LLM pipelines",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "- Mentoring members in Machine Learning, Agentic Al, and software engineering best practices",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "— Overseeing end-to-end project planning, execution, and delivery",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "Vice President - External Relations",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Computer Science Community Club (CSCC) * Aug 2025 ~ Feb 2026",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "— Managed strategic industry partnerships and external collaborations",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "— Organized and co-directed large-scale tech events: GeekConf, AfroBot, DataBounty, SpeakUp",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "- Led external communications and coordination with technology companies",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "Vice President (Intern)",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "Computer Science Community Club (CSCC) » Aug 2024 - Aug 2025",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "- Supported strategic planning, event logistics, and cross-team coordination",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "Training Manager",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "Computer Science Community Club (CSCC) * Jan 2024 -Sep 2024",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "= Designed and managed technical training programs for club members",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "— Organized Al, Machine Learning, and programming workshops",
+    "label": "EXPERIENCE",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "Scanné avec CamScanner",
+    "label": "OTHER",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 0,
+    "text": "@ EVENTS ORGANIZED",
+    "label": "ACHIEVEMENTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 1,
+    "text": "AfroBot * SpeakUp * DataBounty * GeekConf * Multiple Al & Programming Workshops",
+    "label": "ACHIEVEMENTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 2,
+    "text": "@ PROJECTS",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 3,
+    "text": "Multi-Agent Intelligent ERP System - Agentic Al + Enterprise Resource Planning",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 4,
+    "text": "— Built a production-grade Multi-Agent ERP using a Mixture-of-Experts (MoE) architecture with a Master Orchestrator",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 5,
+    "text": "and six specialized domain agents (HR, Finance, Inventory, CRM, Sales, Document)",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 6,
+    "text": "— Master Orchestrator reads user queries, maps them via a structured router prompt, outputs JSON delegation",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 7,
+    "text": "payloads, and synthesizes cross-domain responses into a unified executive summary",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 8,
+    "text": "— Analytics / CEO Agent computes cross-domain KPIs unavailable to any single department (e.g., Revenue per",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 9,
+    "text": "Employee, Cash Flow Pressure, Customer Acquisition Cost) and returns strict JSON schemas for live dashboard",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 10,
+    "text": "rendering",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 11,
+    "text": "— Sub-Module Pattern: Python pre-crunches raw data deterministically (anomaly detection, churn prediction, stock.",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 12,
+    "text": "shortage modeling); LLM only receives statistical summaries eliminating hallucination on critical business data",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 13,
+    "text": "— Demonstrated 99.9% time reduction vs. traditional analysis: complex cross-domain CEO queries answered in under 30",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 14,
+    "text": "seconds vs. 4-6 days of human analysis",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 15,
+    "text": "— Designed for enterprise scale: horizontal agent scaling, database sharding per department, async processing, audit",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 16,
+    "text": "trails, and on-premise LLM deployment for data privacy compliance",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 17,
+    "text": "Multi-Agent Hiring System - Agentic Al * Recruitment Automation",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 18,
+    "text": "— Multi-agent pipeline that ingests CVs and professional documents automatically via OCR and document parsing",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 19,
+    "text": "— Scores and ranks candidates against job requirements without human intervention",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 21,
+    "text": "— Built on modern Agentic Al architecture with LLM-powered evaluation agents",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 22,
+    "text": "E-Commerce Analytics Platform - Freelance » Al-Powered Store Analytics",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 23,
+    "text": "— Automated data cleaning pipeline for raw sales datasets from multiple store sources",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 24,
+    "text": "— Sales performance analysis delivering actionable insights and trend forecasting for store owners",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 25,
+    "text": "= Interactive dashboards built with Plotly and deployed via Streamlit",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 26,
+    "text": "Smart Agriculture System - Machine Learning « intelligent Irrigation",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 28,
+    "text": "= Automates irrigation decisions based on live environmental data, optimizing water usage and crop yield",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 29,
+    "text": "UniquelD - Digital identity System - In Progress",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 30,
+    "text": "— Hash-based unique identity system linked to national ID to prevent duplicate identities at scale",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 31,
+    "text": "- Secure identity verification architecture - currently in system design and architecture phase",
+    "label": "PROJECTS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 32,
+    "text": "m TECHNICAL SKILLS",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 33,
+    "text": "AI& ML Agentic Al, Multi-Agent Systems, LLM Orchestration, Machine Learning, Deep Learning, NLP",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 34,
+    "text": "Apdittecture Master Slave Agent Design, MoE Architecture, ERP Systems, Al Pipeline Design, System",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 35,
+    "text": "Programming Python, Streamlit, Plotly, FastAPI, Data Analysis, Automation Systems",
+    "label": "SKILLS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 36,
+    "text": "Networking Cisco CCNA 1 & 2 (Certified) « CCNA 3 (In Progress)",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 37,
+    "text": "Blockchain Blockchain Fundamentals, Smart Contract Basics (Cyfrin Certified)",
+    "label": "CERTIFICATIONS",
+    "split": "test"
+  },
+  {
+    "document_id": "cc615a4f-8034-430a-bcc7-f98cf3f513c5",
+    "source_file": "CV_Yassine.pdf",
+    "page_number": 2,
+    "block_index": 38,
+    "text": "Scanné avec CamScanner",
+    "label": "OTHER",
+    "split": "test"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 0,
+    "text": "Java/JS Developer",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 1,
+    "text": "6 years of proven experience",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 2,
+    "text": "(4 years in Java Backend/1 year in NodeJS /1 year in React/Angular)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 3,
+    "text": "Phone:**********  Residence: Hod-Hasharon",
+    "label": "PERSONAL_INFORMATION",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 4,
+    "text": "Relevant Experience Summary:",
+    "label": "SUMMARY",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 5,
+    "text": "Programming languages: Java, JavaScript, Python, Go",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 6,
+    "text": "Technologies & Frameworks: Spring, Nodejs, Angular, React, Microservices Architecture",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 7,
+    "text": "Environments: Eclipse, IntelliJ IDEA , Visual Studio, WebStorm, PyCharm",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 8,
+    "text": "Databases: MySQL, HBase, Cassandra, MongoDB, Couchbase",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 9,
+    "text": "Streaming: Kafka",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 10,
+    "text": "Clouding: Heroku, Firebase, Docker/Kubernetes/OpenShift",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 11,
+    "text": "Operating systems: Linux, Windows",
+    "label": "SKILLS",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 12,
+    "text": "Professional Experience:",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 13,
+    "text": "2019 - 2020: Java Microservices / Python Developer, Amdocs (Israel, Raanana)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 14,
+    "text": "Was involved in CPQ project which allows Telecom industry to provide price configuration on delivering internet products to its customers. An example would be delivering Business Internet/Wifi to hundreds of MacDonald’s branches.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 15,
+    "text": "• Eclipse, IntelliJ, PyCharm • Kafka (Spring Cloud Stream) • RESTful Web service (Spring Boot Starter Web) • MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) • OpenShift/Docker/Kubernetes, Jenkins • PyTest/Python, JUnit • Jira, Confluence, Rally • Linux, Windows",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 16,
+    "text": "2017 - 2019: Fullstack  Java/JS Developer, Inetex LTD (Israel, Rehovot),",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 17,
+    "text": "Project: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 18,
+    "text": "Kafka (Spring Cloud Stream)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 19,
+    "text": "RESTfull Web service (Spring Boot Starter Web)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 20,
+    "text": "Authentication/Authorization (Spring Security)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 21,
+    "text": "MySQL  and MongoDB (MySQL Connector Java, Starter Data JPA)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 22,
+    "text": "Project: Social network inside the company that allows users to share knowledge (sharing and posting)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 23,
+    "text": "Angular CLI",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 24,
+    "text": "NodeJS, Express , MongoDB",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 25,
+    "text": "2014-2017:  Full stack  Java/JS Developer, WebSoft (Russia, Smolensk)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 26,
+    "text": "Project: Car renting. Service was built for the company that rents its own car to  clients",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 27,
+    "text": "RESTfull Web service (Spring Boot Starter Web)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 28,
+    "text": "Authentication/Authorization/Accounting (Spring Security)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 29,
+    "text": "Interface with MySQL (MySQL Connector Java, Starter Data JPA)",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 30,
+    "text": "Project: Web-Scrapping application that enables user to get prices of the competitors.",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 31,
+    "text": "Nodejs, MongoDB, CLI",
+    "label": "EXPERIENCE",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 32,
+    "text": "Education:",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 33,
+    "text": "2011-2013: Masters in Business Administration (Touro College, Germany)",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 34,
+    "text": "2006-2011: Masters in Computerized Economics (University of Economics, Russia)",
+    "label": "EDUCATION",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 35,
+    "text": "Language:",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 36,
+    "text": "Hebrew(fluent), English(fluent), Russian",
+    "label": "OTHER",
+    "split": "train"
+  },
+  {
+    "document_id": "119d52a5-a87f-4b10-bda3-f6fe0bcbef2d",
+    "source_file": "5.docx",
+    "page_number": 1,
+    "block_index": 37,
+    "text": "Recommendations are available upon request.",
+    "label": "VOLUNTEERING",
+    "split": "train"
+  }
+]

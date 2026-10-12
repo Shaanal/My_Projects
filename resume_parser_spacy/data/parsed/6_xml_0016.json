@@ -1,0 +1,162 @@
+{
+  "candidate": {
+    "full_name": "Tara Hahn",
+    "email": "Clark.White@mwaf.biz",
+    "phone_number": null,
+    "location": "Hyderabad, Telangana",
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://www.indeed.com/r/tara-hahn"
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "2 year Experience",
+    "current_or_most_recent_role": "Pune as a Software Test Engineer with Client"
+  },
+  "skills": {
+    "technical_skills": [
+      "Java",
+      "SQL",
+      "Windows Server",
+      "CRM",
+      "Agile",
+      "CST",
+      "E2E testing",
+      "Test Cases",
+      "PSTN",
+      "Ethernet",
+      "Regression Testing",
+      "Black Box",
+      "Manual Testing",
+      "Black Box Testing",
+      "Database",
+      "Nagious",
+      "Splunk",
+      "Manual testing concepts",
+      "Functional E2E Testing",
+      "Development of test cases",
+      "AIT"
+    ],
+    "programming_languages": [
+      "Java",
+      "SQL"
+    ],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Windows Server"
+    ],
+    "tools": [
+      "CRM"
+    ],
+    "other_relevant_technologies": [
+      "Agile",
+      "CST",
+      "E2E testing",
+      "Test Cases",
+      "PSTN",
+      "Ethernet",
+      "Regression Testing",
+      "Black Box",
+      "Manual Testing",
+      "Black Box Testing",
+      "Database",
+      "Nagious",
+      "Splunk",
+      "Manual testing concepts",
+      "Functional E2E Testing",
+      "Development of test cases",
+      "AIT"
+    ]
+  },
+  "education": [
+    {
+      "degree": "BSc in Computer Science",
+      "specialization": "Computer Science",
+      "institution": null,
+      "start_year": "2015",
+      "end_year": "2015",
+      "grade": null,
+      "raw_text": "BSc in Computer Science vasundhara womens\n2015 narayana jr.college"
+    },
+    {
+      "degree": "SSC",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2012",
+      "end_year": "2012",
+      "grade": null,
+      "raw_text": "2012\nSSC"
+    },
+    {
+      "degree": "pragathi high school",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2010",
+      "end_year": "2010",
+      "grade": null,
+      "raw_text": "pragathi high school\n2010"
+    }
+  ],
+  "projects": [
+    {
+      "name": "reach Project, using Agile Methodologies",
+      "summary": ".",
+      "technology_stack": [],
+      "role": null,
+      "responsibilities": []
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Accenture\n",
+      "designation": "Pune as a Software Test Engineer with Client",
+      "location": "Pune",
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Working currently with Accenture services",
+        "Experience in automating provision journey in QTP (UFT)",
+        "Good understanding of the project with deep domain knowledge of Telecom with respect to Provisioning and Assurance.",
+        "Expertise in functional, CST, Integration and E2E testing on CRM application for the BT Assurance journey with respect to different products.",
+        "Expertise in understanding of the new requirements and developing test cases for new features being implemented in the code base and executing them.",
+        "Good in understanding of the change with involvement in regular solution design discussions, technical changes discussions with Solution Designers and Stake holders accordingly.",
+        "Proficient with the SDLC , STLC and Defect life cycle .",
+        "Mentored new joiners on the Overall view of the project, Features and Functionality of Testing."
+      ],
+      "technologies_used": [
+        "CST",
+        "E2E testing",
+        "Test Cases"
+      ],
+      "raw_text": "( 2 year Experience)\nWorking currently with Accenture services\nPune as a Software Test Engineer with Client\nAccenture on British Telecom Open\nExperience in automating provision journey in QTP (UFT)\nGood understanding of the project with deep domain knowledge of Telecom with respect to Provisioning and Assurance.\nExpertise in functional, CST, Integration and E2E testing on CRM application for the BT Assurance journey with respect to different products.\nExpertise in understanding of the new requirements and developing test cases for new features being implemented in the code base and executing them.\nGood in understanding of the change with involvement in regular solution design discussions, technical changes discussions with Solution Designers and Stake holders accordingly.\nProficient with the SDLC , STLC and Defect life cycle .\nExcellent communication\nMentored new joiners on the Overall view of the project, Features and Functionality of Testing."
+    },
+    {
+      "company": "Accenture\n",
+      "designation": "Willing to relocate: Anywhere Software Engineer Accenture -",
+      "location": "Hyderabad, Telangana",
+      "start_date": "December 2015",
+      "end_date": "Present",
+      "responsibilities": [
+        "BT Openreach is responsible for looking after the local network (connection from your property to local exchange) that makes the running of telecommunication services possible. BT helps to provide lines for telephone connection. It has products like PSTN, Ethernet, NGA, and LLU. BT acts as an intermediate between customer and connection provider.",
+        "BT Openreach is a software module which manages BT business right from the placement of the order, managing appointments, monitoring status to order completion.",
+        "Liberty global international (LGI):",
+        "Presently working as a application support Engineer for LGI.",
+        "Received appreciation excuting high number of test cases with in the given time Received appreciation from Client for finding show stopper defects.",
+        "Received appreciate for identifying P1 issue within the SLA"
+      ],
+      "technologies_used": [
+        "PSTN",
+        "Ethernet",
+        "Test Cases"
+      ],
+      "raw_text": "Willing to relocate: Anywhere Software Engineer Accenture -\nHyderabad, Telangana\n-\nDecember 2015 to Present\nBT Openreach\n(British Telecom)\nBT Openreach is responsible for looking after the local network (connection from your property to local exchange) that makes the running of telecommunication services possible. BT helps to provide lines for telephone connection. It has products like PSTN, Ethernet, NGA, and LLU. BT acts as an intermediate between customer and connection provider.\nBT Openreach is a software module which manages BT business right from the placement of the order, managing appointments, monitoring status to order completion.\nLiberty global international (LGI):\nPresently working as a application support Engineer for LGI.\nAcheviments:\nReceived appreciation excuting high number of test cases with in the given time Received appreciation from Client for finding show stopper defects.\nReceived appreciate for identifying P1 issue within the SLA"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

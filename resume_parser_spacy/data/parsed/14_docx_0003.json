@@ -1,0 +1,222 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": "Rehovot, Israel",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Senior solution architect with wide experience of creating and maintaining IT systems. Deep knowledge of C#, JavaScript, SQL, PHP and many other technologies; 10+ experience in Microsoft technologies. I've implemented a large number of projects on SharePoint (2007, 2010 and 2019) platforms. Developed applications both for SharePoint and standalone, integrated them with external databases and webservices. Over fifteen years experience in programming and a Master degree in engineering makes me capable of executing complicated and challenging projects. My family and I did Alia last year and Im looking for a company to continue my career in Israel.",
+    "career_objective": null,
+    "total_experience": "16 years 1 month",
+    "current_or_most_recent_role": "Senior Software Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "C#",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "HTML",
+      "CSS",
+      "PowerShell",
+      "Bash",
+      "ASP.NET",
+      "React",
+      "jQuery",
+      "Node.js",
+      ".NET",
+      "Microsoft SQL Server",
+      "MySQL",
+      "SharePoint",
+      "Linux",
+      "TeamCity",
+      "Active Directory",
+      "IIS",
+      "Bitbucket",
+      "Visual Studio",
+      "Databases",
+      "XML",
+      "DOM",
+      "Windows cmd",
+      "Development applications",
+      "web-services",
+      "MVC",
+      "Windows cmd-scripts",
+      "Development applications for SharePoint web-parts",
+      "Web-master"
+    ],
+    "programming_languages": [
+      "C#",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "HTML",
+      "CSS",
+      "PowerShell",
+      "Bash"
+    ],
+    "frameworks": [
+      "ASP.NET",
+      "React",
+      "jQuery",
+      "Node.js",
+      ".NET"
+    ],
+    "libraries": [],
+    "databases": [
+      "Microsoft SQL Server",
+      "MySQL"
+    ],
+    "cloud_technologies": [
+      "SharePoint"
+    ],
+    "devops_infrastructure": [
+      "Linux",
+      "TeamCity",
+      "Active Directory",
+      "IIS"
+    ],
+    "tools": [
+      "Bitbucket",
+      "Visual Studio"
+    ],
+    "other_relevant_technologies": [
+      "Databases",
+      "XML",
+      "DOM",
+      "Windows cmd",
+      "Development applications",
+      "web-services",
+      "MVC",
+      "Windows cmd-scripts",
+      "Development applications for SharePoint web-parts",
+      "Web-master"
+    ]
+  },
+  "education": [
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "1998",
+      "end_year": "2012",
+      "grade": null,
+      "raw_text": "1998 .\nMost recent courses:\nSharePoint 2016: Administration (Microsoft); IIS 7.5 Administration and troubleshooting (Microsoft);\nVisual Studio 2012 ALM Testing Tools (Microsoft)"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": "Senior Software Engineer",
+      "location": "GPB, financial company",
+      "start_date": "2008",
+      "end_date": "2022",
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "2008 2022 GPB, financial company\n. Senior Software Engineer"
+    },
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": "2010",
+      "end_date": "2019",
+      "responsibilities": [
+        "I successfully completed the Portal migration from SharePoint 2010 to SharePoint 2019 - 25k+ active users, ~1Tb content databases, about 50 various applications and customizations. I made a substantial analysis of the existing system, its infrastructure, applications and integration with external systems. I created a migration plan and then managed the process, also I developed and implemented several applications for direct data migration from SharePoint 2010 to 2019."
+      ],
+      "technologies_used": [
+        "SharePoint",
+        "Databases"
+      ],
+      "raw_text": "I successfully completed the Portal migration from SharePoint 2010 to SharePoint 2019 - 25k+ active users, ~1Tb content databases, about 50 various applications and customizations. I made a substantial analysis of the existing system, its infrastructure, applications and integration with external systems. I created a migration plan and then managed the process, also I developed and implemented several applications for direct data migration from SharePoint 2010 to 2019."
+    },
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": "2019",
+      "end_date": null,
+      "responsibilities": [
+        "Automated the development process based on SharePoint 2019 and Net.Core applications with TeamCity, Bitbucket. Successfully leaded the team of 13 employees. Managed full stack development from receiving a task to a complete solution."
+      ],
+      "technologies_used": [
+        "SharePoint",
+        "TeamCity",
+        "Bitbucket"
+      ],
+      "raw_text": "Automated the development process based on SharePoint 2019 and Net.Core applications with TeamCity, Bitbucket. Successfully leaded the team of 13 employees. Managed full stack development from receiving a task to a complete solution."
+    },
+    {
+      "company": null,
+      "designation": "Software Engineer",
+      "location": null,
+      "start_date": "2010",
+      "end_date": "2015",
+      "responsibilities": [
+        "Developed an Employee information application (Asp.net, C#, MSSQL, SharePoint) with custom database, integrated with employee accounting system and Active Directory. Aggregation data from several databases, synchronous and asynchronous exchanges between different data sources. Created a number"
+      ],
+      "technologies_used": [
+        "SharePoint",
+        "ASP.NET",
+        "C#",
+        "Microsoft SQL Server",
+        "Active Directory",
+        "Databases"
+      ],
+      "raw_text": "2010 - 2015. Full-stack SharePoint Software developer.\nFull life cycle support of the Portal system based on Microsoft SharePoint. Collaborated with contractors to offer and then develop and implement different solutions. Integrate various features and technical specifications of applications, continuous functionality of the Portal system, developed SharePoint solutions for internal needs.\nDeveloped an Employee information application (Asp.net, C#, MSSQL, SharePoint) with custom database, integrated with employee accounting system and Active Directory. Aggregation data from several databases, synchronous and asynchronous exchanges between different data sources. Created a number\nof applications that use SharePoint objects as datasource, custom web-parts for SharePoint."
+    },
+    {
+      "company": null,
+      "designation": "Software Engineer",
+      "location": null,
+      "start_date": "2008",
+      "end_date": "2010",
+      "responsibilities": [
+        "Development of simple applications and functions for internal needs of the company - polls, photogallery, making promo-pages. Simple SQL requests and usage in web-applications."
+      ],
+      "technologies_used": [
+        "SQL"
+      ],
+      "raw_text": "2008 2010. Junior software developer.\nDevelopment of simple applications and functions for internal needs of the company - polls, photogallery, making promo-pages. Simple SQL requests and usage in web-applications."
+    },
+    {
+      "company": "air flights organization",
+      "designation": "Head engineer",
+      "location": null,
+      "start_date": "2007",
+      "end_date": "2008",
+      "responsibilities": [
+        "Created and supported company web-sites on PHP and MySQL using self-made CMS."
+      ],
+      "technologies_used": [
+        "PHP",
+        "MySQL"
+      ],
+      "raw_text": "2007 2008. Traverse avia service, air flights organization, Head engineer\nCreated and supported company web-sites on PHP and MySQL using self-made CMS."
+    },
+    {
+      "company": "pharmaceutical company",
+      "designation": "IT-specialist",
+      "location": null,
+      "start_date": "2006",
+      "end_date": "2007",
+      "responsibilities": [
+        "Developed a multivariable search system of drugs in pharmacies in Moscow using PHP and MySQL, a website search system with multivariable filters."
+      ],
+      "technologies_used": [
+        "PHP",
+        "MySQL",
+        "Web-master"
+      ],
+      "raw_text": "2006 2007. Protek, pharmaceutical company, IT-specialist\nDeveloped a multivariable search system of drugs in pharmacies in Moscow using PHP and MySQL, a website search system with multivariable filters.\n. RBC, Media company, Web-master\nMember of a team of developers."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

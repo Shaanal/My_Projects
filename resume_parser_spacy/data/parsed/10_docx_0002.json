@@ -1,0 +1,245 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": "Herzliya",
+    "linkedin": "https://www.linkedin.com/in/fastex",
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "WEB FRONTEND DEVELOPER 5 years of experience in frontend development",
+    "career_objective": null,
+    "total_experience": "5 years of experience",
+    "current_or_most_recent_role": "Frontend Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "React",
+      "React Native",
+      "Angular",
+      "jQuery",
+      "Redux",
+      "Bootstrap",
+      "MySQL",
+      "Linux",
+      "Windows Server",
+      "Visual Studio Code",
+      "GitHub",
+      "Adobe Photoshop",
+      "Figma",
+      "WordPress",
+      "SASS",
+      "Pug/Jade",
+      "Haml",
+      "Anime.js",
+      "TinyMCE",
+      "Material UI",
+      "MacOS",
+      "iOS",
+      "Android",
+      "constructors"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Node.js",
+      "React",
+      "React Native",
+      "Angular",
+      "jQuery",
+      "Redux",
+      "Bootstrap"
+    ],
+    "libraries": [],
+    "databases": [
+      "MySQL"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Linux",
+      "Windows Server"
+    ],
+    "tools": [
+      "Visual Studio Code",
+      "GitHub",
+      "Adobe Photoshop",
+      "Figma",
+      "WordPress"
+    ],
+    "other_relevant_technologies": [
+      "SASS",
+      "Pug/Jade",
+      "Haml",
+      "Anime.js",
+      "TinyMCE",
+      "Material UI",
+      "MacOS",
+      "iOS",
+      "Android",
+      "constructors"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Diploma in Engineering",
+      "specialization": null,
+      "institution": "2012- 2017: O.M. Beketov National University of Urban Economy in Kharkiv.",
+      "start_year": "2012",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "2012- 2017: O.M. Beketov National University of Urban Economy in Kharkiv.\nDiploma in Engineering, Heat supply, gas supply and ventilation."
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Programming languages: JavaScript, TypeScript, PHP Web: HTML, CSS, SASS, JavaScript, TypeScript, Pug/Jade, Haml, NodeJS, Gulp, Webpack"
+      ],
+      "technologies_used": [
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "SASS",
+        "Pug/Jade",
+        "Haml"
+      ],
+      "raw_text": "Programming languages: JavaScript, TypeScript, PHP Web: HTML, CSS, SASS, JavaScript, TypeScript, Pug/Jade, Haml, NodeJS, Gulp, Webpack"
+    },
+    {
+      "company": "Frameworks: React, React Native, Angular",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Libraries: jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tilwind and more..",
+        "Environments – IDE/tools: PhpStorm, VS Code, GitHub, Adobe Photoshop, Figma."
+      ],
+      "technologies_used": [
+        "React",
+        "React Native",
+        "Angular",
+        "jQuery",
+        "Redux",
+        "Bootstrap",
+        "Anime.js",
+        "TinyMCE",
+        "Material UI",
+        "Visual Studio Code",
+        "GitHub",
+        "Adobe Photoshop",
+        "Figma"
+      ],
+      "raw_text": "Frameworks: React, React Native, Angular\nLibraries: jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tilwind and more..\nEnvironments – IDE/tools: PhpStorm, VS Code, GitHub, Adobe Photoshop, Figma."
+    },
+    {
+      "company": "Databases: MySQL",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [
+        "MySQL"
+      ],
+      "raw_text": "Databases: MySQL"
+    },
+    {
+      "company": "part-time)",
+      "designation": "Frontend Engineer",
+      "location": null,
+      "start_date": "2021",
+      "end_date": "Present",
+      "responsibilities": [
+        "System: Windows, Linux, MacOS",
+        "-- WPG (Nitzana, Israel)"
+      ],
+      "technologies_used": [
+        "Linux",
+        "MacOS"
+      ],
+      "raw_text": "System: Windows, Linux, MacOS\n2021-present: Frontend developer (remote, part-time)\n-- WPG (Nitzana, Israel)"
+    },
+    {
+      "company": null,
+      "designation": "Frontend Engineer",
+      "location": null,
+      "start_date": "2017",
+      "end_date": "2021",
+      "responsibilities": [
+        "Support and development of game sites for cryptocurrencies casino.",
+        "Development of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets.",
+        "-- WPG (Kharkiv , Ukraine)",
+        "Support and development of the functionality of a large network of auto parts stores.",
+        "Support and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.",
+        "Development of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native."
+      ],
+      "technologies_used": [
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "React Native",
+        "iOS",
+        "Android",
+        "constructors"
+      ],
+      "raw_text": "Support and development of game sites for cryptocurrencies casino.\nDevelopment of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets.\n2017-2021: Frontend developer\n-- WPG (Kharkiv , Ukraine)\nSupport and development of the functionality of a large network of auto parts stores.\nSupport and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.\nDevelopment of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native."
+    },
+    {
+      "company": "-- WPG (Kharkiv, Ukraine)",
+      "designation": null,
+      "location": "Kharkiv, Ukraine",
+      "start_date": "2016",
+      "end_date": "2017",
+      "responsibilities": [
+        "Sometimes outsourcing of small projects."
+      ],
+      "technologies_used": [
+        "HTML"
+      ],
+      "raw_text": "Sometimes outsourcing of small projects.\n2016-2017: HTML markup\n-- WPG (Kharkiv, Ukraine)"
+    },
+    {
+      "company": "-- Kharkiv, Ukraine",
+      "designation": "Freelance",
+      "location": "Kharkiv, Ukraine",
+      "start_date": "2016",
+      "end_date": null,
+      "responsibilities": [
+        "Website layout (with pixel perfect, responsive, CSS and JS animations).",
+        "HTML markup. PSD to HTML. WordPress plugins development."
+      ],
+      "technologies_used": [
+        "CSS",
+        "HTML",
+        "WordPress"
+      ],
+      "raw_text": "Website layout (with pixel perfect, responsive, CSS and JS animations).\n2016: Freelance\n-- Kharkiv, Ukraine\nHTML markup. PSD to HTML. WordPress plugins development."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

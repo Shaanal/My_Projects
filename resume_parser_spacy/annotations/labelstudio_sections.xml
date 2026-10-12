@@ -1,0 +1,19 @@
+<!-- Section annotation interface (Label Studio, one task per text block/line).
+     Used to create annotations/section_annotations.json: export JSON, then run
+     python training/prepare_section_data.py --export <export.json> -->
+<View>
+  <Text name="section_text" value="$text"/>
+  <Header value="$source_file (page $page_number, block $block_index)" size="6"/>
+  <Choices name="section_label" toName="section_text" choice="single" showInline="true">
+    <Choice value="PERSONAL_INFORMATION"/>
+    <Choice value="SUMMARY"/>
+    <Choice value="SKILLS"/>
+    <Choice value="EXPERIENCE"/>
+    <Choice value="EDUCATION"/>
+    <Choice value="PROJECTS"/>
+    <Choice value="CERTIFICATIONS"/>
+    <Choice value="ACHIEVEMENTS"/>
+    <Choice value="VOLUNTEERING"/>
+    <Choice value="OTHER"/>
+  </Choices>
+</View>

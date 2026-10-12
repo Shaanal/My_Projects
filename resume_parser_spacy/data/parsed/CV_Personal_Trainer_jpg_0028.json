@@ -1,0 +1,100 @@
+{
+  "candidate": {
+    "full_name": "New York",
+    "email": null,
+    "phone_number": null,
+    "location": "New York",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "High energy Personal Trainer with 8 years experience in personal and group fitness. Proven track record in motivating clients to safely achieve weight loss goals through detailed and effective diet plans. Certified ACE Instructor with CPR training and a talent for developing fitness programs that exceed revenue targets and increase memberships.",
+    "career_objective": null,
+    "total_experience": "8 years experience",
+    "current_or_most_recent_role": "Personal Trainer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Nutrition",
+      "Self-motivated",
+      "communicator",
+      "Organized",
+      "Energetic",
+      "Effective communicator"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Nutrition",
+      "Self-motivated",
+      "communicator",
+      "Organized",
+      "Energetic",
+      "Effective communicator"
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Blink Fitness",
+      "designation": "Personal Trainer",
+      "location": "New York",
+      "start_date": "October 2023",
+      "end_date": "Present",
+      "responsibilities": [
+        "Personal Trainer, Blink Fitness, New York",
+        "Blink Fitness is an inclusive fitness brand with state-of-the-art gyms in more than",
+        "90 locations across the US. As the Personal Trainer, my core activities include:",
+        "Preparing comprehensive diet plans based on clients’ weight and health goals.",
+        "Assisting with marketing efforts to retain existing clients."
+      ],
+      "technologies_used": [],
+      "raw_text": "Personal Trainer, Blink Fitness, New York\nOctober 2023 — Present\nBlink Fitness is an inclusive fitness brand with state-of-the-art gyms in more than\n90 locations across the US. As the Personal Trainer, my core activities include:\nPreparing comprehensive diet plans based on clients’ weight and health goals.\nAssisting with marketing efforts to retain existing clients."
+    },
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": "2017",
+      "end_date": null,
+      "responsibilities": [
+        "Leading fitness groups of 10-20 clients three times per week.",
+        "Developing new fitness workshops. Increased new memberships by 32% by"
+      ],
+      "technologies_used": [],
+      "raw_text": "Leading fitness groups of 10-20 clients three times per week.\nDeveloping new fitness workshops. Increased new memberships by 32% by\nend of 2017."
+    },
+    {
+      "company": "Astor Place",
+      "designation": "Personal Trainer",
+      "location": "New York",
+      "start_date": "April 2022",
+      "end_date": "September 2024",
+      "responsibilities": [
+        "Tracking client progress using specialized software to generate accurate reports.",
+        "Personal Trainer, Astor Place, New York",
+        "NYSC Flagship Astor Place is a high-end health club in New York. As the Personal",
+        "Trainer, my core activities included:",
+        "Designing and implementing tailored fitness programs for upscale clients.",
+        "Training 70 clients per month where 85% reached their fitness goals within six weeks.",
+        "Advising individual clients on health, nutrition, and lifestyle changes.",
+        "Providing clients with safe and effective exercises they can perform at home.",
+        "Demonstrating exercises for all clients to ensure proper technique."
+      ],
+      "technologies_used": [
+        "Nutrition"
+      ],
+      "raw_text": "Tracking client progress using specialized software to generate accurate reports.\nPersonal Trainer, Astor Place, New York\nApril 2022 — September 2024\nNYSC Flagship Astor Place is a high-end health club in New York. As the Personal\nTrainer, my core activities included:\nDesigning and implementing tailored fitness programs for upscale clients.\nTraining 70 clients per month where 85% reached their fitness goals within six weeks.\nAdvising individual clients on health, nutrition, and lifestyle changes.\nProviding clients with safe and effective exercises they can perform at home.\nDemonstrating exercises for all clients to ensure proper technique."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

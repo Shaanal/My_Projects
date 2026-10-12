@@ -1,0 +1,856 @@
+{
+  "approach": "A: spaCy CNN NER + TF-IDF/LogReg sections + char n-gram skill matching",
+  "components": {
+    "approach": "A: spaCy CNN NER + TF-IDF/LogReg sections + char n-gram skill matching",
+    "ner_model": "models/resume_ner_spacy_vectors/model-best",
+    "section_model": "models/section_classifier/section_classifier.joblib"
+  },
+  "results": {
+    "baseline (rules + ontology)": {
+      "fields": {
+        "full_name": {
+          "score": 0.8571,
+          "documents": 28
+        },
+        "email": {
+          "score": 1.0,
+          "documents": 27
+        },
+        "location": {
+          "score": 0.5667,
+          "documents": 30
+        },
+        "skills": {
+          "score": 0.3764,
+          "documents": 29
+        },
+        "degree": {
+          "score": 0.6034,
+          "documents": 29
+        },
+        "institution": {
+          "score": 0.6217,
+          "documents": 27
+        },
+        "company": {
+          "score": 0.2914,
+          "documents": 29
+        },
+        "designation": {
+          "score": 0.3732,
+          "documents": 29
+        }
+      },
+      "document_mean_score": 0.595,
+      "documents_fully_correct": 0.0323,
+      "per_document": [
+        {
+          "resume_id": "199",
+          "scores": {
+            "full_name": 1.0,
+            "location": 1.0,
+            "skills": 0.8275862068965517,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "170",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.4230769230769231,
+            "degree": 0.4,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "78",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.8,
+            "degree": 0.5,
+            "institution": 0.0
+          }
+        },
+        {
+          "resume_id": "256",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.0,
+            "degree": 0.0,
+            "institution": 0.25,
+            "company": 0.7272727272727272,
+            "designation": 0.36363636363636365
+          }
+        },
+        {
+          "resume_id": "90",
+          "scores": {
+            "full_name": 1.0
+          }
+        },
+        {
+          "resume_id": "172",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.6333333333333333,
+            "degree": 0.5,
+            "institution": 0.0,
+            "company": 0.3333333333333333,
+            "designation": 0.5714285714285715
+          }
+        },
+        {
+          "resume_id": "101",
+          "scores": {
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.09090909090909091,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 0.6153846153846154
+          }
+        },
+        {
+          "resume_id": "227",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.0,
+            "degree": 0.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "305",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.4615384615384615,
+            "degree": 0.5,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "20",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.23333333333333336,
+            "degree": 0.0,
+            "institution": 1.0,
+            "company": 0.33333333333333337,
+            "designation": 0.33333333333333337
+          }
+        },
+        {
+          "resume_id": "292",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.2222222222222222,
+            "degree": 0.7272727272727272,
+            "institution": 0.9090909090909091,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "92",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.125,
+            "degree": 0.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 0.8
+          }
+        },
+        {
+          "resume_id": "190",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.2702702702702703,
+            "company": 0.12500000000000003,
+            "designation": 0.3
+          }
+        },
+        {
+          "resume_id": "79",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "degree": 1.0,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "110",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.5714285714285715,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 0.7499999999999999
+          }
+        },
+        {
+          "resume_id": "52",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.0,
+            "degree": 0.0,
+            "company": 0.4,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "206",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.4444444444444444,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "2",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.5660377358490566,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.5,
+            "designation": 0.6666666666666666
+          }
+        },
+        {
+          "resume_id": "141",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.5,
+            "degree": 0.5714285714285715,
+            "institution": 0.7272727272727273,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "112",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.0,
+            "degree": 0.4,
+            "institution": 1.0,
+            "company": 0.25,
+            "designation": 0.125
+          }
+        },
+        {
+          "resume_id": "113",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.0,
+            "degree": 0.25,
+            "institution": 0.5,
+            "company": 0.5714285714285715,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "294",
+          "scores": {
+            "full_name": 1.0,
+            "location": 0.0,
+            "skills": 0.0,
+            "degree": 0.0,
+            "institution": 0.0,
+            "company": 0.14285714285714285,
+            "designation": 0.26666666666666666
+          }
+        },
+        {
+          "resume_id": "139",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.48,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "71",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.3333333333333333,
+            "degree": 1.0,
+            "institution": 0.4,
+            "company": 0.6666666666666666,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "146",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.8444444444444444,
+            "degree": 0.6666666666666666,
+            "institution": 0.5,
+            "company": 0.4,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "163",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.3636363636363637,
+            "degree": 0.18181818181818182,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "201",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.28571428571428575,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 0.2857142857142857
+          }
+        },
+        {
+          "resume_id": "211",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.5161290322580644,
+            "degree": 0.8,
+            "institution": 0.5,
+            "company": 0.0,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "225",
+          "scores": {
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.7222222222222222,
+            "degree": 1.0,
+            "company": 0.6666666666666666,
+            "designation": 0.5714285714285715
+          }
+        },
+        {
+          "resume_id": "11",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.28571428571428575,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.6666666666666666,
+            "designation": 0.2857142857142857
+          }
+        },
+        {
+          "resume_id": "150",
+          "scores": {
+            "location": 1.0,
+            "skills": 0.9166666666666666,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.6666666666666666,
+            "designation": 0.888888888888889
+          }
+        }
+      ]
+    },
+    "full system": {
+      "fields": {
+        "full_name": {
+          "score": 0.8929,
+          "documents": 28
+        },
+        "email": {
+          "score": 1.0,
+          "documents": 27
+        },
+        "location": {
+          "score": 0.5667,
+          "documents": 30
+        },
+        "skills": {
+          "score": 0.4563,
+          "documents": 29
+        },
+        "degree": {
+          "score": 0.7565,
+          "documents": 29
+        },
+        "institution": {
+          "score": 0.66,
+          "documents": 27
+        },
+        "company": {
+          "score": 0.4763,
+          "documents": 29
+        },
+        "designation": {
+          "score": 0.5713,
+          "documents": 29
+        }
+      },
+      "document_mean_score": 0.6783,
+      "documents_fully_correct": 0.0323,
+      "per_document": [
+        {
+          "resume_id": "199",
+          "scores": {
+            "full_name": 1.0,
+            "location": 1.0,
+            "skills": 0.8484848484848485,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 0.6666666666666666
+          }
+        },
+        {
+          "resume_id": "170",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.4411764705882353,
+            "degree": 0.4444444444444445,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.4
+          }
+        },
+        {
+          "resume_id": "78",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.8,
+            "degree": 0.5,
+            "institution": 0.0
+          }
+        },
+        {
+          "resume_id": "256",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.4,
+            "degree": 0.8,
+            "institution": 0.6666666666666666,
+            "company": 0.7692307692307692,
+            "designation": 0.6153846153846154
+          }
+        },
+        {
+          "resume_id": "90",
+          "scores": {
+            "full_name": 1.0
+          }
+        },
+        {
+          "resume_id": "172",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.6984126984126984,
+            "degree": 0.5,
+            "institution": 0.0,
+            "company": 0.6666666666666666,
+            "designation": 0.7499999999999999
+          }
+        },
+        {
+          "resume_id": "101",
+          "scores": {
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.39999999999999997,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.6666666666666666,
+            "designation": 0.7999999999999999
+          }
+        },
+        {
+          "resume_id": "227",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.3157894736842105,
+            "degree": 0.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "305",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.5333333333333333,
+            "degree": 0.5,
+            "institution": 0.28571428571428575,
+            "company": 0.26666666666666666,
+            "designation": 0.33333333333333337
+          }
+        },
+        {
+          "resume_id": "20",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.3013698630136986,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.5714285714285715,
+            "designation": 0.5714285714285715
+          }
+        },
+        {
+          "resume_id": "292",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.3225806451612903,
+            "degree": 0.7272727272727272,
+            "institution": 0.8000000000000002,
+            "company": 0.0,
+            "designation": 0.37499999999999994
+          }
+        },
+        {
+          "resume_id": "92",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.125,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 0.8
+          }
+        },
+        {
+          "resume_id": "190",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.4375,
+            "company": 0.23529411764705882,
+            "designation": 0.47619047619047616
+          }
+        },
+        {
+          "resume_id": "79",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "degree": 0.0,
+            "institution": 0.0,
+            "company": 1.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "110",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.7272727272727272,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.5,
+            "designation": 0.7499999999999999
+          }
+        },
+        {
+          "resume_id": "52",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.0,
+            "degree": 1.0,
+            "company": 0.3333333333333333,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "206",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.4,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "2",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.5660377358490566,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 0.6666666666666666
+          }
+        },
+        {
+          "resume_id": "141",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.4,
+            "degree": 0.5714285714285715,
+            "institution": 0.6666666666666665,
+            "company": 0.0,
+            "designation": 0.4
+          }
+        },
+        {
+          "resume_id": "112",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.24,
+            "degree": 0.8,
+            "institution": 1.0,
+            "company": 0.25,
+            "designation": 0.33333333333333337
+          }
+        },
+        {
+          "resume_id": "113",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.0,
+            "degree": 0.5,
+            "institution": 0.5,
+            "company": 0.28571428571428575,
+            "designation": 0.8
+          }
+        },
+        {
+          "resume_id": "294",
+          "scores": {
+            "full_name": 1.0,
+            "location": 0.0,
+            "skills": 0.0,
+            "degree": 0.6666666666666666,
+            "institution": 0.5,
+            "company": 0.13333333333333333,
+            "designation": 0.3333333333333333
+          }
+        },
+        {
+          "resume_id": "139",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.5925925925925927,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.0,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "71",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.3333333333333333,
+            "degree": 1.0,
+            "institution": 0.4,
+            "company": 0.6666666666666666,
+            "designation": 1.0
+          }
+        },
+        {
+          "resume_id": "146",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.7916666666666667,
+            "degree": 0.6666666666666666,
+            "institution": 0.5,
+            "company": 0.4,
+            "designation": 0.0
+          }
+        },
+        {
+          "resume_id": "163",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.4,
+            "degree": 0.4615384615384615,
+            "institution": 0.0,
+            "company": 0.0,
+            "designation": 0.2857142857142857
+          }
+        },
+        {
+          "resume_id": "201",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.4848484848484849,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 1.0,
+            "designation": 0.2857142857142857
+          }
+        },
+        {
+          "resume_id": "211",
+          "scores": {
+            "full_name": 0.0,
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.6470588235294118,
+            "degree": 0.8,
+            "institution": 0.5,
+            "company": 0.4,
+            "designation": 0.25
+          }
+        },
+        {
+          "resume_id": "225",
+          "scores": {
+            "email": 1.0,
+            "location": 0.0,
+            "skills": 0.7692307692307692,
+            "degree": 1.0,
+            "company": 0.5,
+            "designation": 0.5
+          }
+        },
+        {
+          "resume_id": "11",
+          "scores": {
+            "full_name": 1.0,
+            "email": 1.0,
+            "location": 1.0,
+            "skills": 0.33333333333333326,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.6666666666666666,
+            "designation": 0.2857142857142857
+          }
+        },
+        {
+          "resume_id": "150",
+          "scores": {
+            "location": 1.0,
+            "skills": 0.923076923076923,
+            "degree": 1.0,
+            "institution": 1.0,
+            "company": 0.5,
+            "designation": 0.888888888888889
+          }
+        }
+      ]
+    }
+  }
+}

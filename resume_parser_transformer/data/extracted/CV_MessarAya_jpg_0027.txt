@@ -1,0 +1,48 @@
+AYA MESSAR
+
+AI ENGINEER
+
+Algeria | ayamessar00@gmail.com | 0699556714
+
+ 
+
+PROFILE
+
+Master's graduate in Intelligent Systems Engineering with real-world experience in AI, NLP, and software development.
+Interested in creating intelligent solutions and enhancing technical and problem-solving abilities continuously in
+practical settings
+
+TECHNICAL SKILLS
+Programming Languages Frameworks & Libraries Tools & Platforms
+Python , Java, SQL, JavaScript, PHP —_FastAPI, Flask, Angular, TensorFlow, Git, GitLab, Docker, Google
+» Scala (basic) PyTorch, Keras, scikit-learn, Hugging Face — Colab,n8n,Odoo, Jupyter Notebook,
+
+Transformers, OpenCV, Streamlit VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Junior Data Scientist — -Yusr Nov 2025 - Present
+Dely Brahim - Algiers
+• Contribute to developing Al-based solutions for internal projects.
+Assist in data preparation, analysis, and building basic machine learning models.
+• Support the team in testing and improving existing AI pipelines.
+¢ work on Odoo modules to help integrate AI features into internal tools
+
+Intern - AI Engineering Intern , CM Consulting Dec 2025 - Jul 2025
+Ben Aknoun - Algiers
+
+• Built an internal assistant using Retrieval-Augmented Generation (RAG) and LLMs to answer queries.
+• Developed the frontend in Angular and backend in FastAPI, integrating with a PostgreSQL database.
+
+• Designed custom AI pipelines for document retrieval and answer generation.
+
+• Deployed services using Docker and managed development with GitLab.
+
+© automating workflow using n8n
+
+Intern — Mobile Application Developer , CASNOS Jan 2023 - Jun 2023
+Blida
+
+• Built a native Android app using Java, PHP, and MySQL.
+• Integrated RESTful APIs for real-time document status, payment tracking, and online service requests.
+• Followed MVC architecture for backend development.

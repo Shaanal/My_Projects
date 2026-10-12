@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Darcel Abshire</label>
+<label type="Location">Bengaluru, Karnataka</label> - Email me on Indeed: <label type="Email Address">Marquetta.Lockman@kgas.org</label>
+
+• <label type="Years of Experience">3 years</label> of experience in IT industry, involved in <label type="Job Specific Skills">Software Testing</label>.
+• Proficient in development of <label type="Job Specific Skills">Test Plans</label>, <label type="Job Specific Skills">Functional test scripts</label>for <label type="Job Specific Skills">Functionality Testing</label> and
+<label type="Job Specific Skills">Integration Testing</label>, <label type="Job Specific Skills">Test Execution</label>, <label type="Job Specific Skills">Defect Reporting</label>, <label type="Job Specific Skills">RegressionTesting</label>.
+• Very Good in <label type="Job Specific Skills">GUI</label>, <label type="Job Specific Skills">Functional and Performance testing</label>.
+• Well Acquainted With <label type="Job Specific Skills">Bug Tracking Tools</label> like <label type="Tech Tools">CDETS</label>, <label type="Tech Tools">BUG SCRUBBER</label>, <label type="Tech Tools">MANTIS</label>, <label type="Tech Tools">JIRA</label>
+• Profound Knowledge in <label type="Job Specific Skills">Software Testing Life Cycle</label>.
+• Involved in Preparing Test Cases and Test Reports.
+• Knowledge on Quality Standards like ISO
+• CCNA certified
+• Very good knowledge in <label type="Job Specific Skills">security testing</label>.
+• Knowledge in <label type="Tech Tools">Python</label> scripting.
+
+WORK EXPERIENCE
+
+<label type="Companies worked at">Cisco SystemsIndPvtLtd</label> -  <label type="Location">Bengaluru, Karnataka</label> -
+
+<label type="Years of Experience">September 2012 to Present</label>
+
+under the payroll of GoldStone Technologies
+
+Agile team Member, Testing, Security testing
+
+<label type="Companies worked at">Cisco SystemsIndPvtLtd</label> -  <label type="Location">Bengaluru, Karnataka</label> -
+
+<label type="Years of Experience">September 2012 to Present
+
+Duration Sep 2012</label> - Till date
+Team Size 15 Members
+Role Agile team Member, Testing, Security testing
+
+Description:
+CSPC is a collector which is integrated with different CSOs (Common Service Objects) like the
+device discovery CSO, core collection, connectivity and data normalization. Together we call as
+CSPC or Common Services Platform Collector.CSPC-NOS is an add-on service which is written
+on top of the CSPC i.e., extra software written by the Nos team based on the CSPC 2.0 base
+code to cater to a group of customers. CSPC-NOS support on both Windows and Linux Cent OS
+platform. The Windows CSPC-NOS client can connect to the CSPC-NOS Linux server and vice-
+versa. Devices can be added manually or using the import seed file. When importing a seed file/
+When Device discovery is triggered the Device discovery module collects light inventory data
+from the devices. The light inventory data contain information like Sys Object Id, device family,
+OS-version etc. . (This information collected can be seen by going to Reports-&gt;Managed Devices)
+This light inventory data is used by the inventory module to load the model rule for the respective
+device. This data is also used by the base collector to decide whether the device is managed
+or unmanaged.
+
+Responsibilities:
+
+https://www.indeed.com/r/darcel-abshire
+
+
+➢ Involved Identifying Scenarios to be tested
+➢ <label type="Job Specific Skills">Preparing Test Cases</label>
+➢ <label type="Job Specific Skills">Executing Test Cases</label>
+➢ A<label type="Job Specific Skills">utomating Testcases</label> using <label type="Tech Tools">TCL</label> scripting
+➢ Preparing Progress Report for Sign Off
+➢ <label type="Job Specific Skills">Test Plan</label>
+➢ Traceability Matrix
+➢ <label type="Job Specific Skills">Order Progression</label>
+➢ Raising and reporting defects to dev team
+➢ Defect Management on monthly basis
+➢ Participated in Defect prevention meetings on quarterly basis to reduce defect density.
+Security Testing:
+➢ <label type="Job Specific Skills">Threat Modelling</label>
+➢ Gap Analysis using CSERV
+➢ Manual Penetration Testing (Proxy testing and SSL scanning)
+➢ Vulnerability Assessment using Nessus and Retina tools
+
+DECLARATION
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear
+the responsibility for the correctness of the above-mentioned particulars.
+
+Date:
+Place:<label type="Location">Bangalore ( G Tejasri)</label>
+
+EDUCATION
+
+<label type="Degree">B.Tech</label> in <label type="College Name">Electrical and Electronics Engineering
+
+Pondicherry University</label> -  <label type="Location">Puducherry</label>, <label type="Location">Puducherry
+</label>
+<label type="Degree">M.Tech</label> in <label type="College Name">Power Electronics and Instrumentation Engineering
+
+Jawaharlal Nehru Technological University</label>
+
+SKILLS
+
+<label type="Job Specific Skills">Gap Analysis</label> (5 years), <label type="Tech Tools">Nessus</label> (5 years), <label type="Job Specific Skills">Security</label> (5 years), <label type="Tech Tools">SSL</label> (5 years), <label type="Job Specific Skills">testing</label> (5 years)
+
+ADDITIONAL INFORMATION
+
+SKILL SET
+<label type="Job Specific Skills">Databases</label>: <label type="Tech Tools">Oracle</label> &amp;<label type="Tech Tools">SQL Server</label>
+Operating System: <label type="Tech Tools">MS-DOS</label>, <label type="Tech Tools">Windows</label> 98/XP &amp;<label type="Tech Tools">UNIX</label>, <label type="Tech Tools">Windows</label> 7
+Languages: <label type="Tech Tools">C</label>, <label type="Tech Tools">C++</label>
+Testing Tools: <label type="Tech Tools">Q.T.P</label>, <label type="Tech Tools">Win Runner</label>7.5, <label type="Tech Tools">Load Runner</label> 9.5
+Networking: Hands on Experience On Cisco devices, AAA, TACACS, RADIUS, VPNs
+Security: Security scans using Nessus and Retina tools, Penetration
+testing using Proxy and <label type="Tech Tools">SSL</label> scans, <label type="Job Specific Skills">GAP Analysis</label> using CSERV
+</cv>

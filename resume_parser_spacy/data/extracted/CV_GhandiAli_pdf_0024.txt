@@ -1,0 +1,79 @@
+ALI GHANDI
+[ alighandij@gmail.com
+¯ Linkedin
+u Youtube
+ Medium
+Ó +989134328961
+½ Tehran, Iran
+EXPERIENCE
+Lead AI Engineer – Wisdomise (Multinational FinTech)
+Dec 2021 – Jul 2025, Dubai
+• Joined as an early member and led an 8-person tech team to deliver
+production-grade LLM and ML solutions for crypto finance.
+• Spearheaded sentiment analysis, coin scoring, and forecasting tools
+using social, technical, and on-chain data.
+• Directed the development of a RAG-based crypto assistant with interactive document parsing and live search features.
+• Acted as Technical Product Manager, aligning cross-functional teams
+with business and data strategy goals.
+Chapter Lead of Data science team- Balad Map
+May 2020 – Feb 2022 ,Tehran
+• Led a 10-person data science chapter; drove hiring, and mentorship,
+and designed a career ladder framework.
+• Collaborated closely with product and engineering teams to align models with business needs.
+• Built the first in-house traffic prediction system without crawling external sources.
+• Initiated road bump detection via clustering and real-time user reports.
+• Boosted map search relevance by 50% using Bayesian ranking methods.
+• Developed change-point detection for real-time anomaly spotting (e.g.,
+accidents, weather).
+ML Engineer - ESI
+Oct 2017 – Jan 2020, Tehran
+• Led a 3-person team and performed data analytics for urban mobility.
+• Analyzed Tehran’s OD matrix and modeled district traffic using Gaussian processes.
+Product Manager(shareholder) at HerminaTech
+Aug 2018 – Jan 2020, Tehran
+• Designed and managed a full-cycle B2B cloud-based hotel management and reservation service.
+• Gained solid product management experience with strong cross-team
+communication skills.
+EDUCATION
+PhD, Artificial Intelligence – Sharif Univ. of Tech. 2019–25
+MSc, Artificial Intelligence – Sharif Univ. of Tech. 2017–19
+BSc, Digital Systems – Sharif Univ. of Tech. 2013–17
+SUMMARY
+AI Engineer with 8+ years of experience in
+machine learning, NLP, and AI product development, with a strong track record in applying LLMs and ML techniques across domains
+like crypto, mapping, and logistics. Proven
+ability to lead data-driven product development, align technical teams, and contribute
+to business goals—shaped by hands-on experience in both startups and complex AI systems.
+Skilled in bridging technical and business
+teams through clear communication and
+shared objectives. Passionate about continuous learning and adaptability, with a focus
+on using data and AI not as ends, but as tools
+to solve real-world problems. Experienced
+in tackling human-centered challenges and
+maintaining technical currency through active learning and collaboration with local AI
+institutions.
+WORKED WITH
+• Languages & Libraries: Python, SQL, PyS-
+park, NumPy, pandas, scikit-learn, Py-
+Torch, TensorFlow, Hugging Face
+• LLMs & NLP: OpenAI APIs (GPTs), Hugging Face Transformers, RAG, LangChain,
+Vector DBs (e.g., FAISS), Multimodal models, CLIP, Open Source LLMs (e.g., LLaMA,
+Mistral, Phi),Ollama,Vllm,TGI
+• Data Tools:
+Apache Airflow, Metabase,
+Elasticsearch (basic), Docker
+• Frameworks & Backend: Django (basic),
+FastAPI
+• MLOps & Infra:
+ML pipeline design,
+monitoring (basic),
+MLflow,
+Grafana /
+Prometheus (basic)
+• Analytics & Visualization: A/B testing, experiment tracking, matplotlib, seaborn
+RECOMMENDATIONS
+You can find professional recommendations
+on my LinkedIn profile or reach out to my colleagues directly.
+For brevity, some earlier roles and collaborations (e.g., consulting or teaching engagements
+with academic and industry partners) are not
+listed here.

@@ -1,0 +1,103 @@
+{
+  "candidate": {
+    "full_name": "ABDELKADER BERKANI",
+    "email": "aekberkani0@gmail.com",
+    "phone_number": "+213-669-021-172",
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://takiyou14.github.io/PORTFOLIO"
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "Web Developer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Data Analysis",
+      "Big Data Analytics"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Data Analysis",
+      "Big Data Analytics"
+    ]
+  },
+  "education": [
+    {
+      "degree": "BSc - Mathematics & Computer Science",
+      "specialization": "Operations Research",
+      "institution": "USTHB",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "BSc - Mathematics & Computer Science\nUSTHB\nSpecialization: Operations Research"
+    },
+    {
+      "degree": "MSc - Mathematics & Computer Science",
+      "specialization": "Big Data Analytics",
+      "institution": "USTHB",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "MSc - Mathematics & Computer Science\nUSTHB\nSpecialization: Big Data Analytics"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Multi-Store E-Commerce Platform",
+      "summary": "User accounts, shopping cart, secure checkout, and role-based admin panel for e-commerce management",
+      "technology_stack": [],
+      "role": "WEB DEVELOPER",
+      "responsibilities": [
+        "User accounts, shopping cart, secure checkout, and role-based admin panel for e-commerce management"
+      ]
+    },
+    {
+      "name": "E-Learning Platform",
+      "summary": "Course management, user roles, progress tracking, and interactive dashboards, full-stack implementation",
+      "technology_stack": [],
+      "role": "WEB DEVELOPER",
+      "responsibilities": [
+        "Course management, user roles, progress tracking, and interactive dashboards, full-stack implementation"
+      ]
+    },
+    {
+      "name": "Private School Website",
+      "summary": "+ Re tration, recruitment, programs, and role-based admin panel with permissions, secure full-stack implementation.",
+      "technology_stack": [],
+      "role": "WEB DEVELOPER",
+      "responsibilities": []
+    },
+    {
+      "name": "Club Management Platform",
+      "summary": "Team profiles, events, news, role-based permissions, and task management; full-stack implementation",
+      "technology_stack": [],
+      "role": "WEB DEVELOPER",
+      "responsibilities": [
+        "Team profiles, events, news, role-based permissions, and task management; full-stack implementation"
+      ]
+    },
+    {
+      "name": "Landing Pages",
+      "summary": "100+ responsive landing pages with clean code, optimized performance, and user-friendly design for marketing.",
+      "technology_stack": [],
+      "role": "WEB DEVELOPER",
+      "responsibilities": [
+        "100+ responsive landing pages with clean code, optimized performance, and user-friendly design for marketing."
+      ]
+    }
+  ],
+  "work_experience": [],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

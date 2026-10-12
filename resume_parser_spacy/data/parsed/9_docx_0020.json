@@ -1,0 +1,189 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": "ru.ganiyev@gmail.com",
+    "phone_number": null,
+    "location": "Tel-Aviv Area, Israel",
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://www.bayer.com/en/russia-cis-ru.aspx?tab=2"
+  },
+  "professional_information": {
+    "professional_summary": "Frontend developer",
+    "career_objective": null,
+    "total_experience": "2 years 1 month",
+    "current_or_most_recent_role": "Customer Care Associate"
+  },
+  "skills": {
+    "technical_skills": [
+      "JavaScript",
+      "Java",
+      "C#",
+      "C++",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React",
+      "Redux",
+      "Node.js",
+      "ASP.NET",
+      "AJAX",
+      "Jest",
+      "SharePoint",
+      "IntelliJ IDEA",
+      "Visual Studio",
+      "Visual Studio Code",
+      "GitHub",
+      "Adobe Photoshop",
+      "Figma",
+      "Trello",
+      "Eclipse",
+      "Slack",
+      "Git",
+      "JSON",
+      "Agile",
+      "NPM",
+      "Material UI",
+      "WebStorm",
+      "Android Studio",
+      "UML",
+      "MS Teams",
+      "LESS",
+      "React DayPicker",
+      "MomentJS",
+      "ESLint",
+      "pair-programming",
+      "IT security",
+      "production processes management",
+      "Discord"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "Java",
+      "C#",
+      "C++",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Bootstrap",
+      "React",
+      "Redux",
+      "Node.js",
+      "ASP.NET"
+    ],
+    "libraries": [
+      "AJAX",
+      "Jest"
+    ],
+    "databases": [],
+    "cloud_technologies": [
+      "SharePoint"
+    ],
+    "devops_infrastructure": [],
+    "tools": [
+      "IntelliJ IDEA",
+      "Visual Studio",
+      "Visual Studio Code",
+      "GitHub",
+      "Adobe Photoshop",
+      "Figma",
+      "Trello",
+      "Eclipse",
+      "Slack",
+      "Git"
+    ],
+    "other_relevant_technologies": [
+      "JSON",
+      "Agile",
+      "NPM",
+      "Material UI",
+      "WebStorm",
+      "Android Studio",
+      "UML",
+      "MS Teams",
+      "LESS",
+      "React DayPicker",
+      "MomentJS",
+      "ESLint",
+      "pair-programming",
+      "IT security",
+      "production processes management",
+      "Discord"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.Sc",
+      "specialization": null,
+      "institution": "Kazakh-German University (Almaty",
+      "start_year": "2017",
+      "end_year": "2018",
+      "grade": null,
+      "raw_text": "2017 – 2018 | Software Development | STEP Computer Academy (Almaty, Kazakhstan).\n2011 – 2015 | B.Sc. in Telematics | Kazakh-German University (Almaty, Kazakhstan)."
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Programming languages: JavaScript ES6+, familiar with Java, C#, C++/C.",
+        "Web: HTML5/CSS3, NPM, webpack, Babel, Bootstrap, Material UI, React, LESS.",
+        "Technologies & Frameworks: JSON, AJAX.",
+        "Environments-IDE: WebStorm, Eclipse, Intellij IDEA, Android Studio, Visual Studio, Visual Studio Code, GitHub, Agile, UML, Adobe Photoshop, Figma."
+      ],
+      "technologies_used": [
+        "JavaScript",
+        "Java",
+        "C#",
+        "C++",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "React",
+        "NPM",
+        "Material UI",
+        "LESS",
+        "JSON",
+        "AJAX",
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "Visual Studio Code",
+        "GitHub",
+        "Adobe Photoshop",
+        "Figma",
+        "Agile",
+        "Eclipse",
+        "WebStorm",
+        "Android Studio",
+        "UML"
+      ],
+      "raw_text": "Programming languages: JavaScript ES6+, familiar with Java, C#, C++/C.\nWeb: HTML5/CSS3, NPM, webpack, Babel, Bootstrap, Material UI, React, LESS.\nTechnologies & Frameworks: JSON, AJAX.\nEnvironments-IDE: WebStorm, Eclipse, Intellij IDEA, Android Studio, Visual Studio, Visual Studio Code, GitHub, Agile, UML, Adobe Photoshop, Figma."
+    },
+    {
+      "company": "CGS (Netanya",
+      "designation": "Customer Care Associate",
+      "location": null,
+      "start_date": "2020",
+      "end_date": "2022",
+      "responsibilities": [
+        "Collaboration tools: Slack, MS Teams, Trello",
+        "Project: Customer care for Dell (***************** in CIS."
+      ],
+      "technologies_used": [
+        "Trello",
+        "Slack",
+        "MS Teams"
+      ],
+      "raw_text": "Collaboration tools: Slack, MS Teams, Trello\n2020-2022 | Customer Care Associate | CGS (Netanya, Israel)\nProject: Customer care for Dell (***************** in CIS."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

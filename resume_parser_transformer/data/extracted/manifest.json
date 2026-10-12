@@ -1,0 +1,233 @@
+[
+  {
+    "resume_id": "1_txt_0001",
+    "source_file": "data/input/1.txt",
+    "status": "success",
+    "characters": 2302,
+    "error": null
+  },
+  {
+    "resume_id": "10_docx_0002",
+    "source_file": "data/input/10.docx",
+    "status": "success",
+    "characters": 2012,
+    "error": null
+  },
+  {
+    "resume_id": "14_docx_0003",
+    "source_file": "data/input/14.docx",
+    "status": "success",
+    "characters": 3640,
+    "error": null
+  },
+  {
+    "resume_id": "15_docx_0004",
+    "source_file": "data/input/15.docx",
+    "status": "success",
+    "characters": 2192,
+    "error": null
+  },
+  {
+    "resume_id": "16_xml_0005",
+    "source_file": "data/input/16.xml",
+    "status": "success",
+    "characters": 5972,
+    "error": null
+  },
+  {
+    "resume_id": "19_docx_0006",
+    "source_file": "data/input/19.docx",
+    "status": "success",
+    "characters": 2548,
+    "error": null
+  },
+  {
+    "resume_id": "19_xml_0007",
+    "source_file": "data/input/19.xml",
+    "status": "success",
+    "characters": 7239,
+    "error": null
+  },
+  {
+    "resume_id": "2_txt_0008",
+    "source_file": "data/input/2.txt",
+    "status": "success",
+    "characters": 2313,
+    "error": null
+  },
+  {
+    "resume_id": "20_docx_0009",
+    "source_file": "data/input/20.docx",
+    "status": "success",
+    "characters": 1469,
+    "error": null
+  },
+  {
+    "resume_id": "3_txt_0010",
+    "source_file": "data/input/3.txt",
+    "status": "success",
+    "characters": 1545,
+    "error": null
+  },
+  {
+    "resume_id": "3_xml_0011",
+    "source_file": "data/input/3.xml",
+    "status": "success",
+    "characters": 4350,
+    "error": null
+  },
+  {
+    "resume_id": "4_docx_0012",
+    "source_file": "data/input/4.docx",
+    "status": "success",
+    "characters": 2985,
+    "error": null
+  },
+  {
+    "resume_id": "5_docx_0013",
+    "source_file": "data/input/5.docx",
+    "status": "success",
+    "characters": 2394,
+    "error": null
+  },
+  {
+    "resume_id": "50_docx_0014",
+    "source_file": "data/input/50.docx",
+    "status": "success",
+    "characters": 4163,
+    "error": null
+  },
+  {
+    "resume_id": "51_docx_0015",
+    "source_file": "data/input/51.docx",
+    "status": "success",
+    "characters": 1550,
+    "error": null
+  },
+  {
+    "resume_id": "6_xml_0016",
+    "source_file": "data/input/6.xml",
+    "status": "success",
+    "characters": 4551,
+    "error": null
+  },
+  {
+    "resume_id": "63_docx_0017",
+    "source_file": "data/input/63.docx",
+    "status": "success",
+    "characters": 1042,
+    "error": null
+  },
+  {
+    "resume_id": "64_docx_0018",
+    "source_file": "data/input/64.docx",
+    "status": "success",
+    "characters": 2234,
+    "error": null
+  },
+  {
+    "resume_id": "8_xml_0019",
+    "source_file": "data/input/8.xml",
+    "status": "success",
+    "characters": 3962,
+    "error": null
+  },
+  {
+    "resume_id": "9_docx_0020",
+    "source_file": "data/input/9.docx",
+    "status": "success",
+    "characters": 2608,
+    "error": null
+  },
+  {
+    "resume_id": "9_xml_0021",
+    "source_file": "data/input/9.xml",
+    "status": "success",
+    "characters": 2076,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Berkani_pdf_0022",
+    "source_file": "data/input/CV_Berkani.pdf",
+    "status": "success",
+    "characters": 1348,
+    "error": null
+  },
+  {
+    "resume_id": "CV_BoutabbaAyoub_pdf_0023",
+    "source_file": "data/input/CV_BoutabbaAyoub.pdf",
+    "status": "success",
+    "characters": 3722,
+    "error": null
+  },
+  {
+    "resume_id": "CV_GhandiAli_pdf_0024",
+    "source_file": "data/input/CV_GhandiAli.pdf",
+    "status": "success",
+    "characters": 3583,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Jason_Miller_jpg_0025",
+    "source_file": "data/input/CV_Jason Miller.jpg",
+    "status": "success",
+    "characters": 2124,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Kristen_jpg_0026",
+    "source_file": "data/input/CV_Kristen.jpg",
+    "status": "success",
+    "characters": 2431,
+    "error": null
+  },
+  {
+    "resume_id": "CV_MessarAya_jpg_0027",
+    "source_file": "data/input/CV_MessarAya.jpg",
+    "status": "success",
+    "characters": 1804,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Personal_Trainer_jpg_0028",
+    "source_file": "data/input/CV_Personal Trainer.jpg",
+    "status": "success",
+    "characters": 1808,
+    "error": null
+  },
+  {
+    "resume_id": "CV_RashidSaid_pdf_0029",
+    "source_file": "data/input/CV_RashidSaid.pdf",
+    "status": "success",
+    "characters": 2497,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Robert_Cooper_jpg_0030",
+    "source_file": "data/input/CV_Robert Cooper.jpg",
+    "status": "success",
+    "characters": 2737,
+    "error": null
+  },
+  {
+    "resume_id": "CV_ShihabAmri_pdf_0031",
+    "source_file": "data/input/CV_ShihabAmri.pdf",
+    "status": "success",
+    "characters": 4173,
+    "error": null
+  },
+  {
+    "resume_id": "CV_SoukeurAbdelhamid_jpg_0032",
+    "source_file": "data/input/CV_SoukeurAbdelhamid.jpg",
+    "status": "success",
+    "characters": 1806,
+    "error": null
+  },
+  {
+    "resume_id": "CV_Yassine_pdf_0033",
+    "source_file": "data/input/CV_Yassine.pdf",
+    "status": "success",
+    "characters": 5480,
+    "error": null
+  }
+]

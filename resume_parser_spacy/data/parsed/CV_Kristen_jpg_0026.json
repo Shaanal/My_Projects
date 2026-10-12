@@ -1,0 +1,116 @@
+{
+  "candidate": {
+    "full_name": "Kristen Connelly",
+    "email": null,
+    "phone_number": "3868683442",
+    "location": "Los Angeles, CA",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Three-year online Video Production Assistant for commercials and short films. Competent with Premiere Pro for trimming short segments to required lengths. 20% more likes and comments due to re-sequenced scenes to enhance audience satisfaction.",
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "Video Production Assistant"
+  },
+  "skills": {
+    "technical_skills": [
+      "Adobe Premiere Pro",
+      "Avid Media Composer",
+      "Hootsuite",
+      "Adobe Creative Suite",
+      "audio editing",
+      "Call Sheets & Sides",
+      "Camera Boom",
+      "Light Boom",
+      "Mic",
+      "Boom"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "Adobe Premiere Pro",
+      "Avid Media Composer",
+      "Hootsuite",
+      "Adobe Creative Suite"
+    ],
+    "other_relevant_technologies": [
+      "audio editing",
+      "Call Sheets & Sides",
+      "Camera Boom",
+      "Light Boom",
+      "Mic",
+      "Boom"
+    ]
+  },
+  "education": [
+    {
+      "degree": "BA in Film and Television",
+      "specialization": "Film and Television",
+      "institution": "Boston University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "BA in Film and Television, Boston University, Boston\nRelated Coursework: Storytelling for Film and Television, American Masterworks, Television Drama, The Holocaust, Film Industry, International Film."
+    },
+    {
+      "degree": "Advanced Course in Digital Video Editing",
+      "specialization": "Digital Video Editing",
+      "institution": "ADMEC Multimedia Institute",
+      "start_year": "2015",
+      "end_year": "2015",
+      "grade": null,
+      "raw_text": "Advanced Course in Digital Video Editing, ADMEC Multimedia Institute, Online 2015 - Advanced Course in Digital Video Editing, ADMEC Multimedia Institute, Online"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Blue Penguin Designs",
+      "designation": "Video Production Assistant",
+      "location": "Bar Bigha",
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Responsible for supporting a large scale production team of 100 people, throughout production, including development, pre-production, post-production, principal photography, and distribution.",
+        "Managed the bookings for guests, the green room traffic, and any guest suites.",
+        "Researched story ideas and then compiled footnotes and gathered footage for presentation.",
+        "Completed Video Production-scriptwriting, audio editing, and mixing using the Avid non-linear editing system.",
+        "Maintained and assisted with Production Acquisition."
+      ],
+      "technologies_used": [
+        "Avid Media Composer",
+        "audio editing"
+      ],
+      "raw_text": "Video Production Assistant, Blue Penguin Designs, Bar Bigha\nResponsible for supporting a large scale production team of 100 people, throughout production, including development, pre-production, post-production, principal photography, and distribution.\nManaged the bookings for guests, the green room traffic, and any guest suites.\nResearched story ideas and then compiled footnotes and gathered footage for presentation.\nCompleted Video Production-scriptwriting, audio editing, and mixing using the Avid non-linear editing system.\nMaintained and assisted with Production Acquisition."
+    },
+    {
+      "company": "Botle Bob Advertising",
+      "designation": "Video Production Assistant",
+      "location": "Opelousas",
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Responsible for organizing and preparing visual and audio equipment to be used on video projects for clients such as Pfizer, Knoll Pharmaceuticals, and Merck.",
+        "Helped edit graphics and video projects from conception to creation.",
+        "Collaborated with the production team to provide content, digital assets, presentations, and other video needs.",
+        "Built, edited, and polished videography proposals for business clients."
+      ],
+      "technologies_used": [],
+      "raw_text": "Video Production Assistant, Botle Bob Advertising, Opelousas\nResponsible for organizing and preparing visual and audio equipment to be used on video projects for clients such as Pfizer, Knoll Pharmaceuticals, and Merck.\nHelped edit graphics and video projects from conception to creation.\nCollaborated with the production team to provide content, digital assets, presentations, and other video needs.\nBuilt, edited, and polished videography proposals for business clients.\nStaged and set up audio and video equipment for studio and on-location shoots.\nPerformed minor maintenance on video and audio equipment and managed any required vendor repair."
+    }
+  ],
+  "certifications": [
+    "Hootsuite Certified Professional, Hootsuite Media, Albany, NY",
+    "Adobe CS5 Certified,, University of Delaware, Newark, DE.",
+    "UTACTIIS",
+    "San Antonio"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

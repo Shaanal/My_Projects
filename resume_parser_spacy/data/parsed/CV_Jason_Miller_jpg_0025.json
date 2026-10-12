@@ -1,0 +1,103 @@
+{
+  "candidate": {
+    "full_name": "Jason Miller",
+    "email": "email@email.com",
+    "phone_number": "3868683442",
+    "location": "Los Angeles, CA",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "2 Profile Experienced Amazon Associate with five years’ tenure in a shipping yard setting, maintaining an average picking/packing speed of 98%. Holds a zero error% score in adhering to packing specs and 97% error-free ratio",
+    "career_objective": null,
+    "total_experience": "3 years 7 months",
+    "current_or_most_recent_role": "Amazon Warehouse Associate"
+  },
+  "skills": {
+    "technical_skills": [
+      "inventory management",
+      "Logistics and Distribution",
+      "Cleaning Equipment",
+      "Mathematics",
+      "Deep Sanitation Practices"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "inventory management",
+      "Logistics and Distribution",
+      "Cleaning Equipment",
+      "Mathematics",
+      "Deep Sanitation Practices"
+    ]
+  },
+  "education": [
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": "Atlanta Technical College",
+      "start_year": "2021",
+      "end_year": "2022",
+      "grade": null,
+      "raw_text": "Associates Degree in Logistics and Supply Chain Fundamentals,\nAtlanta Technical College, Atlanta\nJanuary 2021 — July 2022\n+ Majors: Warehousing Operations, Logistics and Distribution\nPractices\n+ Minors: Inventory Systems, Supply Chain Principles\n%"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Amazon Warehouse Associate",
+      "designation": "Amazon Warehouse Associate",
+      "location": "Miami Gardens",
+      "start_date": "January 2021",
+      "end_date": "July 2022",
+      "responsibilities": [
+        "Performed all warehouse laborer duties such as packing, picking, counting, record keeping, and maintaining a clean area.",
+        "+ Consistently maintained picking/packing speeds in the 98th percentile.",
+        "+ Picked all orders with 100% accuracy despite high speeds.",
+        "+ Maintained a clean work area, meeting 97.5% of the inspection requirements."
+      ],
+      "technologies_used": [],
+      "raw_text": "Amazon Warehouse Associate at Amazon, Miami Gardens\nJanuary 2021 — July 2022\nPerformed all warehouse laborer duties such as packing, picking, counting, record keeping, and maintaining a clean area.\n+ Consistently maintained picking/packing speeds in the 98th percentile.\n+ Picked all orders with 100% accuracy despite high speeds.\n+ Maintained a clean work area, meeting 97.5% of the inspection requirements."
+    },
+    {
+      "company": "Dunrea Laboratories",
+      "designation": "Laboratory Inventory Assistant",
+      "location": "Orlando",
+      "start_date": "January 2019",
+      "end_date": "December 2020",
+      "responsibilities": [
+        "Full-time lab assistant in a small, regional laboratory tasked with - participating in Kaizen Events, Gemba walks, and 5S to remove barriers and improve productivity.",
+        "+ Filled the warehouse helper job description, which involved picking, packing, shipping, inventory management, and cleaning equipment.",
+        "+ Saved 12% on UPS orders by staying on top of special deals.",
+        "+ Cut down storage waste by 23% by switching to a Kanban system."
+      ],
+      "technologies_used": [
+        "inventory management",
+        "Cleaning Equipment"
+      ],
+      "raw_text": "Laboratory Inventory Assistant at Dunrea Laboratories, Orlando\nJanuary 2019 — December 2020\nFull-time lab assistant in a small, regional laboratory tasked with - participating in Kaizen Events, Gemba walks, and 5S to remove barriers and improve productivity.\n+ Filled the warehouse helper job description, which involved picking, packing, shipping, inventory management, and cleaning equipment.\n+ Saved 12% on UPS orders by staying on top of special deals.\n+ Cut down storage waste by 23% by switching to a Kanban system.\n%"
+    }
+  ],
+  "certifications": [
+    "on packing records. Completed a certificate in Warehouse Sanitation and",
+    "has a valid commercial driver’s license.",
+    "Online Graduate Certificate in Warehousing & Supply Chain",
+    "Management, Southern New Hampshire University (SNHU), NH.",
+    "July 2022 — July 2022",
+    "Details",
+    "Place of birth",
+    "San Antonio",
+    "Driving license",
+    "Full",
+    "Links",
+    "Pinterest"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

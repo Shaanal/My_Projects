@@ -1,0 +1,32 @@
+<!-- Entity annotation interface (Label Studio, NER on full resume text).
+     The first nine labels are the ones annotated in the 310-resume corpus and
+     learned by both NER models. The remaining labels complete the target schema
+     for future annotation rounds; until they have examples, the parser derives
+     those fields from SKILL spans + the skill ontology (categories) and from
+     section structure (projects). -->
+<View>
+  <Labels name="label" toName="text">
+    <Label value="PERSON" background="#f6c85f"/>
+    <Label value="EMAIL" background="#6f4e7c"/>
+    <Label value="LOCATION" background="#ca472f"/>
+    <Label value="JOB_TITLE" background="#ffa600"/>
+    <Label value="COMPANY" background="#58508d"/>
+    <Label value="SKILL" background="#003f5c"/>
+    <Label value="DATE" background="#665191"/>
+    <Label value="DEGREE" background="#a05195"/>
+    <Label value="INSTITUTION" background="#d45087"/>
+    <Label value="PHONE" background="#9dd866"/>
+    <Label value="PROGRAMMING_LANGUAGE" background="#2f4b7c"/>
+    <Label value="FRAMEWORK" background="#0b84a5"/>
+    <Label value="DATABASE" background="#6f9fd8"/>
+    <Label value="CLOUD_PLATFORM" background="#8dddd0"/>
+    <Label value="DEVOPS_TOOL" background="#4c9a2a"/>
+    <Label value="SPECIALIZATION" background="#8ac926"/>
+    <Label value="PROJECT_NAME" background="#1982c4"/>
+    <Label value="PROJECT_DESCRIPTION" background="#a3c4f3"/>
+    <Label value="PROJECT_TECHNOLOGY" background="#00b4d8"/>
+    <Label value="EXPERIENCE" background="#e76f51"/>
+    <Label value="CERTIFICATION" background="#ff7c43"/>
+  </Labels>
+  <Text name="text" value="$text" granularity="word"/>
+</View>

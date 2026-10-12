@@ -1,0 +1,39 @@
+Span alignment: train contracted=317, punctuation-trimmed=291, skipped=194; validation contracted=42, punctuation-trimmed=30, skipped=24
+epoch 1/40 ner_loss=106247.773 dev_P=0.000 dev_R=0.000 dev_F1=0.000
+epoch 2/40 ner_loss=23102.742 dev_P=0.171 dev_R=0.096 dev_F1=0.123
+epoch 3/40 ner_loss=21384.785 dev_P=0.391 dev_R=0.187 dev_F1=0.253
+epoch 4/40 ner_loss=20635.807 dev_P=0.257 dev_R=0.330 dev_F1=0.289
+epoch 5/40 ner_loss=19235.406 dev_P=0.379 dev_R=0.349 dev_F1=0.363
+epoch 6/40 ner_loss=17405.648 dev_P=0.352 dev_R=0.395 dev_F1=0.372
+epoch 7/40 ner_loss=17334.939 dev_P=0.467 dev_R=0.384 dev_F1=0.421
+epoch 8/40 ner_loss=16718.748 dev_P=0.475 dev_R=0.396 dev_F1=0.432
+epoch 9/40 ner_loss=15946.998 dev_P=0.506 dev_R=0.406 dev_F1=0.451
+epoch 10/40 ner_loss=15418.747 dev_P=0.517 dev_R=0.384 dev_F1=0.440
+epoch 11/40 ner_loss=14689.414 dev_P=0.405 dev_R=0.529 dev_F1=0.459
+epoch 12/40 ner_loss=14253.106 dev_P=0.501 dev_R=0.476 dev_F1=0.488
+epoch 13/40 ner_loss=13521.408 dev_P=0.462 dev_R=0.501 dev_F1=0.480
+epoch 14/40 ner_loss=13617.144 dev_P=0.457 dev_R=0.513 dev_F1=0.484
+epoch 15/40 ner_loss=13514.246 dev_P=0.514 dev_R=0.457 dev_F1=0.484
+epoch 16/40 ner_loss=12948.512 dev_P=0.440 dev_R=0.487 dev_F1=0.462
+epoch 17/40 ner_loss=12635.264 dev_P=0.544 dev_R=0.464 dev_F1=0.501
+epoch 18/40 ner_loss=11943.210 dev_P=0.461 dev_R=0.552 dev_F1=0.502
+epoch 19/40 ner_loss=11500.229 dev_P=0.457 dev_R=0.548 dev_F1=0.498
+epoch 20/40 ner_loss=11076.637 dev_P=0.513 dev_R=0.523 dev_F1=0.518
+epoch 21/40 ner_loss=11138.104 dev_P=0.474 dev_R=0.568 dev_F1=0.517
+epoch 22/40 ner_loss=10992.600 dev_P=0.504 dev_R=0.475 dev_F1=0.489
+epoch 23/40 ner_loss=10624.234 dev_P=0.506 dev_R=0.513 dev_F1=0.510
+epoch 24/40 ner_loss=10832.355 dev_P=0.496 dev_R=0.545 dev_F1=0.519
+epoch 25/40 ner_loss=10519.583 dev_P=0.520 dev_R=0.479 dev_F1=0.498
+epoch 26/40 ner_loss=10164.993 dev_P=0.534 dev_R=0.495 dev_F1=0.514
+epoch 27/40 ner_loss=9816.456 dev_P=0.503 dev_R=0.517 dev_F1=0.510
+epoch 28/40 ner_loss=9698.431 dev_P=0.491 dev_R=0.557 dev_F1=0.522
+epoch 29/40 ner_loss=9625.732 dev_P=0.527 dev_R=0.528 dev_F1=0.527
+epoch 30/40 ner_loss=9566.951 dev_P=0.424 dev_R=0.587 dev_F1=0.493
+epoch 31/40 ner_loss=9428.507 dev_P=0.477 dev_R=0.541 dev_F1=0.507
+epoch 32/40 ner_loss=8752.895 dev_P=0.463 dev_R=0.565 dev_F1=0.509
+epoch 33/40 ner_loss=8705.339 dev_P=0.524 dev_R=0.501 dev_F1=0.512
+epoch 34/40 ner_loss=8813.107 dev_P=0.486 dev_R=0.568 dev_F1=0.524
+epoch 35/40 ner_loss=8342.150 dev_P=0.481 dev_R=0.559 dev_F1=0.517
+Early stopping: no validation improvement for 6 epochs
+Best validation entity F1: 0.527 at epoch 29; model saved to models/resume_ner_spacy_vectors/model-best
+Split sizes: train=248, validation=31. Test data was not used.

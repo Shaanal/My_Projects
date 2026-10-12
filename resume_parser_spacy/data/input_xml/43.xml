@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Bo Haag</label>
+<label type="Designation">Lead Engineer</label> - <label type="Companies worked at">Automation &amp; Testing
+
+Chennai</label>, <label type="Location">TAMIL NADU, IN</label> - Email me on Indeed: <label type="Email Address">Nobuko29@yahoo.com</label>
+
+❖ <label type="Years of Experience">4 years of experience</label> in <label type="Job Specific Skills">testing methodologies</label>: <label type="Job Specific Skills">Automation</label>, <label type="Job Specific Skills">Regression</label>, Sanity and Manual.
+❖ Hands-on experience in <label type="Tech Tools">Selenium Webdriver</label> with <label type="Tech Tools">Python</label> Automation.
+❖ Skilled in IDE's <label type="Tech Tools">Pycharm</label>, <label type="Tech Tools">Eclipse</label>[Pydev plugin], <label type="Tech Tools">Selenium</label> for <label type="Job Specific Skills">testing the web browser</label> using
+<label type="Tech Tools">Python</label>.
+❖ Expertise in developing <label type="Job Specific Skills">automation scripts</label> and testing various components.
+❖ Skilled in providing effective and quality automation process.
+❖ Hands-on experience in functional automation scripts using <label type="Job Specific Skills">TCL Programming</label>, <label type="Tech Tools">Python</label>.
+❖ Experienced in <label type="Job Specific Skills">planning, designing, developing and deploying testing strategies</label>.
+❖ Trained and worked closely along with developers and dev-test (manual) engineers for
+automation tasks.
+❖ Good experience in reviewing the automated TCL, Python Scripts developed by the team
+members.
+❖ Extracting data from excel and csv files, posting results in excel file with Python.
+❖ Experience in Agile development -Played responsible role Scrum master for Automation.
+
+WORK EXPERIENCE
+
+<label type="Designation">Lead Engineer</label> - <label type="Companies worked at">Automation &amp; Testing
+
+Cisco Systems</label> -
+
+<label type="Years of Experience">January 2014 to June 2015</label>
+
+DURATION <label type="Years of Experience">Jan-2014 to Jun-2015</label>
+TEAM SIZE 20
+ROLES AND RESPONSIBILITIES
+Lead Engineer - Automation &amp; Testing
+• Identified the cases for giving the support to the WAAS product with v6 addressing from the
+test plan
+• Played an active role - Scrum Master for the Automation.
+• Activity participated and organized the automation team to work on agile methodologies.
+• Prepared the HLD document for the automatable cases.
+• Automated around 1000+ cases in SNMP and Platform module.
+• Automated the basic sanity test cases and executing sanity testing for the v6 support.
+• Involved is regressing all the automated suites.
+• Performed regression for all the automated cases through ATS framework with aetest script
+template.
+• Reviewed the automated cases developed by team members.
+• Regression Testing
+• Defect filing in CDETS/Rally
+• Worked on Agile development methodologies
+
+LANGUAGE TCL Programming, Python, Selenium
+
+https://www.indeed.com/r/bo-haag
+https://www.indeed.com/r/bo-haag
+
+
+RELEASES Hornet
+DESCRIPTION
+• IPv6, formerly named IPng (next generation), is the latest version of the Internet Protocol (IP). IP
+is a packet-based protocol used to exchange data, voice, and video traffic over digital networks
+• Cisco's Wide-Area Application Services IPv4 users can move to IPv6 and receive services such
+as <label type="Job Specific Skills">end-to-end security</label>, <label type="Job Specific Skills">quality of service</label> (QoS), and globally unique addresses. The IPv6 address
+space reduces the need for private addresses and Network Address Translation (NAT) processing
+by border routers at network edges.
+• Implementing basic IPv6 connectivity in the Cisco IOS software consists of assigning IPv6
+addresses to individual router interfaces. The forwarding of IPv6 traffic can be enabled globally,
+and Cisco Express Forwarding switching for IPv6 can also be enabled
+• The primary motivation for IPv6 is the need to meet the demand for globally unique IP
+addresses.
+• Mainly involves to checks the functionality of all waas features to work with v6 addressing
+
+PRODUCT IPv6 Support on WAAS (Wide Area Application Services)
+
+PROJECT CISCO-WAAS Express (WEXP)
+
+<label type="Designation">Member Technical Staff</label> - <label type="Job Specific Skills">Automation &amp; Testing</label>
+
+<label type="Companies worked at">Cisco Systems</label> -
+
+<label type="Years of Experience">January 2013 to December 2013</label>
+
+DURATION <label type="Years of Experience">Jan-2013 to December-2013
+</label>TEAM SIZE 21
+ROLES AND RESPONSIBILITIES
+Member Technical Staff - Automation &amp; Testing
+• Identified the automatable cases from the test plan.
+• Prepared the HLD document for the automatable cases.
+• Automated test cases for various components on the wexp product for the functionality check.
+• Worked on Config_Sync, HTTP, HTTPS, SSL, SMB_AO component automation.
+• Automated around 200+ cases for various components.
+• Performed regression for all the automated cases through ATS framework with aetest script
+template.
+• Reviewed the automated cases developed by team members.
+• Involved in executing all the automated cases for various releases as Phase1, Phase2 (pi19-25)
+and posted results in TIMS tool.
+• Regression Testing
+• Defect filing in CDETS
+
+LANGUAGE TCL Programming, Python
+RELEASES Phase1 &amp;Phase2 (with 535)
+DESCRIPTION
+• Cisco's Wide-Area Application Services (WAAS) Express feature is a key component of the Cisco
+WAAS product portfolio. WAAS Express is a cost-effective, IOS-based, WAN optimization solution
+that increases the amount of available bandwidth for small-to-mid-size branch offices and remote
+locations, while accelerating TCP-based applications that operate in a WAN environment.
+
+
+
+• The Wide-Area Application Services (WAAS) Express software optimizes TCP traffic flows across
+a WAN. WAAS Express integrates with native services such as security, NetFlow, and quality of
+service (QoS). WAAS Express provides the following benefits:
+❖ Bandwidth optimization
+❖ Application acceleration
+❖ Increase in remote user productivity
+❖ Interoperation with existing Cisco WAAS infrastructure
+❖ Network transparency
+❖ Deployment flexibility with on-demand service enablement
+• The Wexp is about the wide Area Application Service on IOS (Router) itself.
+• Mainly involves to checks the functionality of optimizing the various Ao's like HTTP, SSL, HTTPS,
+SMB and Config_sync.
+
+PRODUCT WAAS Express(Wide Area Application Services)
+
+PROJECT CISCO-WAAS
+CLIENT Cisco Systems
+ORGANISATION HCL Technologies Ltd
+
+<label type="Designation">Software Engineer</label> - <label type="Job Specific Skills">Automation &amp; Testing</label>
+
+-
+
+<label type="Years of Experience">June 2011 to December 2012</label>
+
+• Identified the automatable cases from the test plan.
+• Prepared the HLD document for the automatable cases.
+• Automated test cases for various components on the waas product for the functionality check.
+• Worked on Plaform, SNMP, SSL, HTTP component automation.
+• Automated around 600+ cases for various components.
+• Performed regression for all the automated cases through ATS framework with aetest script
+template.
+• Active Participation in automating test cases for sanity test.
+• Reviewed the automated cases developed by team members.
+• Involved in executing all the automated cases and reporting bugs/defects.
+• Worked on various releases of the products (Lancer, Phoenix, Skyhawk) for regressing the
+automated cases and posted results in TIMS tool.
+• Defect filing in CDETS
+
+LANGUAGE <label type="Job Specific Skills">TCL Programming</label>, Python
+RELEASES LANCER, PHOENIX, SKYHAWK, SPRIT
+DESCRIPTION
+• <label type="Job Specific Skills">Wide Area Application Services</label> (WAAS) is a Cisco Systems technology that improves the
+performance of applications on a wide area network (WAN). WAAS combines Cisco's Wide Area
+File Services (WAFS-products allow remote office users to access and share files globally at
+LAN speeds over the WAN) with WAN optimization inside of a router, accelerating TCP-based
+applications on a given network.
+• WAAS system consists of a set of devices called wide area application engines (WAEs) that work
+together to optimize TCP traffic over your network. When client and server applications attempt
+
+
+
+to communicate with each other, the network intercepts and redirects this traffic to the WAEs so
+that they can act on behalf of the client application and the destination server.
+• The WAEs examine the traffic and use built-in application policies to determine whether to
+optimize the traffic or allow it to pass through your network un optimized
+• Mainly involves optimizing the various Ao's like HTTP, SSL, HTTPS and functional wise platform
+check.
+
+PRODUCT WAAS(Wide Area Application Services)
+
+EDUCATION
+
+<label type="Degree">B.E</label> in <label type="College Name">CSE
+
+ANNA University</label><label type="Graduation Year">
+
+2011</label>
+
+Day Adventist Matric Hr.Sec School
+
+2005 to 2007
+
+SKILLS
+
+<label type="Job Specific Skills">optimization</label> (2 years), <label type="Tech Tools">Python</label> (4 years), <label type="Job Specific Skills">router</label> (4 years), <label type="Tech Tools">TCL</label> (4 years), <label type="Job Specific Skills">Testing</label> (4 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+Programming Languages <label type="Tech Tools">Python</label>, <label type="Tech Tools">TCL</label>, <label type="Tech Tools">Power Query</label>, <label type="Tech Tools">SQL</label>, <label type="Tech Tools">Shell Scripting</label>, <label type="Tech Tools">C#</label>
+Concepts <label type="Job Specific Skills">Networking</label>, <label type="Job Specific Skills">WAAS (Wan Optimization)</label>, <label type="Job Specific Skills">WAAS on Router</label>, <label type="Job Specific Skills">WAE(Wide Area Engine)</label>,
+<label type="Job Specific Skills">WCCP Protocol,</label>
+<label type="Job Specific Skills">Automation Framework</label> <label type="Tech Tools">ATS (Automated Test System)</label>, <label type="Tech Tools">Selenium Testing Framework</label>
+IDE(Integrated Development Environment) <label type="Tech Tools">Eclipse</label>, <label type="Tech Tools">Pycharm</label>, <label type="Tech Tools">Pydev</label>[Plugin for eclipse IDE]
+Software
+<label type="Tech Tools">Eclipse</label> <label type="Tech Tools">CDETS</label> &amp; <label type="Tech Tools">Rally</label> (<label type="Job Specific Skills">Bug Tracking</label>), <label type="Tech Tools">eARMS</label> (<label type="Job Specific Skills">Regression testing</label>), <label type="Tech Tools">ACME</label>(Versioning),
+<label type="Tech Tools">TIMS</label>(Reporting), <label type="Tech Tools">HTMLTestRunner</label>, <label type="Tech Tools">Power Query</label>(Automation), <label type="Tech Tools">ARAS PLM</label>(<label type="Job Specific Skills">Product Lifecycle
+Management</label>), <label type="Tech Tools">AML Studio</label> (<label type="Job Specific Skills">adaptive markup language</label>)
+
+Operating Systems <label type="Tech Tools">Windows XP/10</label>, <label type="Tech Tools">Linux</label>
+</cv>

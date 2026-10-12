@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Marvin Rutherford</label>
+<label type="Designation">Principal Engineer Technical Staff</label> - <label type="Companies worked at">Company 1</label>
+
+<label type="Location">Bengaluru, Karnataka</label> - Email me on Indeed: <label type="Email Address">Ahmad.Beahan@gsaf.biz</label>
+
+To secure a promising position that offers both a challenge and a good opportunity for both
+professional and personal growth.
+
+Willing to relocate to: <label type="Location">Bengaluru, Karnataka</label>
+
+WORK EXPERIENCE
+
+<label type="Designation">Principal Engineer Technical Staff</label><label type="Companies worked at">
+
+Company 1 </label>-  <label type="Location">Bengaluru, Karnataka</label> -
+
+<label type="Years of Experience">September 2005 to Present</label>
+
+Total Experience: <label type="Years of Experience">12 years 6 months</label>.
+Worked onshore and offshore for the projects. Extensive client facing and <label type="Soft Skills">team management</label>
+skills.
+
+<label type="Companies worked at">Company 1</label>: <label type="Companies worked at">Oracle India Private Limited</label>, <label type="Location">Bangalore</label>
+Designation: <label type="Designation">Principal Engineer Technical Staff
+Duration</label>: <label type="Years of Experience">September 2005 - till date</label>
+
+KEY TECHNICAL SKILLS
+<label type="Job Specific Skills">Databases</label>: <label type="Tech Tools">Oracle 9i/10g</label>, <label type="Tech Tools">MySql</label>
+Languages: <label type="Tech Tools">PL/SQL</label>, <label type="Tech Tools">Shell Scrip</label>t.
+Frameworks and Portals: <label type="Tech Tools">Oracle ADF</label>
+Server side Technology: <label type="Tech Tools">J2ee</label>,
+IDE: <label type="Tech Tools">Jdeveloper 10.x</label>
+
+TECHNICAL EXPERIENCE SUMMARY
+➢ 1 year <label type="Tech Tools">Oracle Applications</label> checklist implementation
+➢ 3+ years of Disaster Recovery on Oracle Applications (EBSO 11i, R12) and Database.
+➢ 8+ years of Oracle Applications DBA with Build and Release activities.
+➢ Installation of Oracle Applications (EBSO 11i, R12) at Customer environment and carry out DR
+➢ Configuration of Oracle Applications (EBSO 11i, R12) as per Customer specification.
+➢ Configuration of Discoverer, Admin, Concurrent, Forms, Web, Reports done on separate pillars
+➢ Patching, Cloning of Oracle Apps
+➢ Database conversion from non-RAC to 2 node, 3-node RAC
+➢ Installation of OTO product on customer environment. Including the Infra, Asmt, discoverer,
+OC4J product.
+➢ Carried out Disaster Recovery solutions for OTO
+➢ Database Switchover code written for OTO
+➢ Domain knowledge of Manual Testing.
+➢ Oracle Apps Release and Build Engineer,
+➢ Carried out 11i and R12 Upgrades on Oracle Internal Customers.
+➢ Carried out 12.2.X upgrades from 11i and R12 baselines with 11g and 12c database level
+
+https://www.indeed.com/r/marvin-rutherford
+
+
+➢ Experienced with Database upgrades as well. Carried out upgrades from 10g to 11g, 11g to
+12C DB.
+➢ Have been awarded Extra Mile Award 2 times for execution of projects on time with quality.<label type="Designation">
+
+Principal Engineer</label>
+
+<label type="Companies worked at">ORACLE</label> -
+
+<label type="Years of Experience">September 2005 to Present</label>
+
+Oracle Apps DBA for R12 and 12.2.X baselines, responsible for all the EBS release activities ,
+handled upgrades with latest adop technology.
+
+EDUCATION
+
+<label type="Degree">Bachelor of Engineering (Information Science)</label> in <label type="College Name">Information Science
+
+B V Bhoomaraddi College of Engg and Technology Hubli</label> -  <label type="Location">Hubli, Karnataka</label>
+
+<label type="Graduation Year">2005</label>
+
+<label type="College Name">Visveswaraiah Technological University </label>-  <label type="Location">Belgaum, Karnataka</label>
+
+SKILLS
+
+<label type="Tech Tools">Oracle Apps</label> DBA Release Enginner
+
+ADDITIONAL INFORMATION
+
+Software/Tools
+• Test cases written in <label type="Tech Tools">MS Word
+</label>• Carried out manually as QTP does not support this Application
+5) Disaster Recovery Portal for carrying out Recovery on the Customers.
+• It involves a portal through which we provide the Customer details and host types. There are
+xml plug-in, which are installed and parsed as Workflows. The workflows contain the steps of the
+DR for the MT and DB. As and when required we can pause and skip during the recovery. Tool
+tested and verified by the On Demand Operations and Customers like GE, Xerox, RIT etc.
+Client: On Demand Operations, Oracle Bangalore
+Roles and Responsibilities:
+• Developed all the plug-in needed for the recovery which include Database Plug-in, E-business
+Suite Plug-in.
+• Monitoring and Support 24/7
+
+Team Size: 2
+• Software /Tools: Shell and Expect scripting.
+
+4) DR Solution for R12 (E-Business Suite)
+It involves setting up the primary by installing Oracle Apps R12, setup the standby site i.e
+Database, Mid Tier, by cloning the same and recover. It also involves operations like Switch Over
+and Fail Over.
+By Switch Over we mean Primary to Standby and vice versa
+
+
+
+By Fail Over we mean the Primary has crashed, we need to make the Standby as the Primary.
+Client: On Demand Operations, Oracle Bangalore
+
+Team Size: 2
+Software /Tools: Shell and Expect scripting, PLSQL.
+
+Roles and Responsibilities:
+
+• Installation, Cloning, Patching of the Oracle Applications R12.
+• Conversion of Database from non-RAC to RAC
+• Setting up of the Standby.
+• Carry out the Switchover, Fail over and Recovery.
+• Carryout the whole Recovery Process through the UI.
+
+3) On Demand Service Continuity
+
+The project dealt with "Disaster Recovery &amp; Backup" which involves automating checks so that
+disaster could be prevented. Also the recovery of database is involved.
+Client: On Demand Operations, Oracle Bangalore
+Team Size: 5
+Software /Tools:
+<label type="Tech Tools">Unix</label> Advanced <label type="Tech Tools">shell scripting</label> and expect. (Involves working on Korn Shell)
+
+Roles and Responsibilities:
+• Automated the checklists for E-business suite and PeopleSoft products.
+
+2) CCB Portal Administration
+
+Project Description
+
+The new CCB Administration component is an integrated, web-based application intended to
+consolidate and simplify the CCB processes for On Demand. This application:
+
+• Makes it easier to manage the process of change implementation in customer instances across
+the various milestones in the On Demand life cycle.
+
+• Simplifies said change implementation by keeping the information organized in a centralized
+repository.
+
+• In the CCB Administration application Release 1.0
+Client: System Assurance Centre, Oracle Unites States of America
+
+Team Size: 3
+Software /Tools:
+
+<label type="Tech Tools">PL/SQL</label> and <label type="Tech Tools">HTML</label>
+
+Roles and Responsibilities:
+
+
+
+* Developed the <label type="Tech Tools">PL/SQL</label> procedures &amp; packages, <label type="Tech Tools">HTML</label> forms required for the Portal, using <label type="Tech Tools">HTML</label>
+for the user to enter the required data.
+* The data is entered is validated, using <label type="Tech Tools">Java</label> Scripting, and the data is stored in the database.
+* Developed the reports.
+
+1) ORACLE PRODUCTION ASSESSMENTS
+
+Project Description
+AUTO VERIFY TOOL
+Auto Verify is a utility that automates many of the tedious and repetitive tasks that are involved
+during <label type="Job Specific Skills">QA testing</label> of an <label type="Tech Tools">Oracle Applications</label> Release 11i environment. Auto Verify now performs
+many of the tasks automatically that used to be performed manually.
+Client: System Assurance Centre, Oracle Unites States of America
+
+Team Size: 4
+Software /Tools:
+<label type="Tech Tools">UNIX</label> Advanced <label type="Tech Tools">Shell Scripting</label>, <label type="Tech Tools">PL/SQL</label>.
+
+Roles and Responsibilities:
+Automated the all the checklists for 8 releases of E-business suite.
+</cv>

@@ -1,0 +1,179 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Full-Stack Developer",
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "BOOKIE iGaming Full-Stack Developer ( )"
+  },
+  "skills": {
+    "technical_skills": [
+      "PHP",
+      "Python",
+      "Go",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Redux",
+      "Angular",
+      "Vue.js",
+      "React Native",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS",
+      "Heroku",
+      "Docker",
+      "LESS",
+      "SASS",
+      "WORK Tanndu Full Stack Developer",
+      "Chrome",
+      "Backbone.js",
+      "gulp",
+      "RequireJS",
+      "Webpack",
+      "Symfony 2.8",
+      "ExtJS",
+      "Information Technology Software",
+      "SOFT SKILLS Team player",
+      "Condent",
+      "Getting things done",
+      "Independent",
+      "Passionate"
+    ],
+    "programming_languages": [
+      "PHP",
+      "Python",
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "Node.js",
+      "React",
+      "Redux",
+      "Angular",
+      "Vue.js",
+      "React Native"
+    ],
+    "libraries": [],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "cloud_technologies": [
+      "AWS",
+      "Heroku"
+    ],
+    "devops_infrastructure": [
+      "Docker"
+    ],
+    "tools": [],
+    "other_relevant_technologies": [
+      "LESS",
+      "SASS",
+      "WORK Tanndu Full Stack Developer",
+      "Chrome",
+      "Backbone.js",
+      "gulp",
+      "RequireJS",
+      "Webpack",
+      "Symfony 2.8",
+      "ExtJS",
+      "Information Technology Software",
+      "SOFT SKILLS Team player",
+      "Condent",
+      "Getting things done",
+      "Independent",
+      "Passionate"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "specialization": null,
+      "institution": "Belarusian State University of Informatics and Radioelectronics",
+      "start_year": "2017",
+      "end_year": "2021",
+      "grade": null,
+      "raw_text": "EDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017\n2021)\nEngineering-Psychological Maintenance Of Information Technologies"
+    },
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "2012",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "MCB Associate's Degree (2012 2017)\nInformation Technology Software"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "EXPERIENCE Experience with external APIs;",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "SUMMARY Main stack: PHP, Node.js, React.js (Redux, Mobx), MySQL/PostgreSQL.",
+        "Don't have experience but would like to develop skills with Python, Golang, MongoDB, Angular, and Vue.js.",
+        "Integrated PayPal and authorization with Apple/Google/Facebook;",
+        "Gained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome Extensions;",
+        "Deployed projects on AWS/Heroku;",
+        "Was involved in the hiring process developer positions, interviewed candidates."
+      ],
+      "technologies_used": [
+        "PHP",
+        "Node.js",
+        "React",
+        "Redux",
+        "MySQL",
+        "PostgreSQL",
+        "Python",
+        "Go",
+        "MongoDB",
+        "Angular",
+        "Vue.js",
+        "Docker",
+        "AWS",
+        "Heroku",
+        "React Native",
+        "Chrome"
+      ],
+      "raw_text": "SUMMARY Main stack: PHP, Node.js, React.js (Redux, Mobx), MySQL/PostgreSQL.\nDon't have experience but would like to develop skills with Python, Golang, MongoDB, Angular, and Vue.js.\nEXPERIENCE Experience with external APIs;\nIntegrated PayPal and authorization with Apple/Google/Facebook;\nGained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome Extensions;\nDeployed projects on AWS/Heroku;\nWas involved in the hiring process developer positions, interviewed candidates."
+    },
+    {
+      "company": "BOOKIE iGaming",
+      "designation": "BOOKIE iGaming Full-Stack Developer ( )",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Acquired software design pattern knowledge;",
+        "Gained eld relevant experience;",
+        "On-job skills advancement for career growth;",
+        "Gained experience in Symfony 2.8, ExtJS."
+      ],
+      "technologies_used": [
+        "Symfony 2.8",
+        "ExtJS"
+      ],
+      "raw_text": "BOOKIE iGaming Full-Stack Developer ( )\nImplemented new features;\nAcquired software design pattern knowledge;\nGained eld relevant experience;\nOn-job skills advancement for career growth;\nImplemented new features;\nManaged bug xes;\nGained experience in Symfony 2.8, ExtJS."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

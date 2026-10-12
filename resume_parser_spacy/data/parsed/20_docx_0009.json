@@ -1,0 +1,152 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "hiring process developer"
+  },
+  "skills": {
+    "technical_skills": [
+      "PHP",
+      "Python",
+      "Go",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Redux",
+      "Angular",
+      "Vue.js",
+      "React Native",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS",
+      "Heroku",
+      "Docker",
+      "Backbone.js",
+      "ExtJS",
+      "SOFT SKILLS Team player",
+      "Condent",
+      "Getting things done",
+      "Independent",
+      "Passionate"
+    ],
+    "programming_languages": [
+      "PHP",
+      "Python",
+      "Go",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "Node.js",
+      "React",
+      "Redux",
+      "Angular",
+      "Vue.js",
+      "React Native"
+    ],
+    "libraries": [],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "cloud_technologies": [
+      "AWS",
+      "Heroku"
+    ],
+    "devops_infrastructure": [
+      "Docker"
+    ],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Backbone.js",
+      "ExtJS",
+      "SOFT SKILLS Team player",
+      "Condent",
+      "Getting things done",
+      "Independent",
+      "Passionate"
+    ]
+  },
+  "education": [
+    {
+      "degree": "EDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2017",
+      "end_year": "2021",
+      "grade": null,
+      "raw_text": "EDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017\n2021)\nEngineering-Psychological Maintenance Of Information Technologies"
+    },
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "2012",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "MCB Associate's Degree (2012 2017)\nInformation Technology Software"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployed projects on AWS/Heroku;",
+      "summary": "Was involved in the hiring process developer positions, interviewed candidates. BOOKIE iGaming Full-Stack Developer ( ) Implemented new features; Developed strong skills in React JS, Backbone.js, Node.js, PHP; Migrated the project from gulp + RequireJS to Webpack (ES6); Acquired software design pattern knowledge; Gained eld relevant experience; On-job skills advancement for career growth; Learned good programming practices from seasoned developers. Mapsoft Junior Full-Stack Developer ( ) Implemented new features; Managed bug xes;",
+      "technology_stack": [
+        "AWS",
+        "Heroku",
+        "React",
+        "Node.js",
+        "PHP",
+        "JavaScript",
+        "Backbone.js"
+      ],
+      "role": "hiring process developer",
+      "responsibilities": [
+        "Implemented new features;",
+        "Developed strong skills in React JS, Backbone.js, Node.js, PHP;",
+        "Implemented new features;",
+        "Managed bug xes;"
+      ]
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "EXPERIENCE Experience with external APIs;",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Integrated PayPal and authorization with Apple/Google/Facebook;",
+        "Gained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome Extensions;",
+        "Gained experience in Symfony 2.8, ExtJS."
+      ],
+      "technologies_used": [
+        "React",
+        "Redux",
+        "PHP",
+        "MySQL",
+        "Docker",
+        "React Native",
+        "ExtJS"
+      ],
+      "raw_text": "EXPERIENCE Experience with external APIs;\nIntegrated PayPal and authorization with Apple/Google/Facebook;\nGained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome Extensions;\nGained experience in Symfony 2.8, ExtJS."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

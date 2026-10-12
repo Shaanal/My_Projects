@@ -1,0 +1,50 @@
+RASHID SAID RASHID AL BALUSHI
+Electrical Engineer | Technical Operations Specialist | IoT Control System | Electrical Specialist
+Muscat, Sultanate of Oman | Phone: +968 99214599 | Email: rsralbalushi@gmail.com
+PERSONAL SUMMARY
+A motivated Electrical Power Engineering Fresh Graduate (2026) with a strong interest in technology, automation, 
+and smart systems. Skilled in electrical systems, IoT, troubleshooting, and technical support, with hands-on 
+experience in building monitoring and automated systems using microcontrollers. A quick learner with good 
+problem-solving skills, able to work well under pressure and adapt to latest technologies. Looking forward to growing 
+professionally 
+and 
+contributing 
+to 
+a 
+successful 
+and 
+innovative 
+work 
+environment.
+EDUCATION
+Advanced Diploma in Electrical Power Engineering 
+2026
+University of Technology and Applied Sciences (UTAS), Oman
+WORK EXPERIENCE
+Internship – Nama Electricity Distribution 
+Jun 2025 – Aug 2025
+Operations Department
+• Operational Support: Assisted in the real-time monitoring and maintenance of electrical distribution networks,
+ensuring high system availability.
+• Technical Troubleshooting: Participated in diagnosing and resolving faults within complex power systems and
+protective relays.
+• Documentation & Compliance: Supported operational documentation and safety inspections in compliance with
+utility standards, similar to IT standard operating procedures (SOPs).
+PROJECTS & INNOVATIONS
+ 
+&
+ 
+CERTIFICATIONS
+Remote Monitoring & Protection System (IoT): Designed a real-time system for monitoring electrical parameters. 
+Implemented data integration and remote alert features, showing ability in connectivity and sensor-based automation.
+Automated Irrigation System: Developed a moisture-controlled automated system. Awarded Best Project (2022-
+2023) for innovation in automation and efficiency.
+TECHNICAL SKILLS (TAILORED FOR APPLICATIONS OPS)
+• Systems & Infrastructure: Basic understanding of Linux-based systems (through IoT projects), Server-side logic,
+and Cloud monitoring concepts.
+• Automation & Scripting: Proficient in C/C++ (Arduino), Python (for IoT/Data), and logic-based programming
+(PLC/SCADA).
+• Technical Troubleshooting: Expert in fault analysis, root cause diagnosis, and systematic problem-solving in highpressure operational environments.
+• Applications & Tools: Microsoft 365, AutoCAD Electrical, and familiarity with data integration via APIs in IoT
+projects.
+Language: ( Arabic – English)

@@ -1,0 +1,222 @@
+{
+  "candidate": {
+    "full_name": "Chiheb Amri",
+    "email": "shihebamrii@gmail.com",
+    "phone_number": "+216 53400440",
+    "location": "Gafsa, Tunisia",
+    "linkedin": "https://linkedin.com/in/shihebamri",
+    "github": "https://github.com/shihebamrii",
+    "portfolio": "https://Socket.io"
+  },
+  "professional_information": {
+    "professional_summary": "Security-Focused Full-Stack Developer",
+    "career_objective": null,
+    "total_experience": "10 months",
+    "current_or_most_recent_role": "Remote\nFull-Stack & Cyber Threat Intelligence Developer Intern"
+  },
+  "skills": {
+    "technical_skills": [
+      "TypeScript",
+      "PowerShell",
+      "SQL",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bash",
+      "Java",
+      "C++",
+      "React",
+      "Node.js",
+      "Flask",
+      "Express",
+      "MongoDB",
+      "SQLite",
+      "PostgreSQL",
+      "AWS",
+      "Vercel",
+      "Docker",
+      "Linux",
+      "Microsoft Word",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Three.js",
+      "Socket.io",
+      "Cheerio",
+      "STIX",
+      "MITRE",
+      "dnslib",
+      "Paramiko",
+      "Vite",
+      "Mongoose",
+      "TAXII",
+      "STIX/TAXII",
+      "MITRE ATT&CK",
+      "AES-256-GCM",
+      "PBKDF2",
+      "Web Crypto API",
+      "DNS Protocol",
+      "LSB",
+      "Steganography"
+    ],
+    "programming_languages": [
+      "TypeScript",
+      "PowerShell",
+      "SQL",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bash",
+      "Java",
+      "C++"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Flask",
+      "Express"
+    ],
+    "libraries": [],
+    "databases": [
+      "MongoDB",
+      "SQLite",
+      "PostgreSQL"
+    ],
+    "cloud_technologies": [
+      "AWS",
+      "Vercel"
+    ],
+    "devops_infrastructure": [
+      "Docker",
+      "Linux"
+    ],
+    "tools": [
+      "Microsoft Word",
+      "Git",
+      "GitHub",
+      "Postman"
+    ],
+    "other_relevant_technologies": [
+      "Three.js",
+      "Socket.io",
+      "Cheerio",
+      "STIX",
+      "MITRE",
+      "dnslib",
+      "Paramiko",
+      "Vite",
+      "Mongoose",
+      "TAXII",
+      "STIX/TAXII",
+      "MITRE ATT&CK",
+      "AES-256-GCM",
+      "PBKDF2",
+      "Web Crypto API",
+      "DNS Protocol",
+      "LSB",
+      "Steganography"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.S. in Information Technology – Computer System Development",
+      "specialization": "Information Technology",
+      "institution": "Higher Institute of Technological Studies of Gafsa (ISET Gafsa) Gafsa",
+      "start_year": "2023",
+      "end_year": "2026",
+      "grade": null,
+      "raw_text": "Higher Institute of Technological Studies of Gafsa (ISET Gafsa) Gafsa, Tunisia\nB.S. in Information Technology – Computer System Development\nSep 2023 – Jun 2026 (Expected)\nRelevant Coursework: Computer Networks, Operating Systems, Database Systems, Algorithms & Data Structures"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Distributed Honeypot & Threat Intel Collector | Docker, Python, Flask, Paramiko",
+      "summary": "Built a multi-container honeypot system (Docker Compose) with low-interaction SSH and HTTP traps capturing attacker credentials, exploit payloads, and session metadata in real time. Developed a central Flask telemetry API aggregating intrusion reports from distributed nodes into a unified SQLite threat intelligence database with an interactive CLI dashboard. Canary Token Generator & Breach Dashboard | Python, Flask, SQLite, Chart.js Created a canary token platform generating trackable HTTP links, MS Word pixel trackers, and decoy AWS Access Keys with a mock AWS STS endpoint returning realistic AccessDenied responses. Implemented GeoIP intruder fingerprinting and real-time webhook alerting to Slack, Discord, and Telegram on breach detection. SecurDNS Firewall Resolver | Python, dnslib, SQLite Engineered a custom DNS firewall intercepting phishing and malware domains via real-time blocklist matching, sinkholes to 0.0.0.0, with auto-syncing blocklist ingestion and an interactive management CLI. API Cartographer | JavaScript, Chrome DevTools API, SVG | Chrome Extension Developed a DevTools extension reverse-engineering backend API surfaces by intercepting fetch/XHR traffic and scanning scripts for undiscovered routes, with SVG network graphs and OpenAPI v3 export. FingerprintID | React, TypeScript, Web Crypto API | Live Demo Designed a browser fingerprinting analyzer generating unique SHA-256 device identifiers via canvas, WebGL GPU probing, AudioContext synthesis, and font enumeration with a privacy score dashboard. StegSafe | Cryptography, HTML5 Canvas, Flask | Live Demo Built a zero-knowledge steganography platform embedding encrypted messages in PNG images using browser-native AES-256-GCM, LSB pixel packing, and self-destructing burn-on-read links.",
+      "technology_stack": [
+        "Docker",
+        "Python",
+        "Flask",
+        "SQLite",
+        "Microsoft Word",
+        "AWS",
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "HTML",
+        "dnslib",
+        "Paramiko"
+      ],
+      "role": null,
+      "responsibilities": [
+        "Built a multi-container honeypot system (Docker Compose) with low-interaction SSH and HTTP traps capturing attacker credentials, exploit payloads, and session metadata in real time.",
+        "Developed a central Flask telemetry API aggregating intrusion reports from distributed nodes into a unified SQLite threat intelligence database with an interactive CLI dashboard.",
+        "Created a canary token platform generating trackable HTTP links, MS Word pixel trackers, and decoy AWS Access Keys with a mock AWS STS endpoint returning realistic AccessDenied responses.",
+        "Implemented GeoIP intruder fingerprinting and real-time webhook alerting to Slack, Discord, and Telegram on breach detection.",
+        "Engineered a custom DNS firewall intercepting phishing and malware domains via real-time blocklist matching, sinkholes to 0.0.0.0, with auto-syncing blocklist ingestion and an interactive management CLI.",
+        "Developed a DevTools extension reverse-engineering backend API surfaces by intercepting fetch/XHR traffic and scanning scripts for undiscovered routes, with SVG network graphs and OpenAPI v3 export.",
+        "Designed a browser fingerprinting analyzer generating unique SHA-256 device identifiers via canvas, WebGL GPU probing, AudioContext synthesis, and font enumeration with a privacy score dashboard.",
+        "Built a zero-knowledge steganography platform embedding encrypted messages in PNG images using browser-native AES-256-GCM, LSB pixel packing, and self-destructing burn-on-read links."
+      ]
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Predictra",
+      "designation": "Remote\nFull-Stack & Cyber Threat Intelligence Developer Intern",
+      "location": null,
+      "start_date": "Jan 2026",
+      "end_date": "Jun 2026",
+      "responsibilities": [
+        "Built a real-time 3D cyber threat visualization platform (React, TypeScript, Three.js) rendering geolocated attack telemetry from multiple OSINT feeds on an interactive WebGL globe.",
+        "Engineered a Node.js ingestion pipeline scraping and parsing STIX 2.1 IOC feeds into MongoDB, mapping threat actors and TTPs to the MITRE ATT&CK framework for analyst correlation.",
+        "Integrated Socket.io for live dashboard updates and Cheerio-based scrapers for enriching threat actor profiles from public intelligence sources."
+      ],
+      "technologies_used": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "Three.js",
+        "Socket.io",
+        "Cheerio",
+        "STIX",
+        "MITRE"
+      ],
+      "raw_text": "Predictra – Subsidiary of Your Best Solution (Qu´ebec, Canada)\nRemote\nFull-Stack & Cyber Threat Intelligence Developer Intern\nJan 2026 – Jun 2026\nBuilt a real-time 3D cyber threat visualization platform (React, TypeScript, Three.js) rendering geolocated attack telemetry from multiple OSINT feeds on an interactive WebGL globe.\nEngineered a Node.js ingestion pipeline scraping and parsing STIX 2.1 IOC feeds into MongoDB, mapping threat actors and TTPs to the MITRE ATT&CK framework for analyst correlation.\nIntegrated Socket.io for live dashboard updates and Cheerio-based scrapers for enriching threat actor profiles from public intelligence sources.\nTunisian Regional Poste"
+    },
+    {
+      "company": "EmpireCall Call Center",
+      "designation": "Systems Administration & IT Support Intern",
+      "location": "Gafsa, Tunisia",
+      "start_date": "Jan 2025",
+      "end_date": "Feb 2025",
+      "responsibilities": [
+        "Supported LAN configuration and terminal maintenance across 30+ branch offices during a systems administration rotation.",
+        "Wrote PowerShell scripts to automate daily backup verification and server health monitoring for the IT operations team."
+      ],
+      "technologies_used": [
+        "PowerShell"
+      ],
+      "raw_text": "Gafsa, Tunisia\nSystems Administration & IT Support Intern\nJan 2025 – Feb 2025\nSupported LAN configuration and terminal maintenance across 30+ branch offices during a systems administration rotation.\nWrote PowerShell scripts to automate daily backup verification and server health monitoring for the IT operations team.\nEmpireCall Call Center"
+    },
+    {
+      "company": "Regueb, Tunisia",
+      "designation": "Tunisia",
+      "location": "Regueb",
+      "start_date": "Jan 2024",
+      "end_date": "Feb 2024",
+      "responsibilities": [
+        "Configured VoIP softphone routing and CTI systems for 50+ outbound agents; wrote SQL queries to clean and filter CRM lead databases."
+      ],
+      "technologies_used": [
+        "SQL"
+      ],
+      "raw_text": "Regueb, Tunisia\nIT Support & Systems Automation Intern\nJan 2024 – Feb 2024\nConfigured VoIP softphone routing and CTI systems for 50+ outbound agents; wrote SQL queries to clean and filter CRM lead databases."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

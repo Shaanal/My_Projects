@@ -1,0 +1,1142 @@
+{
+  "candidate": {
+    "full_name": "ALI GHANDI",
+    "email": "alighandij@gmail.com",
+    "phone_number": "+989134328961",
+    "location": "Tehran, Iran",
+    "linkedin": "https://www.linkedin.com/in/alighandi/",
+    "github": null,
+    "portfolio": "https://www.youtube.com/@7bjar"
+  },
+  "professional_information": {
+    "professional_summary": "AI Engineer with 8+ years of experience in machine learning, NLP, and AI product development, with a strong track record in applying LLMs and ML techniques across domains like crypto, mapping, and logistics. Proven ability to lead data-driven product development, align technical teams, and contribute to business goals—shaped by hands-on experience in both startups and complex AI systems. Skilled in bridging technical and business teams through clear communication and shared objectives. Passionate about continuous learning and adaptability, with a focus on using data and AI not as ends, but as tools to solve real-world problems. Experienced in tackling human-centered challenges and maintaining technical currency through active learning and collaboration with local AI institutions.",
+    "career_objective": null,
+    "total_experience": "8+ years of experience",
+    "current_or_most_recent_role": "Lead AI Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "LangChain",
+      "Django",
+      "FastAPI",
+      "NumPy",
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "Matplotlib",
+      "Seaborn",
+      "PyTorch",
+      "FAISS",
+      "Elasticsearch",
+      "Airflow",
+      "Docker",
+      "MLflow",
+      "Grafana",
+      "Prometheus",
+      "Large Language Models",
+      "Data Science",
+      "Data Analysis",
+      "Artificial Intelligence",
+      "Digital Systems",
+      "Machine Learning",
+      "Natural Language Processing",
+      "AI product development",
+      "Vector DBs",
+      "Multimodal models",
+      "Open Source LLMs",
+      "Metabase",
+      "WORKED WITH",
+      "PyS",
+      "OpenAI APIs",
+      "Retrieval-Augmented Generation",
+      "CLIP",
+      "LLaMA",
+      "Mistral",
+      "Ollama",
+      "Vllm",
+      "TGI",
+      "ML pipeline design"
+    ],
+    "programming_languages": [
+      "Python",
+      "SQL"
+    ],
+    "frameworks": [
+      "LangChain",
+      "Django",
+      "FastAPI"
+    ],
+    "libraries": [
+      "NumPy",
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "Matplotlib",
+      "Seaborn",
+      "PyTorch"
+    ],
+    "databases": [
+      "FAISS",
+      "Elasticsearch"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Airflow",
+      "Docker",
+      "MLflow",
+      "Grafana",
+      "Prometheus"
+    ],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Large Language Models",
+      "Data Science",
+      "Data Analysis",
+      "Artificial Intelligence",
+      "Digital Systems",
+      "Machine Learning",
+      "Natural Language Processing",
+      "AI product development",
+      "Vector DBs",
+      "Multimodal models",
+      "Open Source LLMs",
+      "Metabase",
+      "WORKED WITH",
+      "PyS",
+      "OpenAI APIs",
+      "Retrieval-Augmented Generation",
+      "CLIP",
+      "LLaMA",
+      "Mistral",
+      "Ollama",
+      "Vllm",
+      "TGI",
+      "ML pipeline design"
+    ]
+  },
+  "education": [
+    {
+      "degree": "PhD, Artificial Intelligence",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2019",
+      "end_year": "2019",
+      "grade": null,
+      "raw_text": "PhD, Artificial Intelligence – Sharif Univ. of Tech. 2019–25"
+    },
+    {
+      "degree": "MSc",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2017",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "MSc, Artificial Intelligence – Sharif Univ. of Tech. 2017–19"
+    },
+    {
+      "degree": "BSc",
+      "specialization": null,
+      "institution": null,
+      "start_year": "2013",
+      "end_year": "2013",
+      "grade": null,
+      "raw_text": "BSc, Digital Systems – Sharif Univ. of Tech. 2013–17"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Wisdomise (Multinational FinTech",
+      "designation": "Lead AI Engineer",
+      "location": "Dubai",
+      "start_date": "Dec 2021",
+      "end_date": "Jul 2025",
+      "responsibilities": [
+        "Joined as an early member and led an 8-person tech team to deliver production-grade LLM and ML solutions for crypto finance.",
+        "Spearheaded sentiment analysis, coin scoring, and forecasting tools using social, technical, and on-chain data.",
+        "Directed the development of a RAG-based crypto assistant with interactive document parsing and live search features.",
+        "Acted as Technical Product Manager, aligning cross-functional teams with business and data strategy goals."
+      ],
+      "technologies_used": [
+        "Large Language Models"
+      ],
+      "raw_text": "Lead AI Engineer – Wisdomise (Multinational FinTech)\nDec 2021 – Jul 2025, Dubai\nJoined as an early member and led an 8-person tech team to deliver production-grade LLM and ML solutions for crypto finance.\nSpearheaded sentiment analysis, coin scoring, and forecasting tools using social, technical, and on-chain data.\nDirected the development of a RAG-based crypto assistant with interactive document parsing and live search features.\nActed as Technical Product Manager, aligning cross-functional teams with business and data strategy goals."
+    },
+    {
+      "company": null,
+      "designation": "Chapter Lead of Data science team- Balad Map",
+      "location": "Tehran",
+      "start_date": "May 2020",
+      "end_date": "Feb 2022",
+      "responsibilities": [
+        "Led a 10-person data science chapter; drove hiring, and mentorship, and designed a career ladder framework.",
+        "Collaborated closely with product and engineering teams to align models with business needs.",
+        "Built the first in-house traffic prediction system without crawling external sources.",
+        "Initiated road bump detection via clustering and real-time user reports.",
+        "Boosted map search relevance by 50% using Bayesian ranking methods.",
+        "Developed change-point detection for real-time anomaly spotting (e.g., accidents, weather)."
+      ],
+      "technologies_used": [
+        "Data Science"
+      ],
+      "raw_text": "Chapter Lead of Data science team- Balad Map\nMay 2020 – Feb 2022 ,Tehran\nLed a 10-person data science chapter; drove hiring, and mentorship, and designed a career ladder framework.\nCollaborated closely with product and engineering teams to align models with business needs.\nBuilt the first in-house traffic prediction system without crawling external sources.\nInitiated road bump detection via clustering and real-time user reports.\nBoosted map search relevance by 50% using Bayesian ranking methods.\nDeveloped change-point detection for real-time anomaly spotting (e.g., accidents, weather)."
+    },
+    {
+      "company": "ESI",
+      "designation": "Machine Learning Engineer",
+      "location": "Tehran",
+      "start_date": "Oct 2017",
+      "end_date": "Jan 2020",
+      "responsibilities": [
+        "Led a 3-person team and performed data analytics for urban mobility.",
+        "Analyzed Tehran’s OD matrix and modeled district traffic using Gaussian processes."
+      ],
+      "technologies_used": [
+        "Data Analysis"
+      ],
+      "raw_text": "ML Engineer - ESI\nOct 2017 – Jan 2020, Tehran\nLed a 3-person team and performed data analytics for urban mobility.\nAnalyzed Tehran’s OD matrix and modeled district traffic using Gaussian processes."
+    },
+    {
+      "company": "HerminaTech",
+      "designation": "Product Manager(shareholder)",
+      "location": "Tehran",
+      "start_date": "Aug 2018",
+      "end_date": "Jan 2020",
+      "responsibilities": [
+        "Designed and managed a full-cycle B2B cloud-based hotel management and reservation service.",
+        "Gained solid product management experience with strong cross-team communication skills."
+      ],
+      "technologies_used": [],
+      "raw_text": "Product Manager(shareholder) at HerminaTech\nAug 2018 – Jan 2020, Tehran\nDesigned and managed a full-cycle B2B cloud-based hotel management and reservation service.\nGained solid product management experience with strong cross-team communication skills."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": [],
+  "extraction_metadata": {
+    "entity_model_used": true,
+    "section_count": 6,
+    "detected_sections": [
+      "PERSONAL_INFORMATION",
+      "EXPERIENCE",
+      "EDUCATION",
+      "SUMMARY",
+      "SKILLS",
+      "REFERENCES"
+    ],
+    "sections": [
+      {
+        "label": "PERSONAL_INFORMATION",
+        "heading": "ALI GHANDI",
+        "method": "classifier",
+        "confidence": 0.769
+      },
+      {
+        "label": "EXPERIENCE",
+        "heading": "EXPERIENCE",
+        "method": "alias",
+        "confidence": 1.0
+      },
+      {
+        "label": "EDUCATION",
+        "heading": "EDUCATION",
+        "method": "alias",
+        "confidence": 1.0
+      },
+      {
+        "label": "SUMMARY",
+        "heading": "SUMMARY",
+        "method": "alias",
+        "confidence": 1.0
+      },
+      {
+        "label": "SKILLS",
+        "heading": "WORKED WITH",
+        "method": "classifier",
+        "confidence": 0.504
+      },
+      {
+        "label": "REFERENCES",
+        "heading": "RECOMMENDATIONS",
+        "method": "alias",
+        "confidence": 1.0
+      }
+    ],
+    "field_confidence": {
+      "full_name": 0.5,
+      "location": 0.5,
+      "email": 0.99,
+      "phone_number": 0.9,
+      "skills": 0.802,
+      "total_experience": 0.9,
+      "education": 0.667,
+      "work_experience": 0.917,
+      "professional_summary": 1.0
+    },
+    "evidence": {
+      "full_name": {
+        "source": "heuristic:header_line",
+        "text": "ALI GHANDI",
+        "section": "PERSONAL_INFORMATION"
+      },
+      "location": {
+        "source": "heuristic:contact_pattern",
+        "text": "Tehran, Iran",
+        "section": "PERSONAL_INFORMATION"
+      },
+      "email": {
+        "source": "pattern:email",
+        "text": "alighandij@gmail.com",
+        "section": "PERSONAL_INFORMATION"
+      },
+      "phone_number": {
+        "source": "pattern:phone",
+        "text": "+989134328961",
+        "section": "PERSONAL_INFORMATION"
+      },
+      "linkedin": {
+        "source": "link",
+        "text": "https://www.linkedin.com/in/alighandi/"
+      },
+      "portfolio": {
+        "source": "link",
+        "text": "https://www.youtube.com/@7bjar"
+      },
+      "total_experience": {
+        "source": "pattern:stated",
+        "text": "8+ years of experience"
+      }
+    },
+    "skill_normalization": {
+      "raw_skills": [
+        "llm",
+        "data science",
+        "data analytics",
+        "communication skills",
+        "cross-team communication",
+        "MSc",
+        "Artificial Intelligence",
+        "Digital Systems",
+        "machine learning",
+        "nlp",
+        "llms",
+        "communication",
+        "adaptability",
+        "collaboration",
+        "AI product development",
+        "lead data-driven product development",
+        "startups",
+        "bridging technical",
+        "python",
+        "sql",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "tensorflow",
+        "hugging face",
+        "hugging face transformers",
+        "langchain",
+        "faiss",
+        "apache airflow",
+        "elasticsearch",
+        "docker",
+        "django",
+        "fastapi",
+        "mlflow",
+        "grafana",
+        "prometheus",
+        "matplotlib",
+        "seaborn",
+        "Py- Torch",
+        "Vector DBs",
+        "Multimodal models",
+        "Open Source LLMs",
+        "Metabase",
+        "WORKED WITH",
+        "PyS",
+        "Py",
+        "Torch",
+        "OpenAI APIs",
+        "RAG",
+        "CLIP",
+        "LLaMA",
+        "Mistral",
+        "Ollama",
+        "Vllm",
+        "TGI",
+        "ML pipeline design",
+        "Grafana /"
+      ],
+      "normalized_skills": [
+        "Python",
+        "SQL",
+        "LangChain",
+        "Django",
+        "FastAPI",
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow",
+        "Hugging Face Transformers",
+        "Matplotlib",
+        "Seaborn",
+        "PyTorch",
+        "FAISS",
+        "Elasticsearch",
+        "Airflow",
+        "Docker",
+        "MLflow",
+        "Grafana",
+        "Prometheus",
+        "Large Language Models",
+        "Data Science",
+        "Data Analysis",
+        "Artificial Intelligence",
+        "Digital Systems",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI product development",
+        "Vector DBs",
+        "Multimodal models",
+        "Open Source LLMs",
+        "Metabase",
+        "WORKED WITH",
+        "PyS",
+        "OpenAI APIs",
+        "Retrieval-Augmented Generation",
+        "CLIP",
+        "LLaMA",
+        "Mistral",
+        "Ollama",
+        "Vllm",
+        "TGI",
+        "ML pipeline design"
+      ],
+      "details": [
+        {
+          "skill": "Large Language Models",
+          "category": "other",
+          "parents": [
+            "Artificial Intelligence"
+          ],
+          "raw": [
+            "llm",
+            "llms"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "EXPERIENCE",
+            "SKILLS",
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Data Science",
+          "category": "other",
+          "parents": [
+            "Data Science"
+          ],
+          "raw": [
+            "data science"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "EXPERIENCE"
+          ]
+        },
+        {
+          "skill": "Data Analysis",
+          "category": "other",
+          "parents": [
+            "Data Science"
+          ],
+          "raw": [
+            "data analytics"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "EXPERIENCE"
+          ]
+        },
+        {
+          "skill": "Communication",
+          "category": "non_technical",
+          "parents": [
+            "Soft Skill"
+          ],
+          "raw": [
+            "communication skills",
+            "cross-team communication",
+            "communication"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "EXPERIENCE",
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Artificial Intelligence",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Artificial Intelligence"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "EDUCATION"
+          ]
+        },
+        {
+          "skill": "Digital Systems",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Digital Systems"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "EDUCATION"
+          ]
+        },
+        {
+          "skill": "Machine Learning",
+          "category": "other",
+          "parents": [
+            "Artificial Intelligence"
+          ],
+          "raw": [
+            "machine learning"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Natural Language Processing",
+          "category": "other",
+          "parents": [
+            "Artificial Intelligence"
+          ],
+          "raw": [
+            "nlp"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS",
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Adaptability",
+          "category": "non_technical",
+          "parents": [
+            "Soft Skill"
+          ],
+          "raw": [
+            "adaptability"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Collaboration",
+          "category": "non_technical",
+          "parents": [
+            "Soft Skill"
+          ],
+          "raw": [
+            "collaboration"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "AI product development",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "AI product development"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SUMMARY"
+          ]
+        },
+        {
+          "skill": "Python",
+          "category": "programming_languages",
+          "parents": [
+            "Backend",
+            "Data Science"
+          ],
+          "raw": [
+            "python",
+            "Py"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "SQL",
+          "category": "programming_languages",
+          "parents": [
+            "Database"
+          ],
+          "raw": [
+            "sql"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "NumPy",
+          "category": "libraries",
+          "parents": [
+            "Data Science",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "numpy"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Pandas",
+          "category": "libraries",
+          "parents": [
+            "Data Science",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "pandas"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "scikit-learn",
+          "category": "libraries",
+          "parents": [
+            "Machine Learning",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "scikit-learn"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "TensorFlow",
+          "category": "libraries",
+          "parents": [
+            "Deep Learning"
+          ],
+          "raw": [
+            "tensorflow"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Hugging Face Transformers",
+          "category": "libraries",
+          "parents": [
+            "NLP",
+            "Deep Learning"
+          ],
+          "raw": [
+            "hugging face",
+            "hugging face transformers"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "LangChain",
+          "category": "frameworks",
+          "parents": [
+            "LLM",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "langchain"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "FAISS",
+          "category": "databases",
+          "parents": [
+            "Vector Database"
+          ],
+          "raw": [
+            "faiss"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Airflow",
+          "category": "devops_infrastructure",
+          "parents": [
+            "Data Engineering",
+            "Orchestration"
+          ],
+          "raw": [
+            "apache airflow"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Elasticsearch",
+          "category": "databases",
+          "parents": [
+            "Database",
+            "Search"
+          ],
+          "raw": [
+            "elasticsearch"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Docker",
+          "category": "devops_infrastructure",
+          "parents": [
+            "DevOps",
+            "Containers"
+          ],
+          "raw": [
+            "docker"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Django",
+          "category": "frameworks",
+          "parents": [
+            "Backend",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "django"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "FastAPI",
+          "category": "frameworks",
+          "parents": [
+            "Backend",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "fastapi"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "MLflow",
+          "category": "devops_infrastructure",
+          "parents": [
+            "MLOps"
+          ],
+          "raw": [
+            "mlflow"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Grafana",
+          "category": "devops_infrastructure",
+          "parents": [
+            "Monitoring"
+          ],
+          "raw": [
+            "grafana",
+            "Grafana /"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Prometheus",
+          "category": "devops_infrastructure",
+          "parents": [
+            "Monitoring"
+          ],
+          "raw": [
+            "prometheus"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Matplotlib",
+          "category": "libraries",
+          "parents": [
+            "Data Visualization",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "matplotlib"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Seaborn",
+          "category": "libraries",
+          "parents": [
+            "Data Visualization",
+            "Python Ecosystem"
+          ],
+          "raw": [
+            "seaborn"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "PyTorch",
+          "category": "libraries",
+          "parents": [
+            "Deep Learning"
+          ],
+          "raw": [
+            "Py- Torch",
+            "Torch"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Vector DBs",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Vector DBs"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Multimodal models",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Multimodal models"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Open Source LLMs",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Open Source LLMs"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Metabase",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Metabase"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "WORKED WITH",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "WORKED WITH"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "PyS",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "PyS"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "OpenAI APIs",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "OpenAI APIs"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Retrieval-Augmented Generation",
+          "category": "other",
+          "parents": [
+            "Artificial Intelligence",
+            "LLM"
+          ],
+          "raw": [
+            "RAG"
+          ],
+          "method": "knowledge_base",
+          "confidence": 1.0,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "CLIP",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "CLIP"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "LLaMA",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "LLaMA"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Mistral",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Mistral"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Ollama",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Ollama"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "Vllm",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "Vllm"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "TGI",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "TGI"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        },
+        {
+          "skill": "ML pipeline design",
+          "category": "other",
+          "parents": [],
+          "raw": [
+            "ML pipeline design"
+          ],
+          "method": "unmatched",
+          "confidence": 0.5,
+          "sections": [
+            "SKILLS"
+          ]
+        }
+      ],
+      "rejected_unknown": [
+        "bridging technical",
+        "lead data-driven product development",
+        "msc",
+        "startups"
+      ],
+      "non_technical": [
+        "Communication",
+        "Adaptability",
+        "Collaboration"
+      ]
+    },
+    "experience_analysis": {
+      "total_months": 91,
+      "total_experience": "7 years 7 months",
+      "dated_entries": 4,
+      "overlapping_entries": [
+        {
+          "entries": [
+            0,
+            1
+          ],
+          "overlap_months": 3
+        },
+        {
+          "entries": [
+            2,
+            3
+          ],
+          "overlap_months": 18
+        }
+      ],
+      "duplicate_entries": []
+    },
+    "components": {
+      "approach": "A: spaCy CNN NER + TF-IDF/LogReg sections + char n-gram skill matching",
+      "ner_model": "models/resume_ner_spacy_vectors/model-best",
+      "section_model": "models/section_classifier/section_classifier.joblib"
+    }
+  }
+}

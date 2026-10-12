@@ -1,0 +1,99 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": null,
+    "current_or_most_recent_role": "Java Developer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Java",
+      "C#",
+      "C++",
+      "SQL",
+      "Spring Boot",
+      "Spring",
+      "Git",
+      "WPF"
+    ],
+    "programming_languages": [
+      "Java",
+      "C#",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "Spring"
+    ],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "Git"
+    ],
+    "other_relevant_technologies": [
+      "WPF"
+    ]
+  },
+  "education": [
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": "2012 2015 C # and Delphi professional courses at the Novosibirsk Academy of Design and Programming.",
+      "start_year": "2021",
+      "end_year": "2015",
+      "grade": null,
+      "raw_text": "2021 Ulpan Alef, Beit Borodetsky, Tel Aviv.\n2016 .\n2020 Java basic courses, online professional courses Udemy.\n2012 2015 C # and Delphi professional courses at the Novosibirsk Academy of Design and Programming."
+    }
+  ],
+  "projects": [
+    {
+      "name": "2021 MASA Tlalim, Java and Android programming, educational program, Israel",
+      "summary": "In terms of the educational program I had experience in C# development and WPF framework for Israeli startup in technological robotic sphere. Internship, Service Engineer, Center for Financial Technologies, software development company for global financial and credit companies, Russia Java + Oracle Development Optimizing Java code using Spring Boot Implementing Database Queries Summer internship as Java Developer at Eltex, a technological company which develops and manufactures network equipment, Russia Optimising Java code with using framework Spring Boot. Developing software for a router system.",
+      "technology_stack": [
+        "Java",
+        "C#",
+        "Spring Boot",
+        "WPF"
+      ],
+      "role": "Java Developer",
+      "responsibilities": []
+    }
+  ],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": "Java Developer",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Have Java developer background with proven experience in optimizing Java code using Spring Boot framework.",
+        "Have professional knowledge in implementing data transfer over the TCP/UDP protocol to the server.",
+        "BA in Informatics and Economy, with a passion for a constant professional development"
+      ],
+      "technologies_used": [
+        "Java",
+        "Spring Boot"
+      ],
+      "raw_text": "Have Java developer background with proven experience in optimizing Java code using Spring Boot framework.\nHave professional knowledge in implementing data transfer over the TCP/UDP protocol to the server.\nBA in Informatics and Economy, with a passion for a constant professional development"
+    }
+  ],
+  "certifications": [
+    "and self-study.",
+    "Highly motivated to work in the technological environment, a great team-player with good"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

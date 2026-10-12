@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+*.swp
+resume_parser_transformer/models/resume_transformer/

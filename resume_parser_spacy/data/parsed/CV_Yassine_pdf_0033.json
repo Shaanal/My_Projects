@@ -1,0 +1,242 @@
+{
+  "candidate": {
+    "full_name": "YASSINE ALI KACEM",
+    "email": null,
+    "phone_number": null,
+    "location": "Blida",
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://v3.camscanner.com/user/download"
+  },
+  "professional_information": {
+    "professional_summary": "Motivated 3rd-year Computer Science student with a specialization in Agentic Al, Multi-Agent Systems, and Intelligent Automation. Proven builder of real-world Al systems including a production-grade Multi-Agent ERP with Master Orchestrator architecture, an Al hiring automation pipeline, and an e-commerce analytics platform. Experienced leader managing a 9- member Al team, with a track record of organizing major university tech events. Driven to design scalable, Al-powered systems that transform how businesses operate and make decisions.",
+    "career_objective": null,
+    "total_experience": "2 years 2 months",
+    "current_or_most_recent_role": "Vice President"
+  },
+  "skills": {
+    "technical_skills": [
+      "Python",
+      "FastAPI",
+      "Plotly",
+      "Cisco",
+      "CRM",
+      "Multi-Agent Systems",
+      "Multi-agent",
+      "Machine Learning",
+      "Data Analysis",
+      "Software Engineering",
+      "System Architecture",
+      "Natural Language Processing",
+      "Large Language Models",
+      "JSON",
+      "database sharding",
+      "Deep Learning",
+      "AI&",
+      "ERP Systems",
+      "Al Pipeline Design",
+      "Programming Python",
+      "Automation Systems",
+      "AI& ML Agentic Al",
+      "LLM Orchestration",
+      "Apdittecture Master Slave Agent Design",
+      "MoE Architecture",
+      "System",
+      "Streamlit",
+      "Blockchain Blockchain Fundamentals",
+      "Smart Contract Basics",
+      "Scanné avec CamScanner"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "FastAPI"
+    ],
+    "libraries": [
+      "Plotly"
+    ],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Cisco"
+    ],
+    "tools": [
+      "CRM"
+    ],
+    "other_relevant_technologies": [
+      "Multi-Agent Systems",
+      "Multi-agent",
+      "Machine Learning",
+      "Data Analysis",
+      "Software Engineering",
+      "System Architecture",
+      "Natural Language Processing",
+      "Large Language Models",
+      "JSON",
+      "database sharding",
+      "Deep Learning",
+      "AI&",
+      "ERP Systems",
+      "Al Pipeline Design",
+      "Programming Python",
+      "Automation Systems",
+      "AI& ML Agentic Al",
+      "LLM Orchestration",
+      "Apdittecture Master Slave Agent Design",
+      "MoE Architecture",
+      "System",
+      "Streamlit",
+      "Blockchain Blockchain Fundamentals",
+      "Smart Contract Basics",
+      "Scanné avec CamScanner"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.Sc. Computer Science",
+      "specialization": null,
+      "institution": "Saad Dahleb University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "Algeria - Age 21 - Saad Dahleb University, Blida - 3rd Year B.Sc. Computer Science"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science (3rd",
+      "specialization": "Science in Computer Science",
+      "institution": "Saad Dahleb University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "Bachelor of Science in Computer Science (3rd Year)\nSaad Dahleb University - Blida, Algeria\n— Focus areas: Artificial Intelligence, Machine Learning, Multi-Agent Systems, Software Engineering\n— Additional studies: Data Analysis, System Architecture, Networking"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Multi-Agent Intelligent ERP System - Agentic Al + Enterprise Resource Planning",
+      "summary": "Built a production-grade Multi-Agent ERP using a Mixture-of-Experts (MoE) architecture with a Master Orchestrator and six specialized domain agents (HR, Finance, Inventory, CRM, Sales, Document) Master Orchestrator reads user queries, maps them via a structured router prompt, outputs JSON delegation payloads, and synthesizes cross-domain responses into a unified executive summary Analytics / CEO Agent computes cross-domain KPIs unavailable to any single department (e.g., Revenue per Employee, Cash Flow Pressure, Customer Acquisition Cost) and returns strict JSON schemas for live dashboard rendering Sub-Module Pattern: Python pre-crunches raw data deterministically (anomaly detection, churn prediction, stock. shortage modeling); LLM only receives statistical summaries eliminating hallucination on critical business data Demonstrated 99.9% time reduction vs. traditional analysis: complex cross-domain CEO queries answered in under 30 seconds vs. 4-6 days of human analysis Designed for enterprise scale: horizontal agent scaling, database sharding per department, async processing, audit trails, and on-premise LLM deployment for data privacy compliance",
+      "technology_stack": [
+        "JSON",
+        "Python",
+        "Large Language Models",
+        "CRM",
+        "database sharding",
+        "Multi-agent"
+      ],
+      "role": "Master Orchestrator",
+      "responsibilities": [
+        "Built a production-grade Multi-Agent ERP using a Mixture-of-Experts (MoE) architecture with a Master Orchestrator and six specialized domain agents (HR, Finance, Inventory, CRM, Sales, Document)",
+        "Designed for enterprise scale: horizontal agent scaling, database sharding per department, async processing, audit trails, and on-premise LLM deployment for data privacy compliance"
+      ]
+    },
+    {
+      "name": "Multi-Agent Hiring System - Agentic Al * Recruitment Automation",
+      "summary": "Multi-agent pipeline that ingests CVs and professional documents automatically via OCR and document parsing Scores and ranks candidates against job requirements without human intervention Recommends top candidates with explainable scoring, dramatically reducing time-to-hire Built on modern Agentic Al architecture with LLM-powered evaluation agents",
+      "technology_stack": [
+        "Large Language Models",
+        "Multi-agent"
+      ],
+      "role": null,
+      "responsibilities": [
+        "Built on modern Agentic Al architecture with LLM-powered evaluation agents"
+      ]
+    },
+    {
+      "name": "E-Commerce Analytics Platform - Freelance » Al-Powered Store Analytics",
+      "summary": "Automated data cleaning pipeline for raw sales datasets from multiple store sources Sales performance analysis delivering actionable insights and trend forecasting for store owners = Interactive dashboards built with Plotly and deployed via Streamlit",
+      "technology_stack": [
+        "Plotly"
+      ],
+      "role": null,
+      "responsibilities": [
+        "Automated data cleaning pipeline for raw sales datasets from multiple store sources"
+      ]
+    },
+    {
+      "name": "Smart Agriculture System - Machine Learning « intelligent Irrigation",
+      "summary": "= Integrates real-time soil sensors (pH, humidity, temperature) with a crop health ML prediction model = Automates irrigation decisions based on live environmental data, optimizing water usage and crop yield",
+      "technology_stack": [
+        "Machine Learning"
+      ],
+      "role": null,
+      "responsibilities": []
+    },
+    {
+      "name": "UniquelD - Digital identity System - In Progress",
+      "summary": "Hash-based unique identity system linked to national ID to prevent duplicate identities at scale Secure identity verification architecture - currently in system design and architecture phase",
+      "technology_stack": [],
+      "role": null,
+      "responsibilities": [
+        "Secure identity verification architecture - currently in system design and architecture phase"
+      ]
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Al Team Leader",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Mentoring members in Machine Learning, Agentic Al, and software engineering best practices — Overseeing end-to-end project planning, execution, and delivery"
+      ],
+      "technologies_used": [
+        "Large Language Models",
+        "Machine Learning",
+        "Software Engineering",
+        "Multi-agent"
+      ],
+      "raw_text": "Al Team Leader\nComputer Science Community Club (CSCC) * Current\n— Leading a team of 9 Al developers on applied Al research and production projects\n= Designing multi-agent system architectures and agentic LLM pipelines\nMentoring members in Machine Learning, Agentic Al, and software engineering best practices — Overseeing end-to-end project planning, execution, and delivery"
+    },
+    {
+      "company": "Vice President - External Relations",
+      "designation": "Vice President",
+      "location": null,
+      "start_date": "Aug 2025",
+      "end_date": "Feb 2026",
+      "responsibilities": [
+        "Led external communications and coordination with technology companies"
+      ],
+      "technologies_used": [],
+      "raw_text": "Vice President - External Relations\nComputer Science Community Club (CSCC) * Aug 2025 ~ Feb 2026\n— Managed strategic industry partnerships and external collaborations\n— Organized and co-directed large-scale tech events: GeekConf, AfroBot, DataBounty, SpeakUp\nLed external communications and coordination with technology companies"
+    },
+    {
+      "company": null,
+      "designation": "Vice President (Intern)",
+      "location": null,
+      "start_date": "Aug 2024",
+      "end_date": "Aug 2025",
+      "responsibilities": [
+        "Supported strategic planning, event logistics, and cross-team coordination"
+      ],
+      "technologies_used": [],
+      "raw_text": "Vice President (Intern)\nComputer Science Community Club (CSCC) » Aug 2024 - Aug 2025\nSupported strategic planning, event logistics, and cross-team coordination"
+    },
+    {
+      "company": null,
+      "designation": "Training Manager",
+      "location": null,
+      "start_date": "Jan 2024",
+      "end_date": "Sep 2024",
+      "responsibilities": [
+        "Computer Science Community Club (CSCC) * Jan 2024 -Sep 2024",
+        "= Designed and managed technical training programs for club members",
+        "— Organized Al, Machine Learning, and programming workshops",
+        "AfroBot * SpeakUp * DataBounty * GeekConf * Multiple Al & Programming Workshops"
+      ],
+      "technologies_used": [
+        "Machine Learning"
+      ],
+      "raw_text": "Training Manager\nComputer Science Community Club (CSCC) * Jan 2024 -Sep 2024\n= Designed and managed technical training programs for club members\n— Organized Al, Machine Learning, and programming workshops\nScanné avec CamScanner\n@ EVENTS ORGANIZED\nAfroBot * SpeakUp * DataBounty * GeekConf * Multiple Al & Programming Workshops"
+    }
+  ],
+  "certifications": [
+    "= CiscoCCNA1&2 (Certified) * CCNA3 (In Progress)",
+    "— DataCamp - Introduction to Natural Language Processing in Python (Oct 2025)",
+    "— Cyfrin - Blockchain Basics (Feb 2026)"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

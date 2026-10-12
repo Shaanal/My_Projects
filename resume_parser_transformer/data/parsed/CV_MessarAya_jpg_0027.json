@@ -1,0 +1,181 @@
+{
+  "candidate": {
+    "full_name": "AYA MESSAR",
+    "email": "ayamessar00@gmail.com",
+    "phone_number": "0699556714",
+    "location": "Algeria",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "AI ENGINEER Algeria | ayamessar00@gmail.com | 0699556714 Master's graduate in Intelligent Systems Engineering with real-world experience in AI, NLP, and software development. Interested in creating intelligent solutions and enhancing technical and problem-solving abilities continuously in practical settings",
+    "career_objective": null,
+    "total_experience": "1 year 6 months",
+    "current_or_most_recent_role": "Junior Data Scientist"
+  },
+  "skills": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "PHP",
+      "Scala",
+      "FastAPI",
+      "Flask",
+      "Angular",
+      "REST API",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "scikit-learn",
+      "Hugging Face Transformers",
+      "OpenCV",
+      "PostgreSQL",
+      "MySQL",
+      "Docker",
+      "Git",
+      "GitLab",
+      "Jupyter",
+      "Visual Studio Code",
+      "Google Colab",
+      "AI",
+      "Natural Language Processing",
+      "software development",
+      "Programming Languages",
+      "Google",
+      "Odoo",
+      "Streamlit",
+      "Code",
+      "PHP —_FastAPI",
+      "Streamlit VS Code",
+      "Machine Learning",
+      "Retrieval-Augmented Generation",
+      "Large Language Models",
+      "Android",
+      "MVC architecture"
+    ],
+    "programming_languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "PHP",
+      "Scala"
+    ],
+    "frameworks": [
+      "FastAPI",
+      "Flask",
+      "Angular",
+      "REST API"
+    ],
+    "libraries": [
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "scikit-learn",
+      "Hugging Face Transformers",
+      "OpenCV"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Docker"
+    ],
+    "tools": [
+      "Git",
+      "GitLab",
+      "Jupyter",
+      "Visual Studio Code",
+      "Google Colab"
+    ],
+    "other_relevant_technologies": [
+      "AI",
+      "Natural Language Processing",
+      "software development",
+      "Programming Languages",
+      "Google",
+      "Odoo",
+      "Streamlit",
+      "Code",
+      "PHP —_FastAPI",
+      "Streamlit VS Code",
+      "Machine Learning",
+      "Retrieval-Augmented Generation",
+      "Large Language Models",
+      "Android",
+      "MVC architecture"
+    ]
+  },
+  "education": [],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Yusr",
+      "designation": "Junior Data Scientist",
+      "location": null,
+      "start_date": "Nov 2025",
+      "end_date": "Present",
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "Junior Data Scientist — -Yusr Nov 2025 - Present"
+    },
+    {
+      "company": "CM Consulting",
+      "designation": "Intern",
+      "location": "Algiers",
+      "start_date": "Dec 2025",
+      "end_date": "Jul 2025",
+      "responsibilities": [
+        "Contribute to developing Al-based solutions for internal projects.",
+        "Support the team in testing and improving existing AI pipelines."
+      ],
+      "technologies_used": [
+        "Machine Learning",
+        "AI",
+        "Odoo"
+      ],
+      "raw_text": "Dely Brahim - Algiers\nContribute to developing Al-based solutions for internal projects.\nAssist in data preparation, analysis, and building basic machine learning models.\nSupport the team in testing and improving existing AI pipelines.\n¢ work on Odoo modules to help integrate AI features into internal tools\nIntern - AI Engineering Intern , CM Consulting Dec 2025 - Jul 2025"
+    },
+    {
+      "company": "CASNOS",
+      "designation": "Intern",
+      "location": "Algiers",
+      "start_date": "Jan 2023",
+      "end_date": "Jun 2023",
+      "responsibilities": [
+        "Built an internal assistant using Retrieval-Augmented Generation (RAG) and LLMs to answer queries.",
+        "Developed the frontend in Angular and backend in FastAPI, integrating with a PostgreSQL database.",
+        "Designed custom AI pipelines for document retrieval and answer generation.",
+        "Deployed services using Docker and managed development with GitLab.",
+        "Built a native Android app using Java, PHP, and MySQL.",
+        "Integrated RESTful APIs for real-time document status, payment tracking, and online service requests.",
+        "Followed MVC architecture for backend development."
+      ],
+      "technologies_used": [
+        "Retrieval-Augmented Generation",
+        "Large Language Models",
+        "Angular",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "GitLab",
+        "Java",
+        "PHP",
+        "MySQL",
+        "REST API",
+        "AI",
+        "Android",
+        "MVC architecture"
+      ],
+      "raw_text": "Ben Aknoun - Algiers\nBuilt an internal assistant using Retrieval-Augmented Generation (RAG) and LLMs to answer queries.\nDeveloped the frontend in Angular and backend in FastAPI, integrating with a PostgreSQL database.\nDesigned custom AI pipelines for document retrieval and answer generation.\nDeployed services using Docker and managed development with GitLab.\n© automating workflow using n8n\nIntern — Mobile Application Developer , CASNOS Jan 2023 - Jun 2023\nBlida\nBuilt a native Android app using Java, PHP, and MySQL.\nIntegrated RESTful APIs for real-time document status, payment tracking, and online service requests.\nFollowed MVC architecture for backend development."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

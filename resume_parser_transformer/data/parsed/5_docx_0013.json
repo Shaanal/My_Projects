@@ -1,0 +1,274 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": "Hod",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "4 years 2 months",
+    "current_or_most_recent_role": "Java/JS Developer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Go",
+      "Node.js",
+      "React",
+      "Angular",
+      "Spring",
+      "REST API",
+      "Spring Boot",
+      "Express",
+      "pytest",
+      "JUnit",
+      "MySQL",
+      "HBase",
+      "Cassandra",
+      "MongoDB",
+      "Couchbase",
+      "Firebase",
+      "Heroku",
+      "Kafka",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "Jenkins",
+      "IntelliJ IDEA",
+      "Visual Studio",
+      "Eclipse",
+      "Jira",
+      "Confluence",
+      "Microservices",
+      "WebStorm",
+      "PyCharm",
+      "OpenShift",
+      "Windows",
+      "CLI"
+    ],
+    "programming_languages": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Go"
+    ],
+    "frameworks": [
+      "Node.js",
+      "React",
+      "Angular",
+      "Spring",
+      "REST API",
+      "Spring Boot",
+      "Express"
+    ],
+    "libraries": [
+      "pytest",
+      "JUnit"
+    ],
+    "databases": [
+      "MySQL",
+      "HBase",
+      "Cassandra",
+      "MongoDB",
+      "Couchbase",
+      "Firebase"
+    ],
+    "cloud_technologies": [
+      "Heroku"
+    ],
+    "devops_infrastructure": [
+      "Kafka",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "Jenkins"
+    ],
+    "tools": [
+      "IntelliJ IDEA",
+      "Visual Studio",
+      "Eclipse",
+      "Jira",
+      "Confluence"
+    ],
+    "other_relevant_technologies": [
+      "Microservices",
+      "WebStorm",
+      "PyCharm",
+      "OpenShift",
+      "Windows",
+      "CLI"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Masters in Business Administration",
+      "specialization": "Business Administration",
+      "institution": "Touro College",
+      "start_year": "2011",
+      "end_year": "2013",
+      "grade": null,
+      "raw_text": "2011-2013: Masters in Business Administration (Touro College, Germany)"
+    },
+    {
+      "degree": "Masters in Computerized Economics",
+      "specialization": "Computerized Economics",
+      "institution": "University of Economics",
+      "start_year": "2006",
+      "end_year": "2011",
+      "grade": null,
+      "raw_text": "2006-2011: Masters in Computerized Economics (University of Economics, Russia)"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "6 years of proven experience",
+      "designation": "Java/JS Developer",
+      "location": "Hod",
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "(4 years in Java Backend/1 year in NodeJS /1 year in React/Angular)",
+        "Programming languages: Java, JavaScript, Python, Go Technologies & Frameworks: Spring, Nodejs, Angular, React, Microservices Architecture Environments: Eclipse, IntelliJ IDEA , Visual Studio, WebStorm, PyCharm"
+      ],
+      "technologies_used": [
+        "Java",
+        "Node.js",
+        "React",
+        "Angular",
+        "JavaScript",
+        "Python",
+        "Microservices",
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "Eclipse",
+        "Spring",
+        "Go",
+        "WebStorm",
+        "PyCharm"
+      ],
+      "raw_text": "Java/JS Developer\n6 years of proven experience\n(4 years in Java Backend/1 year in NodeJS /1 year in React/Angular)\nPhone:********** Residence: Hod-Hasharon\nRelevant Experience Summary:\nProgramming languages: Java, JavaScript, Python, Go Technologies & Frameworks: Spring, Nodejs, Angular, React, Microservices Architecture Environments: Eclipse, IntelliJ IDEA , Visual Studio, WebStorm, PyCharm"
+    },
+    {
+      "company": "Databases: MySQL, HBase, Cassandra, MongoDB, Couchbase",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [
+        "MySQL",
+        "HBase",
+        "Cassandra",
+        "MongoDB",
+        "Couchbase"
+      ],
+      "raw_text": "Databases: MySQL, HBase, Cassandra, MongoDB, Couchbase"
+    },
+    {
+      "company": "Amdocs",
+      "designation": "Java/JS Developer",
+      "location": null,
+      "start_date": "2019",
+      "end_date": "2020",
+      "responsibilities": [
+        "Eclipse, IntelliJ, PyCharm • Kafka (Spring Cloud Stream) • RESTful Web service (Spring Boot Starter Web) • MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) • OpenShift/Docker/Kubernetes, Jenkins • PyTest/Python, JUnit • Jira, Confluence, Rally • Linux, Windows 2017 - 2019: Fullstack Java/JS Developer, Inetex LTD (Israel, Rehovot), Project: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data Kafka (Spring Cloud Stream)"
+      ],
+      "technologies_used": [
+        "Kafka",
+        "Heroku",
+        "Firebase",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "Java",
+        "Microservices",
+        "Python",
+        "IntelliJ IDEA",
+        "REST API",
+        "Spring Boot",
+        "MySQL",
+        "Couchbase",
+        "Jenkins",
+        "pytest",
+        "JUnit",
+        "Jira",
+        "Confluence",
+        "React",
+        "MongoDB",
+        "Eclipse",
+        "Spring",
+        "PyCharm",
+        "OpenShift",
+        "Windows"
+      ],
+      "raw_text": "Streaming: Kafka\nClouding: Heroku, Firebase, Docker/Kubernetes/OpenShift Operating systems: Linux, Windows 2019 - 2020: Java Microservices / Python Developer, Amdocs (Israel, Raanana)\nWas involved in CPQ project which allows Telecom industry to provide price configuration on delivering internet products to its customers. An example would be delivering Business Internet/Wifi to hundreds of MacDonald’s branches.\nEclipse, IntelliJ, PyCharm • Kafka (Spring Cloud Stream) • RESTful Web service (Spring Boot Starter Web) • MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) • OpenShift/Docker/Kubernetes, Jenkins • PyTest/Python, JUnit • Jira, Confluence, Rally • Linux, Windows 2017 - 2019: Fullstack Java/JS Developer, Inetex LTD (Israel, Rehovot), Project: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data Kafka (Spring Cloud Stream)\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization (Spring Security)\nMySQL and MongoDB (MySQL Connector Java, Starter Data JPA)"
+    },
+    {
+      "company": "WebSoft",
+      "designation": "Java/JS Developer",
+      "location": "Russia",
+      "start_date": "2014",
+      "end_date": "2017",
+      "responsibilities": [
+        "Project: Social network inside the company that allows users to share knowledge (sharing and posting)",
+        "NodeJS, Express , MongoDB",
+        "2014-2017: Full stack Java/JS Developer, WebSoft (Russia, Smolensk)"
+      ],
+      "technologies_used": [
+        "Angular",
+        "Node.js",
+        "MongoDB",
+        "Java",
+        "Express",
+        "CLI"
+      ],
+      "raw_text": "Project: Social network inside the company that allows users to share knowledge (sharing and posting)\nAngular CLI\nNodeJS, Express , MongoDB\n2014-2017: Full stack Java/JS Developer, WebSoft (Russia, Smolensk)"
+    },
+    {
+      "company": "Authentication/Authorization/Accounting (Spring Security)",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Project: Car renting. Service was built for the company that rents its own car to clients",
+        "RESTfull Web service (Spring Boot Starter Web)",
+        "Interface with MySQL (MySQL Connector Java, Starter Data JPA)"
+      ],
+      "technologies_used": [
+        "Spring Boot",
+        "MySQL",
+        "Java",
+        "Spring"
+      ],
+      "raw_text": "Project: Car renting. Service was built for the company that rents its own car to clients\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization/Accounting (Spring Security)\nInterface with MySQL (MySQL Connector Java, Starter Data JPA)"
+    },
+    {
+      "company": "Nodejs, MongoDB, CLI",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Project: Web-Scrapping application that enables user to get prices of the competitors."
+      ],
+      "technologies_used": [
+        "Node.js",
+        "MongoDB",
+        "CLI"
+      ],
+      "raw_text": "Project: Web-Scrapping application that enables user to get prices of the competitors.\nNodejs, MongoDB, CLI"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

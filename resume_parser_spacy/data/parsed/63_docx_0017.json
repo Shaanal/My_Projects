@@ -1,0 +1,107 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "FRONTEND DEVELOPER",
+    "career_objective": null,
+    "total_experience": "8 years 9 months",
+    "current_or_most_recent_role": null
+  },
+  "skills": {
+    "technical_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "GitHub"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Node.js"
+    ],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "GitHub"
+    ],
+    "other_relevant_technologies": []
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Business-Informatics",
+      "specialization": "Business",
+      "institution": "Moscow National Research University of Higher School of Economics",
+      "start_year": "2016",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "The Rodrup House | May 2016 - Aug 2017\nBusiness-Informatics.\nAssisted customers on the floor\nAttended to the specific requests of customers\nProvided and suggested the best type of merchandise to buy\nACADEMIC EDUCATION\nMoscow National Research University of Higher School of Economics\nBachelor of Business-Informatics, 2013\nUdemy"
+    },
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "2021",
+      "end_year": "2021",
+      "grade": null,
+      "raw_text": "Complete JavaScript Course, 2021\nCONTACT INFO: SKILLS:\nMobile: HTML 5, CSS, JavaScript, NODE.JS, Frameworks and Libraries\nEmail: Clear communication\nTel-Aviv, Israel Highly organized\n/ Innovative problem-solving\nAttention to details"
+    }
+  ],
+  "projects": [
+    {
+      "name": "3.",
+      "summary": "I've graduated from Moscow National Research University of Higher School of Store Floor Manager",
+      "technology_stack": [],
+      "role": null,
+      "responsibilities": []
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "JavaScript (ES6), HTML, CSS, Node.js, plus",
+      "designation": null,
+      "location": null,
+      "start_date": "Feb 2018",
+      "end_date": "Present",
+      "responsibilities": [
+        "I've got experience building and working Assistant Manager on JavaScript projects. I'm familiar with Wal & Joe Jewelry | Feb 2018 - Present"
+      ],
+      "technologies_used": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js"
+      ],
+      "raw_text": "I've got experience building and working Assistant Manager on JavaScript projects. I'm familiar with Wal & Joe Jewelry | Feb 2018 - Present\nJavaScript (ES6), HTML, CSS, Node.js, plus"
+    },
+    {
+      "company": "Passionate about working on exciting",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Github links: modern libraries and frameworks."
+      ],
+      "technologies_used": [
+        "GitHub"
+      ],
+      "raw_text": "Github links: modern libraries and frameworks.\n1.\nPassionate about working on exciting\n2."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

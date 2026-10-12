@@ -1,0 +1,63 @@
+Chiheb Amri
+Security-Focused Full-Stack Developer
++216 53400440 | shihebamrii@gmail.com | linkedin.com/in/shihebamri | github.com/shihebamrii
+Gafsa, Tunisia · Open to remote opportunities
+Education
+Higher Institute of Technological Studies of Gafsa (ISET Gafsa)
+Gafsa, Tunisia
+B.S. in Information Technology – Computer System Development
+Sep 2023 – Jun 2026 (Expected)
+• Relevant Coursework: Computer Networks, Operating Systems, Database Systems, Algorithms & Data Structures
+Professional Experience
+Predictra – Subsidiary of Your Best Solution (Qu´ebec, Canada)
+Remote
+Full-Stack & Cyber Threat Intelligence Developer Intern
+Jan 2026 – Jun 2026
+• Built a real-time 3D cyber threat visualization platform (React, TypeScript, Three.js) rendering geolocated attack telemetry
+from multiple OSINT feeds on an interactive WebGL globe.
+• Engineered a Node.js ingestion pipeline scraping and parsing STIX 2.1 IOC feeds into MongoDB, mapping threat actors and
+TTPs to the MITRE ATT&CK framework for analyst correlation.
+• Integrated Socket.io for live dashboard updates and Cheerio-based scrapers for enriching threat actor profiles from public
+intelligence sources.
+Tunisian Regional Poste
+Gafsa, Tunisia
+Systems Administration & IT Support Intern
+Jan 2025 – Feb 2025
+• Supported LAN configuration and terminal maintenance across 30+ branch offices during a systems administration rotation.
+• Wrote PowerShell scripts to automate daily backup verification and server health monitoring for the IT operations team.
+EmpireCall Call Center
+Regueb, Tunisia
+IT Support & Systems Automation Intern
+Jan 2024 – Feb 2024
+• Configured VoIP softphone routing and CTI systems for 50+ outbound agents; wrote SQL queries to clean and filter CRM lead
+databases.
+Selected Projects
+Distributed Honeypot & Threat Intel Collector | Docker, Python, Flask, Paramiko
+• Built a multi-container honeypot system (Docker Compose) with low-interaction SSH and HTTP traps capturing attacker
+credentials, exploit payloads, and session metadata in real time.
+• Developed a central Flask telemetry API aggregating intrusion reports from distributed nodes into a unified SQLite threat
+intelligence database with an interactive CLI dashboard.
+Canary Token Generator & Breach Dashboard | Python, Flask, SQLite, Chart.js
+• Created a canary token platform generating trackable HTTP links, MS Word pixel trackers, and decoy AWS Access Keys with a
+mock AWS STS endpoint returning realistic AccessDenied responses.
+• Implemented GeoIP intruder fingerprinting and real-time webhook alerting to Slack, Discord, and Telegram on breach detection.
+SecurDNS Firewall Resolver | Python, dnslib, SQLite
+• Engineered a custom DNS firewall intercepting phishing and malware domains via real-time blocklist matching, sinkholes to
+0.0.0.0, with auto-syncing blocklist ingestion and an interactive management CLI.
+API Cartographer | JavaScript, Chrome DevTools API, SVG | Chrome Extension
+• Developed a DevTools extension reverse-engineering backend API surfaces by intercepting fetch/XHR traffic and scanning scripts
+for undiscovered routes, with SVG network graphs and OpenAPI v3 export.
+FingerprintID | React, TypeScript, Web Crypto API | Live Demo
+• Designed a browser fingerprinting analyzer generating unique SHA-256 device identifiers via canvas, WebGL GPU probing,
+AudioContext synthesis, and font enumeration with a privacy score dashboard.
+StegSafe | Cryptography, HTML5 Canvas, Flask | Live Demo
+• Built a zero-knowledge steganography platform embedding encrypted messages in PNG images using browser-native
+AES-256-GCM, LSB pixel packing, and self-destructing burn-on-read links.
+Technical Skills
+Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS, Bash, PowerShell, Java, C++
+Frameworks & Libraries: React, Node.js, Express, Flask, Three.js, Vite, Socket.io, Mongoose, Cheerio, dnslib, Paramiko
+Infrastructure & Tools: Docker, Docker Compose, Git, GitHub, MongoDB, SQLite, PostgreSQL, Linux, Postman, Vercel
+Security & Protocols: STIX/TAXII, MITRE ATT&CK, AES-256-GCM, PBKDF2, Web Crypto API, DNS Protocol, LSB
+Steganography
+Languages
+Arabic (Native) · French (Fluent) · English (Professional Working Proficiency)

@@ -1,0 +1,112 @@
+{
+  "candidate": {
+    "full_name": "Raphael Emmerich",
+    "email": "pMcClure@hotmail.com",
+    "phone_number": null,
+    "location": "Bidar, Karnataka",
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://www.indeed.com/r/raphael-emmerich"
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "4 months",
+    "current_or_most_recent_role": "Technical Support Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "SAP",
+      "AC",
+      "Less than 1 year",
+      "Engineer",
+      "FANUC",
+      "SCADA",
+      "SLC 5",
+      "Proficy Machine",
+      "Prolific Systems",
+      "Technologies Pvt. Ltd",
+      "Bangalore",
+      "Allen Bradley Micro Logix1000",
+      "Siemens S7-300 SIMATIC MANAGER-5.4",
+      "GE FANUC Versamax Micro",
+      "Delta WPL Soft",
+      "Mitsubishi FX3U 16M GX-Developer",
+      "Omron Sysmac",
+      "CP1E CX-Programmer",
+      "Field Basics Of Fi",
+      "Interface With Live Plant"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "SAP"
+    ],
+    "other_relevant_technologies": [
+      "AC",
+      "Less than 1 year",
+      "Engineer",
+      "FANUC",
+      "SCADA",
+      "SLC 5",
+      "Proficy Machine",
+      "Prolific Systems",
+      "Technologies Pvt. Ltd",
+      "Bangalore",
+      "Allen Bradley Micro Logix1000",
+      "Siemens S7-300 SIMATIC MANAGER-5.4",
+      "GE FANUC Versamax Micro",
+      "Delta WPL Soft",
+      "Mitsubishi FX3U 16M GX-Developer",
+      "Omron Sysmac",
+      "CP1E CX-Programmer",
+      "Field Basics Of Fi",
+      "Interface With Live Plant"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Govt. High school Yernalli",
+      "specialization": null,
+      "institution": null,
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "Govt. High school Yernalli"
+    },
+    {
+      "degree": "B.E. in Electrical\n",
+      "specialization": "Electrical",
+      "institution": null,
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "B.E. in Electrical\nKarnataka State - Bidar, Karnataka\nSpeed synchronization of multiple DC motors in industries using wireless RF.\n➢ Aim: To find Speed synchronization of multiple DC motors in industries using wireless RF. https://www.indeed.com/r/raphael-emmerich\n➢ Main Components Used: LCD Display, Diodes, Potentiometer, Rectifier, transformer, DC motor, DC motor drive, […] microcontroller, RF transistor, RF receiver, IR sensor, etc."
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": "Technical Support Engineer",
+      "location": "Bengaluru, Karnataka",
+      "start_date": "November 2017",
+      "end_date": "February 2018",
+      "responsibilities": [
+        "the growth of the organization.",
+        "PLC Automation course that's way I will rejoin that job"
+      ],
+      "technologies_used": [
+        "SAP"
+      ],
+      "raw_text": "the growth of the organization.\nTechnical Support Engineer\nSAP\n-\nBengaluru, Karnataka\n-\nNovember 2017 to February 2018\nI completed\nPLC Automation course that's way I will rejoin that job"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Joseph Cremin</label>
+<label type="Location">Chandigarh, Chandigarh</label> - Email me on Indeed: <label type="Email Address">Milford.Thiel@ssaw.io</label>
+
+I've <label type="Years of Experience">4.6 years</label> of IT experience in <label type="Job Specific Skills">Identity and Access Management</label> with Infosys limited. It involves
+troubleshooting and resolving workflow errors and provisioning user access. I perform identity
+and access management activities, updating existing access and provisioning workflows, manage
+operations within the IAM environment. Currently I'm working on automating the work flow of
+Security Intelligence and Response Team with <label type="Tech Tools">Phantom</label> and <label type="Tech Tools">Python</label> scripting.
+I'm trained in <label type="Tech Tools">Python</label>, <label type="Tech Tools">Solaris</label> administration, <label type="Tech Tools">Java</label> and <label type="Tech Tools">PLSQL</label>. I'm able to handle multiple tasks
+and work as a team Member. I've excellent <label type="Soft Skills">analytical</label>, <label type="Soft Skills">problem solving</label> and programming skills.
+I'm committed; goal oriented, &amp; has zeal to learn new things &amp; technologies.
+I am graduated in <label type="Degree">Electronics and Communication Engineering </label>in <label type="Graduation Year">2013 </label>with excellent grades. I
+possess good <label type="Soft Skills">problem solving</label> &amp; <label type="Soft Skills">interpersonal</label> skills, good <label type="Soft Skills">communication</label> skills and <label type="Soft Skills">team spirit</label>.
+
+WORK EXPERIENCE
+
+<label type="Designation">Technology Analyst</label>
+
+<label type="Companies worked at">Infosys Limited</label> -  <label type="Location">Chandigarh, Chandigarh</label> -
+
+<label type="Years of Experience">October 2013 to Present</label>
+
+A. <label type="Job Specific Skills">Change Management</label>:
+Installing and upgrading RT and RTIR for improved request handling with <label type="Tech Tools">MySQL</label> database.
+
+B. <label type="Tech Tools">Python</label> <label type="Job Specific Skills">Automation</label>:
+Automating various use cases for the Security Intelligence and Response Team using Python
+scripting and Phantom tool integrating it with various tools i.e. Splunk, Request Tracker for
+Incident Response (RTIR), Remedy etc.
+
+Below are the use cases details:
+
+Use Cases Description
+Proxy Blocks Enable the ability to block domains and URLs automatically on Bluecoat proxies
+using a list maintained in SPLUNK
+Palo Alto Blocks Enable the ability to block domains and URLs automatically on Palo Alto proxies
+using a list maintained in SPLUNK
+Threat Intel Email feed ingestion Take emails from an external distribution group and parse the
+emails for IOCs
+Email Eradication
+When a Malicious email has been detected as being received in the Microsoft Exchange email
+system perform eradication steps to remove the email from the email messaging platform
+
+Email Quarantine Email addresses alerted as malicious need to be added to a quarantine list
+Malware Response When malware is detected by alert or scanning initiate containment
+procedures for the affected device in question
+Unapproved Devices
+
+https://www.indeed.com/r/joseph-cremin
+
+
+When alerts for Unapproved Devices, equipment that is not in Organization's asset inventory, is
+triggered containment needs to occur for the device in question
+
+IOC Detect and Scanning using Tanium and Fireeye HX
+When Indicators of Compromise, IOC, are received from various sources, threat intel feeds,
+exploded malware the network environment needs to be scanned for any of the indicators of
+compromise provided.
+
+Clear Text Passwords detected
+Automatically flag users password to reset in Active Directory when an alert in SPLUNK for a clear
+text password detected fires
+
+Create ticket from Splunk or MSSP Alert
+Develop a script that takes the details of an alert from an alert generated in SPLUNK and create
+or append to a ticket in the ticketing system in use
+
+Triage and Identification Execute the triage and identification steps that are performed manually
+today
+
+<label type="Designation">Information Security Analyst</label>
+
+<label type="Companies worked at">Infosys Limited</label> -  <label type="Location">Chandigarh, Chandigarh</label> -
+
+<label type="Years of Experience">2013 to Present</label>
+
+A. <label type="Job Specific Skills">Identity management</label>
+
+<label type="Companies worked at">Infosys Limited</label> -
+
+May 2014 to December 2017
+
+management May 2014 - Dec 2017
+
+Following are my roles and responsibilities in the project:
+A. <label type="Job Specific Skills">Identity management</label>:
+Tracking and processing identity creation for all the new hires along with basic access e.g.: Email,
+Active Directory accounts and including mandatory security related groups. Also, making sure
+access is disabled on the user's departure date and cleaning up of all the access. Reviewing
+access periodically and updating it accordingly.
+
+B. <label type="Job Specific Skills">Access management</label>:
+This involves provisioning/de-provisioning access to users across 300+ applications using various
+global and in house tools like RSA security console, SAP, Identity IIQ etc. across multiple platforms
+like, <label type="Tech Tools">UNIX</label>, Database and application front end. Making sure standard operative procedures (SOP)
+are followed, validation checks are completed and appropriate approvals are gathered before
+access is granted.
+
+C. <label type="Job Specific Skills">Quality Management</label>:
+Performing quality checks on random samples of requests on daily basis and sharing QAP results
+with administrators.
+- Monitoring and tracking the corrective actions are taken within defined timeframe.
+
+
+
+- Doing RCA on major issues
+- <label type="Job Specific Skills">Developing Service Improvement</label> Plan (SIP) and <label type="Job Specific Skills">Process Improvement Plan </label>(PIP) based on the
+QAP analysis
+
+D. <label type="Job Specific Skills">Risk Management</label>:
+Identifying risk areas through daily and periodic report E.g. Segregation of duties violation (SOD)
+report, Active directory infraction report etc.
+- Working with various teams to mitigate the violations.
+- Assisting auditors by provide details and justification on audit samples.
+
+E. <label type="Job Specific Skills">Client Coordination</label>:
+Coordinating with client daily, weekly for the operations, issues and feedback with the respective
+reports prepared.
+
+EDUCATION
+
+<label type="Degree">Bachelor of Technology in Electronics and Communication Engineering</label>
+
+<label type="College Name">GLA Institute of Technology and Management</label> -  <label type="Location">Mathura, Uttar Pradesh</label>
+
+<label type="Graduation Year">September 2009 to June 2013</label>
+
+SKILLS
+
+SECURITY (5 years), <label type="Job Specific Skills">INFORMATION SECURITY</label> (5 years), <label type="Tech Tools">ACTIVE DIRECTORY</label> (3 years), <label type="Tech Tools">UNIX</label>
+(Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+● Operating Systems: <label type="Tech Tools">Windows</label>, <label type="Tech Tools">Solaris</label>
+● Languages: <label type="Tech Tools">Python</label>, <label type="Tech Tools">Core Java</label>, <label type="Tech Tools">SQL</label>, <label type="Tech Tools">Unix</label>
+● Software: <label type="Tech Tools">Sailpoint IIQ</label>, <label type="Tech Tools">Oracle IAM</label>, <label type="Tech Tools">Beeline</label>, <label type="Tech Tools">SAP</label>, <label type="Tech Tools">Active Directory</label>, <label type="Tech Tools">Phantom</label>, <label type="Tech Tools">Quest change
+auditor</label>, <label type="Tech Tools">Microsoft Office Suite</label>
+● <label type="Job Specific Skills">Information Security</label>: Concepts and best practices
+</cv>

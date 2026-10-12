@@ -1,0 +1,220 @@
+{
+  "candidate": {
+    "full_name": "BOUTABBA AYOUB",
+    "email": "Ayoubboutabba1@gmail.com",
+    "phone_number": "+213 540614601",
+    "location": "Bougara",
+    "linkedin": "https://linkedin.com/in/",
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "A computer science graduate with practical experience in reinforcement learning, data routing, and wireless sensor network optimization. Passionate about network-based solutions and cybersecurity, | am seeking an opportunity to apply and develop my technical and research skills in a dynamic environment.",
+    "career_objective": null,
+    "total_experience": "1 year 3 months",
+    "current_or_most_recent_role": "IT Intern"
+  },
+  "skills": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Flask",
+      "TensorFlow",
+      "SQLite",
+      "Linux",
+      "Windows Server",
+      "Active Directory",
+      "Cisco",
+      "Visual Studio Code",
+      "Microsoft Office",
+      "Microsoft PowerPoint",
+      "Microsoft Excel",
+      "reinforcement learning",
+      "data routing",
+      "wireless sensor network optimization",
+      "network-based solutions",
+      "cybersecurity",
+      "Routing",
+      "INFORMATIQUE ET RESEAU",
+      "Programming",
+      "AI/ML",
+      "Networking",
+      "Reinforcement",
+      "WSN",
+      "Energy",
+      "Optimization",
+      "Routing Protocols",
+      "Windows",
+      "Word",
+      "Malware Analysis"
+    ],
+    "programming_languages": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "Flask"
+    ],
+    "libraries": [
+      "TensorFlow"
+    ],
+    "databases": [
+      "SQLite"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Linux",
+      "Windows Server",
+      "Active Directory",
+      "Cisco"
+    ],
+    "tools": [
+      "Visual Studio Code",
+      "Microsoft Office",
+      "Microsoft PowerPoint",
+      "Microsoft Excel"
+    ],
+    "other_relevant_technologies": [
+      "reinforcement learning",
+      "data routing",
+      "wireless sensor network optimization",
+      "network-based solutions",
+      "cybersecurity",
+      "Routing",
+      "INFORMATIQUE ET RESEAU",
+      "Programming",
+      "AI/ML",
+      "Networking",
+      "Reinforcement",
+      "WSN",
+      "Energy",
+      "Optimization",
+      "Routing Protocols",
+      "Windows",
+      "Word",
+      "Malware Analysis"
+    ]
+  },
+  "education": [
+    {
+      "degree": "computer science",
+      "specialization": "SYSTEM",
+      "institution": "UNIVERSITE DE BLIDA 1",
+      "start_year": "2018",
+      "end_year": "2025",
+      "grade": null,
+      "raw_text": "2018 - 2025\nUNIVERSITY OF BLIDA\n(UNIVERSITE DE BLIDA 1\nMaster's in Computer Science SPECIALIZATION:SYSTEM"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Itwas built using the Python framework and Flask for backend logic and routing.",
+      "summary": "+ - | designed a user-friendly interface using HTML, CSS, and basic JavaScript for uploading, searching, and organizing files. + -lintegrated a SQLite database to manage stored files and metadata. + -| focused on modularity, code clarity, and ease of deployment.",
+      "technology_stack": [
+        "Python",
+        "Flask",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQLite",
+        "Routing"
+      ],
+      "role": null,
+      "responsibilities": []
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Entreprise de Viabilisation de Sidi Moussa",
+      "designation": "IT Intern",
+      "location": "July",
+      "start_date": "August 2022",
+      "end_date": null,
+      "responsibilities": [
+        "Learned basic hardware maintenance, including computer disassembly and troubleshooting.",
+        "Installed and configured Windows operating systems on client machines.",
+        "Gained hands-on experience with Microsoft Office tools: Word, Excel, PowerPoint.",
+        "Worked with Windows Server: protocols, Active Directory (AD), and basic network configuration."
+      ],
+      "technologies_used": [
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Windows Server",
+        "Active Directory",
+        "Windows",
+        "Word",
+        "Microsoft Excel"
+      ],
+      "raw_text": "IT Intern - Entreprise de Viabilisation de Sidi Moussa\nJuly - August 2022\nLearned basic hardware maintenance, including computer disassembly and troubleshooting.\nInstalled and configured Windows operating systems on client machines.\nGained hands-on experience with Microsoft Office tools: Word, Excel, PowerPoint.\nWorked with Windows Server: protocols, Active Directory (AD), and basic network configuration."
+    },
+    {
+      "company": "Master's Thesis - University of Blida",
+      "designation": null,
+      "location": "Blida",
+      "start_date": "2024",
+      "end_date": "2025",
+      "responsibilities": [
+        "Title: \"Reinforcement Learning-based Approach for WSN Energy and Latency Optimization\"",
+        "Designed and implemented an A3C (Asynchronous Actor-Critic) algorithm to optimize energy consumption and reduce latency in Wireless Sensor Networks (WSN).",
+        "-Developed simulations using Python and [mention tool if used, e.g., NS2, TensorFlow, etc.].",
+        "-Compared the proposed model with traditional routing techniques and metaheuristic algorithms.",
+        "-Focused on balancing energy efficiency and data transmission delay."
+      ],
+      "technologies_used": [
+        "Python",
+        "TensorFlow",
+        "Routing"
+      ],
+      "raw_text": "Master's Thesis - University of Blida\n2024 - 2025\nTitle: \"Reinforcement Learning-based Approach for WSN Energy and Latency Optimization\"\nDesigned and implemented an A3C (Asynchronous Actor-Critic) algorithm to optimize energy consumption and reduce latency in Wireless Sensor Networks (WSN).\n-Developed simulations using Python and [mention tool if used, e.g., NS2, TensorFlow, etc.].\n-Compared the proposed model with traditional routing techniques and metaheuristic algorithms.\n-Focused on balancing energy efficiency and data transmission delay."
+    },
+    {
+      "company": null,
+      "designation": null,
+      "location": "Blida",
+      "start_date": "2022",
+      "end_date": null,
+      "responsibilities": [
+        "Title: “A Web Application for Archive Management Using Python and Flask\" « -1| developed a web-based archive management system as part of my graduation"
+      ],
+      "technologies_used": [
+        "Python",
+        "Flask"
+      ],
+      "raw_text": "Master's Graduation Project - University of Blida\n2022\nTitle: “A Web Application for Archive Management Using Python and Flask\" « -1| developed a web-based archive management system as part of my graduation"
+    }
+  ],
+  "certifications": [
+    "SERTIFICAT",
+    "Cybersecurity Operations - Self-study",
+    "2023 - Present",
+    "Gained understanding of threat detection, incident response, and secure operations.",
+    "Explored concepts like malware analysis and penetration testing.",
+    "Networks Fundamentals - University of Khartoum (Online Course)",
+    "Covered OSI model, routing basics, IP addressing, and switching.",
+    "Practical exposure to networking simulations.",
+    "Python Programming (Basics) - University of Khartoum (Online Course)",
+    "Learned Python syntax, variables, loops, and functions.",
+    "Completed small assignments for hands-on practice.",
+    "Huawei ICT Competition - National Finalist (Algeria)",
+    "Qualified for the national stage after completing HCIA curriculum:",
+    "= Datacom",
+    "Security",
+    "Wireless",
+    "Covered all modules without sitting for the official certification.",
+    "Cisco CCNA (200-301) - Self-Study",
+    "Studied switching, routing, subnetting, VLANs, and network protocols.",
+    "Practiced with Packet Tracer and real-world labs.",
+    "CompTIA (Self-Study)",
+    "A+ - Computer hardware, OS installation, and maintenance",
+    "Network+ - IP addressing, protocols, ports, and security basics",
+    "Malware Analysis - Identifying malicious behavior and tools for detection"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

@@ -1,0 +1,108 @@
+{
+  "candidate": {
+    "full_name": "RASHID SAID RASHID AL BALUSHI",
+    "email": "rsralbalushi@gmail.com",
+    "phone_number": "+968 99214599",
+    "location": "Muscat, Sultanate of Oman",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "A motivated Electrical Power Engineering Fresh Graduate (2026) with a strong interest in technology, automation, and smart systems. Skilled in electrical systems, IoT, troubleshooting, and technical support, with hands-on experience in building monitoring and automated systems using microcontrollers. A quick learner with good problem-solving skills, able to work well under pressure and adapt to latest technologies. Looking forward to growing professionally and contributing to a successful and innovative",
+    "career_objective": null,
+    "total_experience": "3 months",
+    "current_or_most_recent_role": "Internship"
+  },
+  "skills": {
+    "technical_skills": [
+      "C++",
+      "Python",
+      "Linux",
+      "Arduino",
+      "Microsoft Office",
+      "AutoCAD",
+      "Internet of Things",
+      "Embedded Systems",
+      "electrical systems",
+      "Cloud monitoring concepts",
+      "AutoCAD Electrical"
+    ],
+    "programming_languages": [
+      "C++",
+      "Python"
+    ],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Linux"
+    ],
+    "tools": [
+      "Arduino",
+      "Microsoft Office",
+      "AutoCAD"
+    ],
+    "other_relevant_technologies": [
+      "Internet of Things",
+      "Embedded Systems",
+      "electrical systems",
+      "Cloud monitoring concepts",
+      "AutoCAD Electrical"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Diploma in Electrical Power Engineering",
+      "specialization": "Electrical Power Engineering",
+      "institution": "University of Technology and Applied Sciences (UTAS)",
+      "start_year": "2026",
+      "end_year": "2026",
+      "grade": null,
+      "raw_text": "Advanced Diploma in Electrical Power Engineering\n2026\nUniversity of Technology and Applied Sciences (UTAS), Oman"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "environment."
+    },
+    {
+      "company": "Nama Electricity Distribution",
+      "designation": "Internship",
+      "location": null,
+      "start_date": "Jun 2025",
+      "end_date": "Aug 2025",
+      "responsibilities": [
+        "Operational Support: Assisted in the real-time monitoring and maintenance of electrical distribution networks, ensuring high system availability.",
+        "Technical Troubleshooting: Participated in diagnosing and resolving faults within complex power systems and protective relays.",
+        "Documentation & Compliance: Supported operational documentation and safety inspections in compliance with utility standards, similar to IT standard operating procedures (SOPs)."
+      ],
+      "technologies_used": [],
+      "raw_text": "Internship – Nama Electricity Distribution\nJun 2025 – Aug 2025\nOperations Department\nOperational Support: Assisted in the real-time monitoring and maintenance of electrical distribution networks, ensuring high system availability.\nTechnical Troubleshooting: Participated in diagnosing and resolving faults within complex power systems and protective relays.\nDocumentation & Compliance: Supported operational documentation and safety inspections in compliance with utility standards, similar to IT standard operating procedures (SOPs)."
+    }
+  ],
+  "certifications": [
+    "Remote Monitoring & Protection System (IoT): Designed a real-time system for monitoring electrical parameters.",
+    "Implemented data integration and remote alert features, showing ability in connectivity and sensor-based automation.",
+    "Automated Irrigation System: Developed a moisture-controlled automated system. Awarded Best Project (2022",
+    "2023) for innovation in automation and efficiency.",
+    "TECHNICAL SKILLS (TAILORED FOR APPLICATIONS OPS)",
+    "Systems & Infrastructure: Basic understanding of Linux-based systems (through IoT projects), Server-side logic,",
+    "and Cloud monitoring concepts.",
+    "Automation & Scripting: Proficient in C/C++ (Arduino), Python (for IoT/Data), and logic-based programming",
+    "(PLC/SCADA).",
+    "Technical Troubleshooting: Expert in fault analysis, root cause diagnosis, and systematic problem-solving in highpressure operational environments.",
+    "Applications & Tools: Microsoft 365, AutoCAD Electrical, and familiarity with data integration via APIs in IoT"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

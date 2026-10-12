@@ -1,0 +1,238 @@
+{
+  "candidate": {
+    "full_name": "ALI GHANDI",
+    "email": "alighandij@gmail.com",
+    "phone_number": "+989134328961",
+    "location": "Tehran, Iran",
+    "linkedin": "https://www.linkedin.com/in/alighandi/",
+    "github": null,
+    "portfolio": "https://www.youtube.com/@7bjar"
+  },
+  "professional_information": {
+    "professional_summary": "AI Engineer with 8+ years of experience in machine learning, NLP, and AI product development, with a strong track record in applying LLMs and ML techniques across domains like crypto, mapping, and logistics. Proven ability to lead data-driven product development, align technical teams, and contribute to business goals—shaped by hands-on experience in both startups and complex AI systems. Skilled in bridging technical and business teams through clear communication and shared objectives. Passionate about continuous learning and adaptability, with a focus on using data and AI not as ends, but as tools to solve real-world problems. Experienced in tackling human-centered challenges and maintaining technical currency through active learning and collaboration with local AI institutions.",
+    "career_objective": null,
+    "total_experience": "8+ years of experience",
+    "current_or_most_recent_role": "Lead AI Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "LangChain",
+      "Django",
+      "FastAPI",
+      "Spark",
+      "NumPy",
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "Matplotlib",
+      "Seaborn",
+      "PyTorch",
+      "FAISS",
+      "Elasticsearch",
+      "Airflow",
+      "Docker",
+      "MLflow",
+      "Grafana",
+      "Prometheus",
+      "Google Analytics",
+      "Large Language Models",
+      "Data Science",
+      "Data Analysis",
+      "Machine Learning",
+      "crypto",
+      "Natural Language Processing",
+      "AI product development",
+      "ML techniques",
+      "mapping",
+      "logistics",
+      "continuous learning",
+      "OpenAI",
+      "Multimodal models",
+      "CLIP",
+      "Metabase",
+      "MLOps",
+      "A/B testing",
+      "experiment tracking",
+      "WORKED WITH",
+      "PyS",
+      "OpenAI APIs",
+      "Retrieval-Augmented Generation",
+      "LLaMA",
+      "Mistral",
+      "Ollama",
+      "Vllm",
+      "TGI",
+      "ML pipeline design"
+    ],
+    "programming_languages": [
+      "Python",
+      "SQL"
+    ],
+    "frameworks": [
+      "LangChain",
+      "Django",
+      "FastAPI",
+      "Spark"
+    ],
+    "libraries": [
+      "NumPy",
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "Hugging Face Transformers",
+      "Matplotlib",
+      "Seaborn",
+      "PyTorch"
+    ],
+    "databases": [
+      "FAISS",
+      "Elasticsearch"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Airflow",
+      "Docker",
+      "MLflow",
+      "Grafana",
+      "Prometheus"
+    ],
+    "tools": [
+      "Google Analytics"
+    ],
+    "other_relevant_technologies": [
+      "Large Language Models",
+      "Data Science",
+      "Data Analysis",
+      "Machine Learning",
+      "crypto",
+      "Natural Language Processing",
+      "AI product development",
+      "ML techniques",
+      "mapping",
+      "logistics",
+      "continuous learning",
+      "OpenAI",
+      "Multimodal models",
+      "CLIP",
+      "Metabase",
+      "MLOps",
+      "A/B testing",
+      "experiment tracking",
+      "WORKED WITH",
+      "PyS",
+      "OpenAI APIs",
+      "Retrieval-Augmented Generation",
+      "LLaMA",
+      "Mistral",
+      "Ollama",
+      "Vllm",
+      "TGI",
+      "ML pipeline design"
+    ]
+  },
+  "education": [
+    {
+      "degree": "PhD, Artificial Intelligence",
+      "specialization": null,
+      "institution": "Sharif Univ. of Tech.",
+      "start_year": "2019",
+      "end_year": "2019",
+      "grade": null,
+      "raw_text": "PhD, Artificial Intelligence – Sharif Univ. of Tech. 2019–25"
+    },
+    {
+      "degree": "MSc, Artificial Intelligence",
+      "specialization": null,
+      "institution": "Sharif Univ. of Tech.",
+      "start_year": "2017",
+      "end_year": "2017",
+      "grade": null,
+      "raw_text": "MSc, Artificial Intelligence – Sharif Univ. of Tech. 2017–19"
+    },
+    {
+      "degree": "BSc, Digital Systems",
+      "specialization": null,
+      "institution": "Sharif Univ. of Tech.",
+      "start_year": "2013",
+      "end_year": "2013",
+      "grade": null,
+      "raw_text": "BSc, Digital Systems – Sharif Univ. of Tech. 2013–17"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Wisdomise (Multinational FinTech)",
+      "designation": "Lead AI Engineer",
+      "location": "Dubai",
+      "start_date": "Dec 2021",
+      "end_date": "Jul 2025",
+      "responsibilities": [
+        "Joined as an early member and led an 8-person tech team to deliver production-grade LLM and ML solutions for crypto finance.",
+        "Spearheaded sentiment analysis, coin scoring, and forecasting tools using social, technical, and on-chain data.",
+        "Directed the development of a RAG-based crypto assistant with interactive document parsing and live search features.",
+        "Acted as Technical Product Manager, aligning cross-functional teams with business and data strategy goals."
+      ],
+      "technologies_used": [
+        "Large Language Models",
+        "Machine Learning",
+        "crypto"
+      ],
+      "raw_text": "Lead AI Engineer – Wisdomise (Multinational FinTech)\nDec 2021 – Jul 2025, Dubai\nJoined as an early member and led an 8-person tech team to deliver production-grade LLM and ML solutions for crypto finance.\nSpearheaded sentiment analysis, coin scoring, and forecasting tools using social, technical, and on-chain data.\nDirected the development of a RAG-based crypto assistant with interactive document parsing and live search features.\nActed as Technical Product Manager, aligning cross-functional teams with business and data strategy goals."
+    },
+    {
+      "company": null,
+      "designation": "Chapter Lead of Data science team- Balad Map",
+      "location": "Tehran",
+      "start_date": "May 2020",
+      "end_date": "Feb 2022",
+      "responsibilities": [
+        "Led a 10-person data science chapter; drove hiring, and mentorship, and designed a career ladder framework.",
+        "Collaborated closely with product and engineering teams to align models with business needs.",
+        "Built the first in-house traffic prediction system without crawling external sources.",
+        "Initiated road bump detection via clustering and real-time user reports.",
+        "Boosted map search relevance by 50% using Bayesian ranking methods.",
+        "Developed change-point detection for real-time anomaly spotting (e.g., accidents, weather)."
+      ],
+      "technologies_used": [
+        "Data Science"
+      ],
+      "raw_text": "Chapter Lead of Data science team- Balad Map\nMay 2020 – Feb 2022 ,Tehran\nLed a 10-person data science chapter; drove hiring, and mentorship, and designed a career ladder framework.\nCollaborated closely with product and engineering teams to align models with business needs.\nBuilt the first in-house traffic prediction system without crawling external sources.\nInitiated road bump detection via clustering and real-time user reports.\nBoosted map search relevance by 50% using Bayesian ranking methods.\nDeveloped change-point detection for real-time anomaly spotting (e.g., accidents, weather)."
+    },
+    {
+      "company": "ESI",
+      "designation": "Machine Learning Engineer",
+      "location": "Tehran",
+      "start_date": "Oct 2017",
+      "end_date": "Jan 2020",
+      "responsibilities": [
+        "Led a 3-person team and performed data analytics for urban mobility.",
+        "Analyzed Tehran’s OD matrix and modeled district traffic using Gaussian processes."
+      ],
+      "technologies_used": [
+        "Data Analysis",
+        "Machine Learning"
+      ],
+      "raw_text": "ML Engineer - ESI\nOct 2017 – Jan 2020, Tehran\nLed a 3-person team and performed data analytics for urban mobility.\nAnalyzed Tehran’s OD matrix and modeled district traffic using Gaussian processes."
+    },
+    {
+      "company": "HerminaTech",
+      "designation": "Product Manager(shareholder)",
+      "location": "Tehran",
+      "start_date": "Aug 2018",
+      "end_date": "Jan 2020",
+      "responsibilities": [
+        "Designed and managed a full-cycle B2B cloud-based hotel management and reservation service.",
+        "Gained solid product management experience with strong cross-team communication skills."
+      ],
+      "technologies_used": [],
+      "raw_text": "Product Manager(shareholder) at HerminaTech\nAug 2018 – Jan 2020, Tehran\nDesigned and managed a full-cycle B2B cloud-based hotel management and reservation service.\nGained solid product management experience with strong cross-team communication skills."
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

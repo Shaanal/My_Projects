@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Laureen Brekke</label>
+<label type="Location">Bengaluru, Karnataka</label> - Email me on Indeed: <label type="Email Address">Oscar75@fl.info</label>
+
+<label type="Designation">Senior software engineer</label> with more than <label type="Years of Experience">9 years of experience</label> in <label type="Tech Tools">C</label>, <label type="Tech Tools">C++</label>, <label type="Job Specific Skills">Data
+Structures programming</label> and <label type="Job Specific Skills">BI analytics</label>. Experience includes implementation and
+testing of enterprise and mobile application and middleware component software.
+
+WORK EXPERIENCE
+
+<label type="Companies worked at">SMTS
+
+Oracle India</label> -  <label type="Location">Bengaluru, Karnataka</label> -
+
+<label type="Years of Experience">January 2014 to Present</label>
+
+with OBIEE team.
+• Worked in <label type="Companies worked at">Samsung R&amp;D Operations</label>, <label type="Location">Bangalore</label> <label type="Years of Experience">since Oct- 2008 to Jan 2014</label>, with
+Multimedia team.
+
+EDUCATION
+
+<label type="Degree">Post Graduate Diploma</label> in <label type="College Name">Embedded Systems
+
+CDAC</label> -  <label type="Location">Kochi, Kerala</label>
+
+<label type="Graduation Year">2006</label>
+
+<label type="Degree">Bachelor of Technology</label> in <label type="College Name">Electronics and Communications
+
+Nagarjuna University</label><label type="Graduation Year">
+
+2005</label>
+
+SKILLS
+
+<label type="Tech Tools">.NET</label> (Less than 1 year), <label type="Job Specific Skills">ALGORITHMS</label> (Less than 1 year), <label type="Tech Tools">ALSA</label> (Less than 1 year), <label type="Tech Tools">ANDROID</label>
+(Less than 1 year), <label type="Tech Tools">APACHE HADOOP HDFS</label> (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Core Competencies
+
+• Extensively worked in <label type="Tech Tools">C</label>, <label type="Tech Tools">C++</label>
+• Good understanding of <label type="Job Specific Skills">Data Structures</label> and <label type="Job Specific Skills">Algorithms</label>
+• Good understanding and knowledge of <label type="Job Specific Skills">BI Analytics</label> of <label type="Tech Tools">OBIEE</label>.
+• Codes at HackerRank.com and am a 4 Star Rank coder in algorithms, coded
+using <label type="Tech Tools">C++</label> STL
+• Hands on experience of GDB Debugger for Core dump analysis and Server
+
+https://www.indeed.com/r/laureen-brekke
+https://www.indeed.com/r/laureen-brekke
+
+
+side debugging.
+• Hands on experience of Visual Studio debugger for debugging on Windows
+platform.
+• Working experience of Multithreaded applications for more than eight years
+• Good understanding of <label type="Job Specific Skills">OOPS Design principles</label> and STL.
+• Experienced in using various debuggers that include <label type="Tech Tools">GDB debugger</label>, <label type="Tech Tools">Eclipse</label>, <label type="Tech Tools">VC++</label> IDE, <label type="Tech Tools">Trace
+32</label>, <label type="Tech Tools">WinDbg</label>, <label type="Tech Tools">Visual Studio</label>.
+• Good knowledge of <label type="Job Specific Skills">Big data</label> technologies(<label type="Tech Tools">Hadoop</label>, <label type="Tech Tools">Yarn Architecture</label>, <label type="Tech Tools">map-
+reduce</label>, <label type="Tech Tools">Hive</label>, <label type="Tech Tools">Sqoop</label>, <label type="Tech Tools">Hbase</label>, <label type="Tech Tools">Zookeeper</label>)
+• Good experience in Hadoop development and Admin activities.
+• Able to understand and review <label type="Tech Tools">Java</label> and <label type="Tech Tools">Scala</label> code
+• Good Exposure to Software practices, SDLC.
+• Good understanding and porting knowledge of framework components.
+• Good understanding of multimedia concepts, Audio video synchronization,
+AudioOut, AudioIn and video zoom.
+• Knowledge of WEBRTC features.
+• Good knowledge of video Engine.
+• Basic knowledge of MFC, socket programming.
+• Good knowledge in <label type="Job Specific Skills">programming</label> and operating system concepts.
+• Experience in working in a project from product development phase to
+commercialization phase.
+• Successfully commercialized more than 25 million mobiles spanning across
+twenty models.
+• Good global work exposure having worked in different work environments.
+• Basic understanding of <label type="Tech Tools">Linux</label> Operating system.
+• Experienced in design and implementation of Multimedia Applications for
+Mobile handsets.
+• Good experience working on Smart Phone platforms(Framework, Middleware
+and Application development) having worked on various mobile platforms
+SHP, Samsung Bada, Linux, WindowsMobile5.0, SLP, Android and Tizen.
+Syam Prasad Devendla
+• Good knowledge and understanding of different frameworks for multimedia.
+• Good knowledge of multi-threaded programming and IPC mechanisms.
+• Excellent interpersonal and communication skills and ability to work in a team.
+• Skilled at learning new concepts quickly, working well under pressure, and
+communicating ideas clearly and effectively.
+• Tools Used: Beyond Compare, Samsung memory leak tool, and Samsung code
+coverageTool, VS 2005 Remote Tools, KlocWork, WinShark and Ethereal.
+• Experienced in working with configuration tools like VSS, Perforce, and Clear
+Case.
+
+• Operating Systems: Windows, Ubuntu Linux
+• Mobile Platforms: SHP, Bada, Linux, WindowsMobile5.0, SLP and Tizen
+• Technology: Multimedia, Content, Mobile Applications
+• Languages: <label type="Tech Tools">C</label>, <label type="Tech Tools">C++</label>(Data Structures, Design Patterns, STL)
+• Tools: Eclipse, <label type="Tech Tools">VS2005</label>, <label type="Tech Tools">VS2010</label>
+KlocWork, Clear case, Perforce
+
+Projects
+
+
+
+• OBIEE
+Environment: Oracle BI Languages: <label type="Tech Tools">C++</label>
+• Implementing enhancements, improving the diagnosabilty and address the customer
+issues by fixing the code bugs.
+• Developed a security feature in downloads module to protect the system from DOS
+attack.
+• Implemented a performance enhancer logic in Ibots to execute the agents faster.
+• Responsible for fix/enhance Ibot(Delivers/Agent/Schedulers) issues in the product.
+• Responsible for fixing the core dump issues reported by customers in the nqscheduler
+component in linux 32/64 and windows 32/64 platforms.
+• Oracle-Thirdeye
+Environment: HDFS, Yarn, Hadoop, map-reduce, thirdeye-agent
+• GUI is able to provide all information in a usable environment.
+• Most of the use will be as an embeddable UI in applications like TLP, DTE, and Bug DB
+etc.
+
+Syam Prasad Devendla
+• Provide term, line number and time indexes for word and phrase search, ability to drill
+down to a given line number and data around it, and also have ability to see data
+around a given time.
+
+• Thirdeye-nodes-refresh
+Environment: HDFS, Yarn, Hadoop, map-reduce
+• All processes for thirdeye including Hadoop components running on the same node. This
+overburdens the master node and leads to frequent failures due to disk space and
+memory issues, so worked on POC to replicate entire thirdeye setup with required
+configuration on new machines.
+
+• BI-Manifest-Comparison Tool
+Environment: Oracle BI Languages: Java
+• Implemented tool to create an excel with manifests data across platforms and painted the
+mismatched versions
+• WebRTC
+Environment: Browser Languages: <label type="Tech Tools">C++</label>
+• Media Recorder implementation.
+• Multi Party communication development.
+• Stage Fright (recorder and playback)
+• Video engine
+• Peer connection
+• PlatformsY2012-Framework (content)
+Environment: Tizen Languages: <label type="Tech Tools">C++
+</label>• Developing Tizen framework (content) on SLP.
+• File Search
+• Directory Search
+• Playlist and Playlist Manager
+• Supporting Tizen content framework.
+• PlatformsY2011 -Framework (Multimedia- player)
+Environment: Bada, Eclipse, SLP (Samsung Linux Platform) Languages: <label type="Tech Tools">C++</label>
+
+
+
+• Implemented player framework for Bada OS
+• Audio Player and video Player modules.
+• POC of AV synchronization for video zoom.
+• Supporting Bada2.0 player framework and commercialization.
+• Movie Studio (Video Editor)
+Environment: Bada, Eclipse Languages: C++
+• Developed application based on UI guidelines given, modules like preview, split and trim
+forms using VePlayer library.
+• Implemented VPL file creation.
+• Media Browser
+Environment: Bada, Eclipse Languages: C, C++
+• This application is developed to check the stability of Bada's player and Audio out
+modules.
+• Audio Player and video Player modules.
+• Implemented progress bar of player in both Player Form and PLS Player Form.
+• Bada-NS(R&amp;D)
+Environment: Linux, SLP (Samsung Linux Platform) Languages: C, C++
+• Worked on launching emulator
+• knowledge of SLP Multimedia Framework
+• Ported Player (Audio and Video) module
+• Ported Audio Out and Audio In modules using ALSA library
+• ETMs Firmware Client: Wabtec Railway Electronics, German Town
+
+Syam Prasad Devendla
+Environment: <label type="Tech Tools">Windows</label> XP, IAR Workbench Hardware: IOC board (Provided by WRE)
+Languages: <label type="Tech Tools">C</label>
+• Serial - Ethernet Bridge
+• Serial communication commands handling.
+• Supt Link
+Client: Schindler Elevator &amp; Escalator Corporation
+Environment: Windows Mobile 5.0, embedded VC, Visual Studio 2005
+Languages: <label type="Tech Tools">VC++</label>, MFC
+• A Business application. It makes easy for the superintendents to check the status of the
+elevators and escalators which are newly installed or being maintained and rate them
+according to their performance and report the same to the Sap server using mobility
+solutions.
+• FldLink
+Client: Schindler Elevator &amp; Escalator Corporation
+Environment: Windows Mobile 5.0, embedded VC, <label type="Tech Tools">Visual Studio 2005</label>
+Languages: VC++, MFC
+• FldLink is a Mobile Application which provides the technicians with a single,
+comprehensive view of contact information, meeting schedules, Technical information
+and repairing support while working in the field.
+</cv>

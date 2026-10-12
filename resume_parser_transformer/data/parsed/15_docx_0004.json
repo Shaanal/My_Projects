@@ -1,0 +1,206 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": null,
+    "phone_number": null,
+    "location": "Holon",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Frontend Developer - 8 years experience Experience Summary",
+    "career_objective": null,
+    "total_experience": "8 years experience",
+    "current_or_most_recent_role": "Web Front End Developer"
+  },
+  "skills": {
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Perl",
+      "Angular",
+      "jQuery",
+      "Bootstrap",
+      "Node.js",
+      "REST API",
+      "React",
+      "AJAX",
+      "SQLite",
+      "MySQL",
+      "MongoDB",
+      "Neo4j",
+      "Agile",
+      "Webpack",
+      "tinyDB",
+      "Waterfall",
+      "WebSocket"
+    ],
+    "programming_languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Perl"
+    ],
+    "frameworks": [
+      "Angular",
+      "jQuery",
+      "Bootstrap",
+      "Node.js",
+      "REST API",
+      "React"
+    ],
+    "libraries": [
+      "AJAX"
+    ],
+    "databases": [
+      "SQLite",
+      "MySQL",
+      "MongoDB",
+      "Neo4j"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Agile",
+      "Webpack",
+      "tinyDB",
+      "Waterfall",
+      "WebSocket"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Software Developer",
+      "specialization": null,
+      "institution": "National Mining University",
+      "start_year": "2002",
+      "end_year": "2007",
+      "grade": null,
+      "raw_text": "2002/08 2007/06 National Mining University Dnepropetrovsk Ukraine\nDegree: Software Developer Master Degree\nRecommendations available upon request."
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Britannica",
+      "designation": "Web Front End Developer",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Britannica (Tel Aviv, Israel) Web Front End Developer Description: Knowledgebase project with time and resource management for educational processes in commercial specialized educational institutions."
+      ],
+      "technologies_used": [
+        "REST API",
+        "Angular"
+      ],
+      "raw_text": "Britannica (Tel Aviv, Israel) Web Front End Developer Description: Knowledgebase project with time and resource management for educational processes in commercial specialized educational institutions.\nResponsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution\n(ASPX) to newest solutions and technologies(Angular 7+), refactored code."
+    },
+    {
+      "company": "Athena",
+      "designation": "Israel) Web Front End Developer",
+      "location": null,
+      "start_date": "2017",
+      "end_date": "2018",
+      "responsibilities": [
+        "Technologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket",
+        "Description: Documentation accounting system. Search engine for seeking information in open sources and building structured knowledge base with internal search.",
+        "Responsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest solutions and technologies"
+      ],
+      "technologies_used": [
+        "HTML",
+        "CSS",
+        "Angular",
+        "TypeScript",
+        "Node.js",
+        "WebSocket"
+      ],
+      "raw_text": "Technologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket\n2017/04 - 2018/10 Athena (Holon, Israel) Web Front End Developer\nDescription: Documentation accounting system. Search engine for seeking information in open sources and building structured knowledge base with internal search.\nResponsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest solutions and technologies"
+    },
+    {
+      "company": "\"Neighbro\"",
+      "designation": "Web Front End Developer",
+      "location": null,
+      "start_date": "2016",
+      "end_date": "2017",
+      "responsibilities": [
+        "Technologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket",
+        "Description: project designed as mini social network for tenants and landlords.",
+        "Responsibilities: projected and implemented API and UX. written documentation"
+      ],
+      "technologies_used": [
+        "HTML",
+        "CSS",
+        "Angular",
+        "Node.js",
+        "WebSocket"
+      ],
+      "raw_text": "Technologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket\n2016/03 - 2017/04 Freelance Web Front End Developer\n\"Neighbro\"\nDescription: project designed as mini social network for tenants and landlords.\nResponsibilities: projected and implemented API and UX. written documentation"
+    },
+    {
+      "company": "Panels Dashboard",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Technologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS",
+        "Description: Web application/dashboard for analysis survey data, visualization statistical data.",
+        "Responsibilities: projected and implemented API and UX"
+      ],
+      "technologies_used": [
+        "HTML",
+        "jQuery",
+        "JavaScript",
+        "Angular",
+        "Node.js"
+      ],
+      "raw_text": "Technologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS\nPanels Dashboard\nDescription: Web application/dashboard for analysis survey data, visualization statistical data.\nResponsibilities: projected and implemented API and UX"
+    },
+    {
+      "company": "WOXAPP",
+      "designation": "Ukraine) Web Front End Developer",
+      "location": null,
+      "start_date": "2012",
+      "end_date": "2016",
+      "responsibilities": [
+        "Technologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS",
+        "Description: Cloud storage for photos, with social networking, forum and chat.",
+        "Responsibilities: projected and implemented UX and client-server logic"
+      ],
+      "technologies_used": [
+        "HTML",
+        "AJAX",
+        "JavaScript",
+        "React",
+        "Bootstrap",
+        "CSS"
+      ],
+      "raw_text": "Technologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS\n2012/02 - 2016/03 WOXAPP (Dnipro, Ukraine) Web Front End Developer\nDescription: Cloud storage for photos, with social networking, forum and chat.\nResponsibilities: projected and implemented UX and client-server logic"
+    },
+    {
+      "company": "Technologies used: HTML5, AJAX, JavaScript",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [
+        "HTML",
+        "AJAX",
+        "JavaScript"
+      ],
+      "raw_text": "Technologies used: HTML5, AJAX, JavaScript"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

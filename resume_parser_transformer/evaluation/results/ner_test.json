@@ -1,0 +1,137 @@
+{
+  "approach": "B: fine-tuned RoBERTa NER + sentence-embedding sections + embedding skill matching",
+  "data": "/home/shaanal/Documents/EHS/Project_Resume_Parser/resume_parser_transformer/annotations/splits/test.json",
+  "resumes": 31,
+  "ms_per_resume": 927.7,
+  "micro": {
+    "exact": {
+      "p": 0.6029,
+      "r": 0.6655,
+      "f": 0.6327
+    },
+    "overlap": {
+      "p": 0.7201,
+      "r": 0.7949,
+      "f": 0.7557
+    }
+  },
+  "per_label": {
+    "COMPANY": {
+      "exact": {
+        "p": 0.5703,
+        "r": 0.6518,
+        "f": 0.6083
+      },
+      "overlap": {
+        "p": 0.7031,
+        "r": 0.8036,
+        "f": 0.75
+      },
+      "support": 112
+    },
+    "DATE": {
+      "exact": {
+        "p": 0.7592,
+        "r": 0.7967,
+        "f": 0.7775
+      },
+      "overlap": {
+        "p": 0.8534,
+        "r": 0.8956,
+        "f": 0.874
+      },
+      "support": 182
+    },
+    "DEGREE": {
+      "exact": {
+        "p": 0.4756,
+        "r": 0.5909,
+        "f": 0.527
+      },
+      "overlap": {
+        "p": 0.6585,
+        "r": 0.8182,
+        "f": 0.7297
+      },
+      "support": 66
+    },
+    "EMAIL": {
+      "exact": {
+        "p": 0.9643,
+        "r": 1.0,
+        "f": 0.9818
+      },
+      "overlap": {
+        "p": 0.9643,
+        "r": 1.0,
+        "f": 0.9818
+      },
+      "support": 54
+    },
+    "INSTITUTION": {
+      "exact": {
+        "p": 0.4894,
+        "r": 0.6133,
+        "f": 0.5444
+      },
+      "overlap": {
+        "p": 0.6596,
+        "r": 0.8267,
+        "f": 0.7337
+      },
+      "support": 75
+    },
+    "JOB_TITLE": {
+      "exact": {
+        "p": 0.5882,
+        "r": 0.6771,
+        "f": 0.6295
+      },
+      "overlap": {
+        "p": 0.7557,
+        "r": 0.8698,
+        "f": 0.8087
+      },
+      "support": 192
+    },
+    "LOCATION": {
+      "exact": {
+        "p": 0.7062,
+        "r": 0.7062,
+        "f": 0.7062
+      },
+      "overlap": {
+        "p": 0.8136,
+        "r": 0.8136,
+        "f": 0.8136
+      },
+      "support": 177
+    },
+    "PERSON": {
+      "exact": {
+        "p": 0.8814,
+        "r": 0.8966,
+        "f": 0.8889
+      },
+      "overlap": {
+        "p": 0.8983,
+        "r": 0.9138,
+        "f": 0.906
+      },
+      "support": 58
+    },
+    "SKILL": {
+      "exact": {
+        "p": 0.5149,
+        "r": 0.5712,
+        "f": 0.5416
+      },
+      "overlap": {
+        "p": 0.6244,
+        "r": 0.6927,
+        "f": 0.6568
+      },
+      "support": 576
+    }
+  }
+}

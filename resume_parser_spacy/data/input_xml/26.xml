@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Ilona Kihn</label>
+<label type="Designation">DevOps Consultant</label> with <label type="Companies worked at">Infosys Limited</label>
+
+<label type="Location">Chennai, Tamil Nadu</label> - Email me on Indeed: <label type="Email Address">Glover.Casey@hotmail.com</label>
+
+<label type="Designation">Consultant </label>with <label type="Years of Experience">5.8 years of experience</label> DevOps design , CICD implementation, Build and
+deployment automation and Release Management.
+
+WORK EXPERIENCE
+
+<label type="Designation">DevOps Consultant</label>
+
+<label type="Companies worked at">Infosys Limited</label> -
+
+<label type="Years of Experience">December 2016 to Present</label>
+
+Responsibilities:
+• Ownership of <label type="Job Specific Skills">Release Management process</label> for various <label type="Job Specific Skills">web applications</label> (<label type="Tech Tools">Java</label> based)
+• Involve setting the overall <label type="Job Specific Skills">Delivery Automation strategy</label>, via investments in automation at
+several layers of the Technology stack to implement a <label type="Job Specific Skills">Continuous Deployment/Delivery pipeline</label>.
+• Designed and delivered <label type="Tech Tools">CloudBees</label> <label type="Tech Tools">Jenkins</label> pipeline jobs with groovy code and pipeline plugin
+for Continuous Integration and Deployments
+• Implemented a continuous delivery pipeline with <label type="Tech Tools">CloudBees</label> <label type="Tech Tools">Jenkins</label> and <label type="Job Specific Skills">Scripting</label>.
+• Manage and troubleshoot the running of automated jobs in <label type="Tech Tools">Jenkins</label>, <label type="Tech Tools">TFS</label> to support and
+streamline the release process.
+• Integrated Code quality, Code coverage, Unit Tests, Functional Tests with CI pipeline and
+resolved issues in this process.
+• Organize and coordinate release teams across organizational boundaries.
+• Deal with release to Dev, SIT, QA and Prod including business sign offs.
+• Create/Submit applications and required associated documentation to 3rd parties for third party
+acceptance/approval testing.
+• Configure and integrate Nexus and Artifactory Repository for builds and integrating it with the
+CICD orchestration tool like <label type="Tech Tools">Jenkins</label>, <label type="Tech Tools">TFS</label>, and <label type="Tech Tools">Bamboo</label>.
+• Develop <label type="Tech Tools">PowerShell scripts</label> to upload artifacts to Artifactory through REST API's and automated
+this as part of DevOps pipeline
+• Document knowledge articles in Confluence (Internal Wiki)
+Environment: <label type="Tech Tools">TFS</label> ( <label type="Tech Tools">GIT</label> - SCM), <label type="Tech Tools">TFS</label> Builds, <label type="Tech Tools">CloudBees</label> <label type="Tech Tools">Jenkins</label>, <label type="Tech Tools">ANT</label>, <label type="Tech Tools">MAVEN</label>, <label type="Tech Tools">Nexus</label>, <label type="Tech Tools">Shell Scripts</label>,
+<label type="Tech Tools">UNIX</label>, <label type="Tech Tools">JIRA</label>, , <label type="Tech Tools">Microsoft Visual Studio 2015</label>, <label type="Tech Tools">Octopus</label>,
+
+<label type="Designation">Technology Analyst</label>
+
+<label type="Companies worked at">Infosys Limited</label> -  <label type="Location">Chennai, Tamil Nadu</label> -
+
+<label type="Years of Experience">July 2011 to Present</label>
+
+EDUCATION
+
+<label type="Degree">Bachelor in "Instrumentation and Control Engineering"</label>
+
+https://www.indeed.com/r/ilona-kihn
+https://www.indeed.com/r/ilona-kihn
+
+
+<label type="College Name">Saranathan College of Engineering</label> -  <label type="Location">Tiruchchirappalli, Tamil Nadu</label>
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Platforms <label type="Tech Tools">Windows</label>, <label type="Tech Tools">Unix</label>, <label type="Tech Tools">Linux</label>
+Scripting Language <label type="Tech Tools">PowerShell scripting</label>, <label type="Tech Tools">Shell scripting</label>.
+<label type="Job Specific Skills">Databases</label> <label type="Tech Tools">Oracle</label>, <label type="Tech Tools">SQL Server</label>
+Build Tools <label type="Tech Tools">Maven</label>, <label type="Tech Tools">Ant</label>, <label type="Tech Tools">MSBuild</label>, <label type="Tech Tools">Nant</label>
+<label type="Tech Tools">CICD</label> Tools <label type="Tech Tools">CloudBees</label> <label type="Tech Tools">Jenkins</label>, <label type="Tech Tools">TFS</label>, <label type="Tech Tools">GIT</label>, <label type="Tech Tools">SVN</label>, <label type="Tech Tools">Octopus</label>, <label type="Tech Tools">Jira</label>, , Sonarqube, <label type="Tech Tools">MSTest</label>, <label type="Tech Tools">Nexus</label>,
+<label type="Tech Tools">Artifactory</label>, <label type="Tech Tools">Cobertura</label>, <label type="Tech Tools">Ansible</label>
+</cv>

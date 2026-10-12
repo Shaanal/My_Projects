@@ -1,0 +1,100 @@
+{
+  "approach": "B: fine-tuned RoBERTa NER + sentence-embedding sections + embedding skill matching",
+  "documents": [
+    "042376b1-371d-4553-8342-11cad42f8e44",
+    "cac28fe0-122e-48a8-8a18-d35b776443f1",
+    "cc615a4f-8034-430a-bcc7-f98cf3f513c5"
+  ],
+  "results": [
+    {
+      "system": "rules only",
+      "lines": 202,
+      "accuracy": 0.5792,
+      "macro_f1": 0.4159,
+      "weighted_f1": 0.5298
+    },
+    {
+      "system": "classifier only",
+      "lines": 202,
+      "accuracy": 0.4554,
+      "macro_f1": 0.3671,
+      "weighted_f1": 0.4377
+    },
+    {
+      "system": "hybrid",
+      "lines": 202,
+      "accuracy": 0.6386,
+      "macro_f1": 0.5055,
+      "weighted_f1": 0.5873
+    }
+  ],
+  "hybrid_report": {
+    "ACHIEVEMENTS": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "CERTIFICATIONS": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 6.0
+    },
+    "EDUCATION": {
+      "precision": 0.44,
+      "recall": 1.0,
+      "f1-score": 0.6111111111111112,
+      "support": 11.0
+    },
+    "EXPERIENCE": {
+      "precision": 0.5648148148148148,
+      "recall": 0.9682539682539683,
+      "f1-score": 0.7134502923976608,
+      "support": 63.0
+    },
+    "OTHER": {
+      "precision": 0.2,
+      "recall": 0.09090909090909091,
+      "f1-score": 0.125,
+      "support": 11.0
+    },
+    "PERSONAL_INFORMATION": {
+      "precision": 0.7058823529411765,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.7741935483870968,
+      "support": 14.0
+    },
+    "PROJECTS": {
+      "precision": 1.0,
+      "recall": 0.8235294117647058,
+      "f1-score": 0.9032258064516129,
+      "support": 34.0
+    },
+    "SKILLS": {
+      "precision": 0.5714285714285714,
+      "recall": 0.13793103448275862,
+      "f1-score": 0.2222222222222222,
+      "support": 29.0
+    },
+    "SUMMARY": {
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1-score": 0.4,
+      "support": 32.0
+    },
+    "accuracy": 0.6386138613861386,
+    "macro avg": {
+      "precision": 0.6091250821316181,
+      "recall": 0.5327147810244497,
+      "f1-score": 0.5054669978410783,
+      "support": 202.0
+    },
+    "weighted avg": {
+      "precision": 0.6984015586432591,
+      "recall": 0.6386138613861386,
+      "f1-score": 0.5873139712103638,
+      "support": 202.0
+    }
+  }
+}

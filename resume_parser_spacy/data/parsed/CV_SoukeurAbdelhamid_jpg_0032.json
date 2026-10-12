@@ -1,0 +1,88 @@
+{
+  "candidate": {
+    "full_name": "Abdelhamid Soukeur",
+    "email": null,
+    "phone_number": "0562850343",
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Taman electromechanical engineer with a strong background in electrical systems and industrial maintenance, experienced in installation, diagnosis, and repair of electrical equipment. I work efficiently in industrial environments requiring precision, discipline, and safety compliance, with strong teamwork skills and a continuous drive to improve my abilities.",
+    "career_objective": null,
+    "total_experience": "4 months",
+    "current_or_most_recent_role": "2025 Electrical Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "MATLAB",
+      "AutoCAD",
+      "Electric motor",
+      "AutoCAD Electrical"
+    ],
+    "programming_languages": [
+      "MATLAB"
+    ],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [
+      "AutoCAD"
+    ],
+    "other_relevant_technologies": [
+      "Electric motor",
+      "AutoCAD Electrical"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Master's degree",
+      "specialization": null,
+      "institution": "Mohamed Khider University",
+      "start_year": "2025",
+      "end_year": "2025",
+      "grade": null,
+      "raw_text": "Master's degree: Electromechanics Biskra\nMohamed Khider University, 2025 Completed projects\nAutomated Temperature, Humidity, and Egg Turning Controller for Incubators (Remote-Controlled via Mobile Phone)"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Hassi Messaoud",
+      "designation": "2025 Electrical Engineer",
+      "location": "Electrical Engineer Hassi Messaoud",
+      "start_date": "February 2025",
+      "end_date": "March 2025",
+      "responsibilities": [
+        "National Drilling Enterprise (Final-year internship):"
+      ],
+      "technologies_used": [],
+      "raw_text": "February 2025 -March 2025 Electrical Engineer Hassi Messaoud\nNational Drilling Enterprise (Final-year internship):"
+    },
+    {
+      "company": null,
+      "designation": null,
+      "location": "Electrician Biskra",
+      "start_date": "December 2023",
+      "end_date": "January 2024",
+      "responsibilities": [
+        "Knowledge of electrical starting systems used in oil drilling operations.",
+        "Sonatrach :We received practical training in the maintenance and rewinding of electric motors."
+      ],
+      "technologies_used": [],
+      "raw_text": "Knowledge of electrical starting systems used in oil drilling operations.\nDecember 2023-January 2024 Electrician Biskra\nSonatrach :We received practical training in the maintenance and rewinding of electric motors."
+    }
+  ],
+  "certifications": [
+    "Startup Certificate - Automatic Egg Incubator Control System[2025]",
+    "Electricity Internship Certificate at Sonatrach Company- biskra-[2023]",
+    "Electricity Internship Certificate at the National Drilling Enterprise-hassi messaoud-[2025]",
+    "Certificate of Online Course in Electric Motors — [ M3aarf], [2025]",
+    "Certificate of Good Conduct — Issued by [mohamed khider university of biskra], 2025"
+  ],
+  "achievements": [],
+  "volunteering": []
+}

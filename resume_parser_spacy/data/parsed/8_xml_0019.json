@@ -1,0 +1,229 @@
+{
+  "candidate": {
+    "full_name": "Santo Windler",
+    "email": "Vernice33@gmail.com",
+    "phone_number": null,
+    "location": "Pune, Maharashtra",
+    "linkedin": null,
+    "github": null,
+    "portfolio": "https://www.indeed.com/r/santo-windler"
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "1 year 9 months",
+    "current_or_most_recent_role": "Escalation Engineer"
+  },
+  "skills": {
+    "technical_skills": [
+      "HTML",
+      "Microsoft SQL Server",
+      "SharePoint",
+      "Windows Server",
+      "Linux",
+      "Active Directory",
+      "IIS",
+      "VMware",
+      "Microsoft Office",
+      "OPERATIONS MANAGER",
+      "Network devices",
+      "Web Application monitoring",
+      "Network Devices monitoring",
+      "SCSM-Orchestrator",
+      "Runbooks",
+      "SYSTEM CENTER OPERATIONS MANAGER",
+      "Installation",
+      "Cross-domain",
+      "Cross platform monitoring",
+      "Notifications",
+      "Deployment of various Microsoft",
+      "Non-Microsoft Integration Packs",
+      "Integration of",
+      "Creating",
+      "Deploying",
+      "Troubleshooting Runbook Server Performance Issues",
+      "SCOM",
+      "Orchestrator",
+      "SCSM",
+      "Operating systems",
+      "Microsoft Windows",
+      "Server Applications",
+      "Microsoft System Center Operations Manager",
+      "Microsoft System Center Service Manager",
+      "Microsoft System Center Orchestrator 2016",
+      "Microsoft Hyper-V",
+      "VMware Workstation",
+      "VirtualBox",
+      "Microsoft Identity Manager",
+      "Forefront Threat",
+      "Networking concepts",
+      "Microsoft Exchange",
+      "Win8.1/Win8/Win7/Vista/XP",
+      "Various Flavors",
+      "Distributions",
+      "Virtual Appliances",
+      "Other Applications",
+      "Trained",
+      "Forefront Identity Manager"
+    ],
+    "programming_languages": [
+      "HTML"
+    ],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [
+      "Microsoft SQL Server"
+    ],
+    "cloud_technologies": [
+      "SharePoint"
+    ],
+    "devops_infrastructure": [
+      "Windows Server",
+      "Linux",
+      "Active Directory",
+      "IIS"
+    ],
+    "tools": [
+      "VMware",
+      "Microsoft Office"
+    ],
+    "other_relevant_technologies": [
+      "OPERATIONS MANAGER",
+      "Network devices",
+      "Web Application monitoring",
+      "Network Devices monitoring",
+      "SCSM-Orchestrator",
+      "Runbooks",
+      "SYSTEM CENTER OPERATIONS MANAGER",
+      "Installation",
+      "Cross-domain",
+      "Cross platform monitoring",
+      "Notifications",
+      "Deployment of various Microsoft",
+      "Non-Microsoft Integration Packs",
+      "Integration of",
+      "Creating",
+      "Deploying",
+      "Troubleshooting Runbook Server Performance Issues",
+      "SCOM",
+      "Orchestrator",
+      "SCSM",
+      "Operating systems",
+      "Microsoft Windows",
+      "Server Applications",
+      "Microsoft System Center Operations Manager",
+      "Microsoft System Center Service Manager",
+      "Microsoft System Center Orchestrator 2016",
+      "Microsoft Hyper-V",
+      "VMware Workstation",
+      "VirtualBox",
+      "Microsoft Identity Manager",
+      "Forefront Threat",
+      "Networking concepts",
+      "Microsoft Exchange",
+      "Win8.1/Win8/Win7/Vista/XP",
+      "Various Flavors",
+      "Distributions",
+      "Virtual Appliances",
+      "Other Applications",
+      "Trained",
+      "Forefront Identity Manager"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.E",
+      "specialization": null,
+      "institution": "University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "University\n.\nWilling to relocate to:\nPune, Maharashtra - hyderbad\n, Telangana - Bangalore\n, Karnataka\nB.E\n."
+    },
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": "Pune University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "Pune University"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "designation": "Escalation Engineer",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Working on escalated issues with System Centre Operations Manager, Service Manager and Orchestrator. Have trained batches for the same. Supported junior Engineers in resolving tough issues."
+      ],
+      "technologies_used": [
+        "OPERATIONS MANAGER"
+      ],
+      "raw_text": "Escalation Engineer\nMicrosoft\nWorking on escalated issues with System Centre Operations Manager, Service Manager and Orchestrator. Have trained batches for the same. Supported junior Engineers in resolving tough issues."
+    },
+    {
+      "company": "Microsoft",
+      "designation": "Have worked as a Support Engineer",
+      "location": "Pune, Maharashtra",
+      "start_date": "October 2015",
+      "end_date": "April 2017",
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "Have worked as a Support Engineer\nMicrosoft\n-\nPune, Maharashtra\n-\nOctober 2015 to April 2017\nsince May 2017 as a"
+    },
+    {
+      "company": "Subject Matter Expert",
+      "designation": null,
+      "location": null,
+      "start_date": "Jan 2018",
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "Subject Matter Expert\nto Jan 2018 and as"
+    },
+    {
+      "company": "Microsoft",
+      "designation": "Escalation Engineer since Feb",
+      "location": null,
+      "start_date": "Feb\n2018",
+      "end_date": null,
+      "responsibilities": [
+        "2018 at Convergys India Pvt. Ltd",
+        ". Pune for MICROSOFT Enterprise Support Team (SCS-MON)"
+      ],
+      "technologies_used": [],
+      "raw_text": "Escalation Engineer since Feb\n2018 at Convergys India Pvt. Ltd\n. Pune for MICROSOFT Enterprise Support Team (SCS-MON)"
+    },
+    {
+      "company": "Microsoft",
+      "designation": "Service Manager",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "Working in Microsoft Commercial Technical Support SCS-MON Team providing advanced technical support by handling escalated or complex customer issues.",
+        "Identify, investigate, research and provide resolution on Customer queries and problems related to System Center Products.",
+        "Provide subject matter expertise in area of assignment and serve as a resource to other support personnel. Maintain high level of customer satisfaction always with an eye on productivity.",
+        "Maintain a high level of technical product knowledge in the specified software/hardware products and become knowledgeable in new products when deployed.",
+        "Have supported SCOM, SCSM and Orchestrator platform for Microsoft customers.",
+        "My work includes helping the Engineers with Technical issues on System Center platform support.",
+        "Installation, deployment and troubleshooting of System Center Service Manager",
+        "Portal deployment ( SharePoint and HTML5 )",
+        "Troubleshooting Data-warehouse Jobs issues"
+      ],
+      "technologies_used": [
+        "SharePoint",
+        "HTML"
+      ],
+      "raw_text": "Roles and responsibilities: -\nWorking in Microsoft Commercial Technical Support SCS-MON Team providing advanced technical support by handling escalated or complex customer issues.\nIdentify, investigate, research and provide resolution on Customer queries and problems related to System Center Products.\nProvide subject matter expertise in area of assignment and serve as a resource to other support personnel. Maintain high level of customer satisfaction always with an eye on productivity.\nMaintain a high level of technical product knowledge in the specified software/hardware products and become knowledgeable in new products when deployed.\nHave supported SCOM, SCSM and Orchestrator platform for Microsoft customers.\nMy work includes helping the Engineers with Technical issues on System Center platform support.\nSystem Center Service Manager:\nInstallation, deployment and troubleshooting of System Center Service Manager\nConfiguring Connectors\nNotifications\nPortal deployment ( SharePoint and HTML5 )\nTroubleshooting workflows\nTroubleshooting Data-warehouse Jobs issues"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

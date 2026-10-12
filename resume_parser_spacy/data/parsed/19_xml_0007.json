@@ -1,0 +1,270 @@
+{
+  "candidate": {
+    "full_name": "Faustino Pfannerstill",
+    "email": "Maryanna.Heaney@kg.co",
+    "phone_number": null,
+    "location": null,
+    "linkedin": "http://www.linkedin.com/in/faustino-pfannerstill",
+    "github": null,
+    "portfolio": "https://www.indeed.com/r/faustino-pfannerstill"
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "23 years 6 months",
+    "current_or_most_recent_role": "Senior Technical Lead"
+  },
+  "skills": {
+    "technical_skills": [
+      "Cisco",
+      "VMware",
+      "Wireshark",
+      "Result oriented",
+      "Networking Professional",
+      "UCSD orchestration",
+      "Routing",
+      "Switching",
+      "Mac flooding",
+      "CPT",
+      "Data Center",
+      "Virtualization",
+      "RSTP",
+      "Ethernet",
+      "LINKS",
+      "STP",
+      "VPC",
+      "Nexus 5k",
+      "DVS",
+      "ACE",
+      "SDN",
+      "Cisco Application Centric Infrastructure",
+      "L2/L3 Protocols OSPF",
+      "EIGRP",
+      "MPLS",
+      "VLAN",
+      "VXLAN",
+      "PsudoWire",
+      "REP",
+      "Testing Tools Wireshark",
+      "MIB Browser",
+      "Cisco UCSD Orchestration",
+      "Cisco Metro Ethernet 2600",
+      "ACI 9K switches",
+      "Cat 6500",
+      "3550 Switches"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Cisco"
+    ],
+    "tools": [
+      "VMware",
+      "Wireshark"
+    ],
+    "other_relevant_technologies": [
+      "Result oriented",
+      "Networking Professional",
+      "UCSD orchestration",
+      "Routing",
+      "Switching",
+      "Mac flooding",
+      "CPT",
+      "Data Center",
+      "Virtualization",
+      "RSTP",
+      "Ethernet",
+      "LINKS",
+      "STP",
+      "VPC",
+      "Nexus 5k",
+      "DVS",
+      "ACE",
+      "SDN",
+      "Cisco Application Centric Infrastructure",
+      "L2/L3 Protocols OSPF",
+      "EIGRP",
+      "MPLS",
+      "VLAN",
+      "VXLAN",
+      "PsudoWire",
+      "REP",
+      "Testing Tools Wireshark",
+      "MIB Browser",
+      "Cisco UCSD Orchestration",
+      "Cisco Metro Ethernet 2600",
+      "ACI 9K switches",
+      "Cat 6500",
+      "3550 Switches"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "specialization": "Computer Science",
+      "institution": "Dr MGR University Chennai",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "B.Tech in Computer Science in Computer Science\nDr MGR University Chennai - Chennai, Tamil Nadu"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "HCL Cisco",
+      "designation": "Senior Technical Lead",
+      "location": "Bengaluru, Karnataka",
+      "start_date": "October 2015",
+      "end_date": "Present",
+      "responsibilities": [
+        "Extensive knowledge of Testing and Deploying network test plans, protocols, Strategies and Lab Setup.",
+        "In-depth knowledge of ACI fabric, Routing and switching protocols",
+        "Proven communication skills and the ability to troubleshoot and solve network issues",
+        "Skilled in providing support in various networking testing activities to provide effective support and handling of customer escalation and for ensuring timely and effective support"
+      ],
+      "technologies_used": [
+        "Cisco"
+      ],
+      "raw_text": "' experience in testing network products\nExtensive knowledge of Testing and Deploying network test plans, protocols, Strategies and Lab Setup.\nIn-depth knowledge of ACI fabric, Routing and switching protocols\nProven communication skills and the ability to troubleshoot and solve network issues\nSkilled in providing support in various networking testing activities to provide effective support and handling of customer escalation and for ensuring timely and effective support\nSenior Technical Lead\nHCL Cisco\n-\nBengaluru, Karnataka\n-\nOctober 2015 to Present"
+    },
+    {
+      "company": null,
+      "designation": "Technical Lead",
+      "location": null,
+      "start_date": "July 2012",
+      "end_date": "September 2015",
+      "responsibilities": [
+        "ACI Fabric deployment in single POD and Multi-POD environment",
+        "Deployed Cisco ACI Multi-Site Controller with ACI fabric for Testing stretched EPG's between Data centers",
+        "Deployed Cisco IT replica Setup in Local Lab",
+        "Handling Cisco IT customer network and pre-deployment of image testing before handing to CISCO IT Customer",
+        "End to end testing of Cisco IT test bed, upgrade and downgrade of Various images",
+        "Configured SDN Controller (APIC) Decommissioned and Commissioned in Cluster",
+        "APIC upgrade downgrade, Cisco Nexus 9k leaf spine downgrade upgrade testing.",
+        "Bring up ACI leaf and spine fabric with UCS fabric interconnect",
+        "Implementation of VMware DVS and Cisco AVS in Esxi host and tested the AVS functionality",
+        "Tested redundancy testing on leaf, spine and fabric interconnect",
+        "Communicated inconsistencies between System Specifications and Test Results to development and/or analyst team",
+        "Involved in Defect Review meetings escalating and prioritizing issues effectively",
+        "Experience in implementation of VMware Infrastructure 5.5 / 6.0",
+        "Managed Virtualization environment using VMware EXI 5.5/6.0, Vcenter 5.5/6.0",
+        "Creating and Managing virtual machines and Templates https://www.indeed.com/r/faustino-pfannerstill",
+        "Migration of VM using Vmotion between Clusters",
+        "Configured Windows iSCSI SAN and integrated to VMware",
+        "Testing Cisco APIC with UCSD integration with Multi Site Controller Technical Lead"
+      ],
+      "technologies_used": [
+        "Cisco",
+        "VMware",
+        "Virtualization"
+      ],
+      "raw_text": "Project Title: Feature testing and Deployment on ACI fabric for Cisco IT and UCSD\nACI Fabric deployment in single POD and Multi-POD environment\nDeployed Cisco ACI Multi-Site Controller with ACI fabric for Testing stretched EPG's between Data centers\nDeployed Cisco IT replica Setup in Local Lab\nHandling Cisco IT customer network and pre-deployment of image testing before handing to CISCO IT Customer\nEnd to end testing of Cisco IT test bed, upgrade and downgrade of Various images\nConfigured SDN Controller (APIC) Decommissioned and Commissioned in Cluster\nConfigured UCS manager\nAPIC upgrade downgrade, Cisco Nexus 9k leaf spine downgrade upgrade testing.\nBring up ACI leaf and spine fabric with UCS fabric interconnect\nImplementation of VMware DVS and Cisco AVS in Esxi host and tested the AVS functionality\nTested redundancy testing on leaf, spine and fabric interconnect\nCommunicated inconsistencies between System Specifications and Test Results to development and/or analyst team\nInvolved in Defect Review meetings escalating and prioritizing issues effectively\nExperience in implementation of VMware Infrastructure 5.5 / 6.0\nManaged Virtualization environment using VMware EXI 5.5/6.0, Vcenter 5.5/6.0\nCreating and Managing virtual machines and Templates https://www.indeed.com/r/faustino-pfannerstill\nMigration of VM using Vmotion between Clusters\nConfigured Windows iSCSI SAN and integrated to VMware\nTesting Cisco APIC with UCSD integration with Multi Site Controller Technical Lead\nAricent Cisco -\nJuly 2012 to September 2015\nClient Cisco Systems"
+    },
+    {
+      "company": "Aricent Group",
+      "designation": "Technical Lead",
+      "location": null,
+      "start_date": "December 2011",
+      "end_date": "June 2012",
+      "responsibilities": [
+        "Worked on EFT with Bharti Telecom and China Telecom Demo for 9.7 rings features",
+        "Conducting the Dev-test activities for CTP for Rings 9.7 feature. Bring up new setup,",
+        "Written test cases for CPT 50 Ring feature to test REP and also to validate MPLS TP and P2MP EVC",
+        "Tested MPLS TP, single segment and multi-segment Pseudowire, P2MP EVC, REP features.",
+        "Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad",
+        "Based on Cisco Resilient Ethernet Protocol feature CPT 9.7 testing is carried out.",
+        "Created open and closed end segment for REP topology and tested Rings CTP 9.7 feature",
+        "Tested Mac learning, aging, flushing and limiting features",
+        "Tested multiple frame size and JUMBO frame verification with MPLS TP",
+        "Tested Link Aggregation verification with MPLS TP",
+        "Tested Memory Backup verification with fully loaded CPT configuration",
+        "Hardware redundant Plug in and Plug out Circuit Pack test and High availability testing for CTP 600",
+        "Network Protection verification testing with MPLS TP working LSP and Protected LSP",
+        "Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad",
+        "Tested Mac learning, aging and limiting features",
+        "Supporting customer queries for the product",
+        "Conducting the Dev-test activities for Eth-Sys series switch. Bring up new setup, preparation of FT test plan, derive test estimate for the Release.",
+        "Tested the various images submitted by release -ops team",
+        "Carried out manual testing on Vlan 802.1Q ( Mac aging, Mac flooding, Tag and untag) using SNMP mib browser and Aricent ISS",
+        "Written test cases for RSTP and MSTP features and tested it.",
+        "Debug the failures by configuring the test bed manually and filing the defects"
+      ],
+      "technologies_used": [
+        "Cisco",
+        "Mac flooding",
+        "CPT",
+        "RSTP"
+      ],
+      "raw_text": "Project Title: Feature testing and Deployment on CISCO CARRIER PACKET\nTRANSPORT\nWorked on EFT with Bharti Telecom and China Telecom Demo for 9.7 rings features\nConducting the Dev-test activities for CTP for Rings 9.7 feature. Bring up new setup,\nWritten test cases for CPT 50 Ring feature to test REP and also to validate MPLS TP and P2MP EVC\nTested MPLS TP, single segment and multi-segment Pseudowire, P2MP EVC, REP features.\nTested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad\nBased on Cisco Resilient Ethernet Protocol feature CPT 9.7 testing is carried out.\nCreated open and closed end segment for REP topology and tested Rings CTP 9.7 feature\nTested Mac learning, aging, flushing and limiting features\nTested multiple frame size and JUMBO frame verification with MPLS TP\nTested Link Aggregation verification with MPLS TP\nTested Memory Backup verification with fully loaded CPT configuration\nHardware redundant Plug in and Plug out Circuit Pack test and High availability testing for CTP 600\nNetwork Protection verification testing with MPLS TP working LSP and Protected LSP\nTested DHCP Snooping\nTested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad\nTested Mac learning, aging and limiting features\nSupporting customer queries for the product\nTechnical Lead\nAricent Group\n-\nDecember 2011 to June 2012\nClient KeyMile Germany\nConducting the Dev-test activities for Eth-Sys series switch. Bring up new setup, preparation of FT test plan, derive test estimate for the Release.\nTested the various images submitted by release -ops team\nCarried out manual testing on Vlan 802.1Q ( Mac aging, Mac flooding, Tag and untag) using SNMP mib browser and Aricent ISS\nWritten test cases for RSTP and MSTP features and tested it.\nDebug the failures by configuring the test bed manually and filing the defects"
+    },
+    {
+      "company": "Client Cisco Systems",
+      "designation": "Technical Lead (HCL)",
+      "location": null,
+      "start_date": "January 2010",
+      "end_date": "December 2011",
+      "responsibilities": [
+        "Performed the Role of Technical lead for a team member size of 4",
+        "Test the various images submitted by release -ops team",
+        "Carried out manual testing of Connection Server (HSRP) and OSPF features to verify the functionality",
+        "Tested OSPF point to point and Broadcast network",
+        "Bring up new setup, prepare test plan, derive test cases and execute the test cases",
+        "Debug the failures by configuring the test bed manually and filing the defects",
+        "Interact & co-ordinate with Dev-test and Development team to review the CFD's and script coverage.",
+        "Find defects through manual testing and verify the defects",
+        "Analyze both internal and externally found defects and come up with a plan to reduce the defects missed out in the scripts."
+      ],
+      "technologies_used": [
+        "Cisco"
+      ],
+      "raw_text": "Technical Lead (HCL)\nClient Cisco Systems\n-\nJanuary 2010 to December 2011\nCisco 12000 Gigabit\nSwitching Router)\nPerformed the Role of Technical lead for a team member size of 4\nTest the various images submitted by release -ops team\nCarried out manual testing of Connection Server (HSRP) and OSPF features to verify the functionality\nTested OSPF point to point and Broadcast network\nBring up new setup, prepare test plan, derive test cases and execute the test cases\nDebug the failures by configuring the test bed manually and filing the defects\nInteract & co-ordinate with Dev-test and Development team to review the CFD's and script coverage.\nFind defects through manual testing and verify the defects\nAnalyze both internal and externally found defects and come up with a plan to reduce the defects missed out in the scripts."
+    },
+    {
+      "company": "Client Cisco Systems",
+      "designation": "Test Lead (HCL)",
+      "location": null,
+      "start_date": "May 2007",
+      "end_date": "December 2011",
+      "responsibilities": [
+        "Performed the Role of lead for a team member size of 5",
+        "Image testing on ACE module and ACE 4710 Appliance.",
+        "Coordinating with onsite/offsite teams in resolving the defects found when performing Testing.",
+        "Given white paper & Presentation document in ACE High Availability and Securing ACE 4710 with ACS server",
+        "Test Plan writing, reviewing and planning test strategies.",
+        "Peer to Peer Reviews to avoid Post Delivery Defects",
+        "Lab Test Bed creation and Infrastructure Maintenance",
+        "Configured High Availability of ACE Module, ACE Appliance and ANM Servers",
+        "Configured End to End traffic Load balancing of Data center using the ACE 4710, ACE module and CSM devices",
+        "Deployed different topologies NAT, Routed and Bridged for End to End traffic Load balancing of Data center"
+      ],
+      "technologies_used": [
+        "Cisco",
+        "Data Center",
+        "Virtualization"
+      ],
+      "raw_text": "Test Lead (HCL)\nClient Cisco Systems\n-\nMay 2007 to December 2011\nVirtualization)\nPerformed the Role of lead for a team member size of 5\nImage testing on ACE module and ACE 4710 Appliance.\nCoordinating with onsite/offsite teams in resolving the defects found when performing Testing.\nGiven white paper & Presentation document in ACE High Availability and Securing ACE 4710 with ACS server\nTest Plan writing, reviewing and planning test strategies.\nPeer to Peer Reviews to avoid Post Delivery Defects\nLab Test Bed creation and Infrastructure Maintenance\nConfigured High Availability of ACE Module, ACE Appliance and ANM Servers\nConfigured End to End traffic Load balancing of Data center using the ACE 4710, ACE module and CSM devices\nDeployed different topologies NAT, Routed and Bridged for End to End traffic Load balancing of Data center"
+    },
+    {
+      "company": "Lab",
+      "designation": "Administrator",
+      "location": "Chennai, Tamil Nadu",
+      "start_date": "May 2003",
+      "end_date": "June 2007",
+      "responsibilities": [
+        "Key responsibility is to perform",
+        "CISCO Network LAB Administration"
+      ],
+      "technologies_used": [
+        "Cisco"
+      ],
+      "raw_text": "Lab\nAdministrator\nHCL\nCisco\n-\nChennai, Tamil Nadu\n-\nMay 2003 to June 2007\nKey responsibility is to perform\nCISCO Network LAB Administration"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

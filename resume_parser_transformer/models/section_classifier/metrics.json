@@ -1,0 +1,121 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2 embeddings (frozen) + LogisticRegression(C=10, balanced)",
+  "train_resumes": [
+    "10.docx",
+    "5.docx",
+    "9.docx",
+    "CV_Berkani.pdf",
+    "CV_BoutabbaAyoub.pdf",
+    "CV_MessarAya.jpg",
+    "CV_RashidSaid.pdf",
+    "CV_ShihabAmri.pdf",
+    "CV_SoukeurAbdelhamid.jpg"
+  ],
+  "test_resumes": [
+    "4.docx",
+    "CV_GhandiAli.pdf",
+    "CV_Yassine.pdf"
+  ],
+  "held_out": {
+    "accuracy": 0.4857,
+    "macro_f1": 0.3512,
+    "weighted_f1": 0.4699
+  },
+  "cv_4fold_mean": {
+    "accuracy": 0.5161,
+    "macro_f1": 0.4142,
+    "weighted_f1": 0.5084
+  },
+  "cv_4fold_std": {
+    "accuracy": 0.0676,
+    "macro_f1": 0.0866,
+    "weighted_f1": 0.0792
+  },
+  "classification_report": {
+    "ACHIEVEMENTS": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "CERTIFICATIONS": {
+      "precision": 0.4166666666666667,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.5555555555555556,
+      "support": 6.0
+    },
+    "EDUCATION": {
+      "precision": 0.75,
+      "recall": 0.5454545454545454,
+      "f1-score": 0.631578947368421,
+      "support": 11.0
+    },
+    "EXPERIENCE": {
+      "precision": 0.4307692307692308,
+      "recall": 0.5957446808510638,
+      "f1-score": 0.5,
+      "support": 47.0
+    },
+    "EXTRACURRICULAR": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "OTHER": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1-score": 0.3333333333333333,
+      "support": 5.0
+    },
+    "PERSONAL_INFORMATION": {
+      "precision": 0.8,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.8421052631578947,
+      "support": 9.0
+    },
+    "PROJECTS": {
+      "precision": 0.42857142857142855,
+      "recall": 0.17647058823529413,
+      "f1-score": 0.25,
+      "support": 34.0
+    },
+    "REFERENCES": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "SKILLS": {
+      "precision": 0.5384615384615384,
+      "recall": 0.5,
+      "f1-score": 0.5185185185185185,
+      "support": 14.0
+    },
+    "SUMMARY": {
+      "precision": 0.5833333333333334,
+      "recall": 0.5833333333333334,
+      "f1-score": 0.5833333333333334,
+      "support": 12.0
+    },
+    "VOLUNTEERING": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "accuracy": 0.4857142857142857,
+    "macro avg": {
+      "precision": 0.41231684981684985,
+      "recall": 0.3602687808413716,
+      "f1-score": 0.3512020792722547,
+      "support": 140.0
+    },
+    "weighted avg": {
+      "precision": 0.5164717425431711,
+      "recall": 0.4857142857142857,
+      "f1-score": 0.4698969646338067,
+      "support": 140.0
+    }
+  }
+}

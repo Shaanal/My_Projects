@@ -1,0 +1,237 @@
+{
+  "candidate": {
+    "full_name": null,
+    "email": "eliyahu.shvalb@gmail.com",
+    "phone_number": null,
+    "location": "Petah Tikva",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": null,
+    "career_objective": null,
+    "total_experience": "2 years 1 month",
+    "current_or_most_recent_role": "JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE"
+  },
+  "skills": {
+    "technical_skills": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "Hibernate",
+      "Angular",
+      "Spring",
+      "REST API",
+      "Spring Boot",
+      "JUnit",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Couchbase",
+      "Kafka",
+      "Jenkins",
+      "Docker",
+      "IntelliJ IDEA",
+      "Visual Studio Code",
+      "Postman",
+      "Git",
+      "SVN",
+      "Team Foundation Server",
+      "Jira",
+      "Eclipse",
+      "JDBC",
+      "Apache Camel",
+      "Broadleaf",
+      "Maven",
+      "WSDL",
+      "Perforce",
+      "IBM WebSphere",
+      "JBoss Fuse",
+      "Agile",
+      "Web-Services",
+      "Printboss",
+      "Mainframe",
+      "Spring MVC"
+    ],
+    "programming_languages": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Go"
+    ],
+    "frameworks": [
+      "Hibernate",
+      "Angular",
+      "Spring",
+      "REST API",
+      "Spring Boot"
+    ],
+    "libraries": [
+      "JUnit"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Couchbase"
+    ],
+    "cloud_technologies": [],
+    "devops_infrastructure": [
+      "Kafka",
+      "Jenkins",
+      "Docker"
+    ],
+    "tools": [
+      "IntelliJ IDEA",
+      "Visual Studio Code",
+      "Postman",
+      "Git",
+      "SVN",
+      "Team Foundation Server",
+      "Jira",
+      "Eclipse"
+    ],
+    "other_relevant_technologies": [
+      "JDBC",
+      "Apache Camel",
+      "Broadleaf",
+      "Maven",
+      "WSDL",
+      "Perforce",
+      "IBM WebSphere",
+      "JBoss Fuse",
+      "Agile",
+      "Web-Services",
+      "Printboss",
+      "Mainframe",
+      "Spring MVC"
+    ]
+  },
+  "education": [
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "2017",
+      "end_year": "2018",
+      "grade": null,
+      "raw_text": "2017 – 2018: Tel-Ran Educational Center (Rehovot) – Java Full-Stack\nDuring my studies, I have participated in several commercial and educational projects:\nA web service for browsing restaurants and purchasing meals vouchers. Java 8, ORM Hibernate, Spring MVC, Spring Boot, MySQL, MongoDB, Angular 4.\nA service for collecting and processing data from various rooms sensors. Generating randomized mocked data, maintaining back-end server (Java MVC, REST API), MySQL database (ORM Hibernate, Spring Boot), reducing and analyzing data (Apache Kafka), informing end user about alerts via emails.\nA web service for browsing articles. Back-end server development (Java MVC, REST API), maintaining database with articles and user data (ORM Hibernate, Spring Boot).\nExperimental development of a light-weight map reduce Big Data system. Back-end development using Go language, parallel mapping and reducing data.\nRecommendations are available upon request"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": null,
+      "designation": "JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [
+        "A fast self-learner and an excellent team player with passion for the quality of the code and the product",
+        "Looking for the next place to apply my skills and experience, i.e. for a full time back-end developer position Programming languages: JAVA, Go, JavaScript, TypeScript"
+      ],
+      "technologies_used": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Go"
+      ],
+      "raw_text": "JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE\nA fast self-learner and an excellent team player with passion for the quality of the code and the product\nLooking for the next place to apply my skills and experience, i.e. for a full time back-end developer position Programming languages: JAVA, Go, JavaScript, TypeScript"
+    },
+    {
+      "company": "Databases: MySQL, PostgreSQL, MongoDB, Couchbase",
+      "designation": "End Developer",
+      "location": null,
+      "start_date": "2019",
+      "end_date": "2020",
+      "responsibilities": [
+        "Frameworks and technologies: Spring, ORM Hibernate, JDBC, Apache Kafka, Apache Camel, Broadleaf, Angular 4, Maven, JUnit, REST, WSDL",
+        "Environments – IDE/tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, Postman, Git, SVN, Perforce, Jenkins, Docker, IBM WebSphere, JBoss Fuse, TFS, JIRA",
+        "2019 – 2020: Amdocs (Raanana) – Java Back-End Developer",
+        "Working as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.",
+        "Technologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel"
+      ],
+      "technologies_used": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Couchbase",
+        "Hibernate",
+        "Kafka",
+        "Angular",
+        "JUnit",
+        "IntelliJ IDEA",
+        "Visual Studio Code",
+        "Postman",
+        "Git",
+        "SVN",
+        "Jenkins",
+        "Docker",
+        "Team Foundation Server",
+        "Jira",
+        "Java",
+        "Agile",
+        "Eclipse",
+        "Spring",
+        "Go",
+        "JDBC",
+        "Apache Camel",
+        "Broadleaf",
+        "Maven",
+        "REST API",
+        "WSDL",
+        "Perforce",
+        "IBM WebSphere",
+        "JBoss Fuse",
+        "Spring Boot"
+      ],
+      "raw_text": "Databases: MySQL, PostgreSQL, MongoDB, Couchbase\nFrameworks and technologies: Spring, ORM Hibernate, JDBC, Apache Kafka, Apache Camel, Broadleaf, Angular 4, Maven, JUnit, REST, WSDL\nEnvironments – IDE/tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, Postman, Git, SVN, Perforce, Jenkins, Docker, IBM WebSphere, JBoss Fuse, TFS, JIRA\n2019 – 2020: Amdocs (Raanana) – Java Back-End Developer\nWorking as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.\nTechnologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel"
+    },
+    {
+      "company": "Databases: MySQL, PostgreSQL, Couchbase",
+      "designation": null,
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [
+        "MySQL",
+        "PostgreSQL",
+        "Couchbase"
+      ],
+      "raw_text": "Databases: MySQL, PostgreSQL, Couchbase"
+    },
+    {
+      "company": null,
+      "designation": "Java Developer",
+      "location": null,
+      "start_date": "2018",
+      "end_date": "2019",
+      "responsibilities": [
+        "Tools: IntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS",
+        "As a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app’s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.",
+        "Technologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB"
+      ],
+      "technologies_used": [
+        "IntelliJ IDEA",
+        "Postman",
+        "Jenkins",
+        "Docker",
+        "Team Foundation Server",
+        "Java",
+        "JBoss Fuse",
+        "WSDL",
+        "IBM WebSphere",
+        "Web-Services",
+        "Printboss",
+        "Mainframe"
+      ],
+      "raw_text": "Tools: IntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS\n2018 – 2019: Most Technologies (Petah Tikva) – Java Developer\nAs a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app’s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.\nTechnologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

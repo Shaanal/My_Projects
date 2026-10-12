@@ -1,0 +1,130 @@
+YASSINE ALI KACEM
+
+Agentic Al Developer * Multi-Agent Systems Engineer * Computer Science Student
+Algeria - Age 21 - Saad Dahleb University, Blida - 3rd Year B.Sc. Computer Science
+
+ 
+
+@ PROFESSIONAL SUMMARY
+
+ 
+
+Motivated 3rd-year Computer Science student with a specialization in Agentic Al, Multi-Agent Systems, and Intelligent
+Automation. Proven builder of real-world Al systems including a production-grade Multi-Agent ERP with Master Orchestrator
+architecture, an Al hiring automation pipeline, and an e-commerce analytics platform. Experienced leader managing a 9-
+member Al team, with a track record of organizing major university tech events. Driven to design scalable, Al-powered
+systems that transform how businesses operate and make decisions.
+
+m EDUCATION
+
+ 
+
+Bachelor of Science in Computer Science (3rd Year)
+Saad Dahleb University - Blida, Algeria
+
+— Focus areas: Artificial Intelligence, Machine Learning, Multi-Agent Systems, Software Engineering
+— Additional studies: Data Analysis, System Architecture, Networking
+
+= CERTIFICATIONS
+
+ 
+
+= CiscoCCNA1&2 (Certified) * CCNA3 (In Progress)
+— DataCamp - Introduction to Natural Language Processing in Python (Oct 2025)
+— Cyfrin - Blockchain Basics (Feb 2026)
+
+@ LEADERSHIP & EXPERIENCE
+
+ 
+
+Al Team Leader
+Computer Science Community Club (CSCC) * Current
+
+— Leading a team of 9 Al developers on applied Al research and production projects
+
+= Designing multi-agent system architectures and agentic LLM pipelines
+
+- Mentoring members in Machine Learning, Agentic Al, and software engineering best practices
+— Overseeing end-to-end project planning, execution, and delivery
+
+Vice President - External Relations
+Computer Science Community Club (CSCC) * Aug 2025 ~ Feb 2026
+
+— Managed strategic industry partnerships and external collaborations
+— Organized and co-directed large-scale tech events: GeekConf, AfroBot, DataBounty, SpeakUp
+- Led external communications and coordination with technology companies
+
+Vice President (Intern)
+Computer Science Community Club (CSCC) » Aug 2024 - Aug 2025
+- Supported strategic planning, event logistics, and cross-team coordination
+Training Manager
+Computer Science Community Club (CSCC) * Jan 2024 -Sep 2024
+
+= Designed and managed technical training programs for club members
+— Organized Al, Machine Learning, and programming workshops
+
+Scanné avec CamScanner
+ 
+@ EVENTS ORGANIZED
+
+ 
+
+AfroBot * SpeakUp * DataBounty * GeekConf * Multiple Al & Programming Workshops
+
+@ PROJECTS
+
+ 
+
+Multi-Agent Intelligent ERP System - Agentic Al + Enterprise Resource Planning
+
+— Built a production-grade Multi-Agent ERP using a Mixture-of-Experts (MoE) architecture with a Master Orchestrator
+and six specialized domain agents (HR, Finance, Inventory, CRM, Sales, Document)
+
+— Master Orchestrator reads user queries, maps them via a structured router prompt, outputs JSON delegation
+payloads, and synthesizes cross-domain responses into a unified executive summary
+
+— Analytics / CEO Agent computes cross-domain KPIs unavailable to any single department (e.g., Revenue per
+Employee, Cash Flow Pressure, Customer Acquisition Cost) and returns strict JSON schemas for live dashboard
+rendering
+
+— Sub-Module Pattern: Python pre-crunches raw data deterministically (anomaly detection, churn prediction, stock.
+shortage modeling); LLM only receives statistical summaries eliminating hallucination on critical business data
+
+— Demonstrated 99.9% time reduction vs. traditional analysis: complex cross-domain CEO queries answered in under 30
+seconds vs. 4-6 days of human analysis
+
+— Designed for enterprise scale: horizontal agent scaling, database sharding per department, async processing, audit
+trails, and on-premise LLM deployment for data privacy compliance
+
+Multi-Agent Hiring System - Agentic Al * Recruitment Automation
+— Multi-agent pipeline that ingests CVs and professional documents automatically via OCR and document parsing
+— Scores and ranks candidates against job requirements without human intervention
+— Recommends top candidates with explainable scoring, dramatically reducing time-to-hire
+— Built on modern Agentic Al architecture with LLM-powered evaluation agents
+
+E-Commerce Analytics Platform - Freelance » Al-Powered Store Analytics
+— Automated data cleaning pipeline for raw sales datasets from multiple store sources
+— Sales performance analysis delivering actionable insights and trend forecasting for store owners
+= Interactive dashboards built with Plotly and deployed via Streamlit
+
+Smart Agriculture System - Machine Learning « intelligent Irrigation
+= Integrates real-time soil sensors (pH, humidity, temperature) with a crop health ML prediction model
+= Automates irrigation decisions based on live environmental data, optimizing water usage and crop yield
+
+UniquelD - Digital identity System - In Progress
+— Hash-based unique identity system linked to national ID to prevent duplicate identities at scale
+- Secure identity verification architecture - currently in system design and architecture phase
+
+m TECHNICAL SKILLS
+
+ 
+
+AI& ML Agentic Al, Multi-Agent Systems, LLM Orchestration, Machine Learning, Deep Learning, NLP
+Apdittecture Master Slave Agent Design, MoE Architecture, ERP Systems, Al Pipeline Design, System
+Programming Python, Streamlit, Plotly, FastAPI, Data Analysis, Automation Systems
+
+Networking Cisco CCNA 1 & 2 (Certified) « CCNA 3 (In Progress)
+
+Blockchain Blockchain Fundamentals, Smart Contract Basics (Cyfrin Certified)
+
+Scanné avec CamScanner

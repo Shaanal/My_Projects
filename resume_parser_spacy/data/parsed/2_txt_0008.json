@@ -1,0 +1,114 @@
+{
+  "candidate": {
+    "full_name": "Rosie Miller",
+    "email": "example@example.com",
+    "phone_number": "(555) 555-5555",
+    "location": "Pittsburgh, PA",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "========================================================== Experienced restaurant manager bringing demonstrated success in developing and motivating strong restaurant teams capable of handling over 200 customers hourly. Keeps all areas clean and sanitized while managing inventory and preventing waste. Consistent career history of operations improvement, team building, and revenue increases.",
+    "career_objective": null,
+    "total_experience": "19 years 4 months",
+    "current_or_most_recent_role": "Restaurant Manager"
+  },
+  "skills": {
+    "technical_skills": [
+      "team building",
+      "Service-oriented",
+      "Conflict resolution techniques",
+      "Performance improvement",
+      "Staff management",
+      "Trained in performance",
+      "Business operations",
+      "Inventory control",
+      "Marketing"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "team building",
+      "Service-oriented",
+      "Conflict resolution techniques",
+      "Performance improvement",
+      "Staff management",
+      "Trained in performance",
+      "Business operations",
+      "Inventory control",
+      "Marketing"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Arts Hospitality Management",
+      "specialization": "Arts Hospitality Management",
+      "institution": "Park Point University",
+      "start_year": null,
+      "end_year": null,
+      "grade": null,
+      "raw_text": "==========================================================\nPark Point University, Pittsburgh, PA\nBachelor of Arts Hospitality Management"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "==========================================================",
+      "designation": null,
+      "location": null,
+      "start_date": "March 2014",
+      "end_date": "Present",
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "==========================================================\nMarch 2014 to Current"
+    },
+    {
+      "company": null,
+      "designation": "Restaurant Manager",
+      "location": "Pittsburgh, PA",
+      "start_date": "December 2010",
+      "end_date": "February 2014",
+      "responsibilities": [
+        "Outback Steakhouse – Pittsburgh, PA",
+        "Reduced labor costs by 17% while maintaining excellent service and profit levels Managed a seven-person team of cooks and back-of-house staff, and a team of eight front-of-house staff for a busy steakhouse restaurant",
+        "Continuously evaluated business operations to effectively align workflows for optimal area coverage, increasing customer satisfaction rating by 80%"
+      ],
+      "technologies_used": [],
+      "raw_text": "Outback Steakhouse – Pittsburgh, PA\nRestaurant Manager\nReduced labor costs by 17% while maintaining excellent service and profit levels Managed a seven-person team of cooks and back-of-house staff, and a team of eight front-of-house staff for a busy steakhouse restaurant\nContinuously evaluated business operations to effectively align workflows for optimal area coverage, increasing customer satisfaction rating by 80%\nDecember 2010 to February 2014"
+    },
+    {
+      "company": null,
+      "designation": "PA Assistant",
+      "location": "Pittsburgh, PA",
+      "start_date": null,
+      "end_date": null,
+      "responsibilities": [],
+      "technologies_used": [],
+      "raw_text": "TGI Fridays – Pittsburgh, PA Assistant"
+    },
+    {
+      "company": "Restaurant Team Leader",
+      "designation": "Restaurant Manager",
+      "location": "Pittsburgh, PA",
+      "start_date": "July 2007",
+      "end_date": "November 2010",
+      "responsibilities": [
+        "Reduced restaurant’s annual food and labor costs by 15% through proper budgeting, scheduling, and management of inventory Kept restaurant compliant with all federal, state, and local hygiene and food safety regulations, which kept food safety score between 95-100 every inspection",
+        "Coordinated kitchen stations with managers to cut down on customer wait times by 50%",
+        "BJ’s Restaurants, Inc – Pittsburgh, PA",
+        "Assisted customers in placing special orders for large-scale events such as corporate events and birthday parties Recruited and hired over 10 employees offering talent, charisma, and experience to the restaurant team Pitched in to help host, waitstaff, and bussers during exceptionally busy times such as dinner hour"
+      ],
+      "technologies_used": [],
+      "raw_text": "Restaurant Manager\nReduced restaurant’s annual food and labor costs by 15% through proper budgeting, scheduling, and management of inventory Kept restaurant compliant with all federal, state, and local hygiene and food safety regulations, which kept food safety score between 95-100 every inspection\nCoordinated kitchen stations with managers to cut down on customer wait times by 50%\nJuly 2007 to November 2010\nBJ’s Restaurants, Inc – Pittsburgh, PA\nRestaurant Team Leader\nAssisted customers in placing special orders for large-scale events such as corporate events and birthday parties Recruited and hired over 10 employees offering talent, charisma, and experience to the restaurant team Pitched in to help host, waitstaff, and bussers during exceptionally busy times such as dinner hour"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

@@ -1,0 +1,111 @@
+{
+  "candidate": {
+    "full_name": "ROBERT COOPER",
+    "email": "email@email.com",
+    "phone_number": "3868683442",
+    "location": "LOS ANGELES, CA",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "professional_information": {
+    "professional_summary": "Safety conscious, attentive Security Guard with eight years experience in protecting and guarding VIP individuals in the military and defense sectors. Proficient at observing surroundings and immediate settings for possible threats of nonhuman and human nature. Presently finishing a bachelor’s in criminal justice and qualified as a CPO (Certified Protection Guard).",
+    "career_objective": null,
+    "total_experience": "2 years 4 months",
+    "current_or_most_recent_role": "SECURITY GUARD"
+  },
+  "skills": {
+    "technical_skills": [
+      "Investigation",
+      "Safety compliance",
+      "Restraining devices",
+      "Criminal justice knowledge",
+      "Martial arts/Physical combat",
+      "Safety conscious",
+      "Criminal Profiling",
+      "Interviewing Techniques",
+      "Crisis Intervention"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "libraries": [],
+    "databases": [],
+    "cloud_technologies": [],
+    "devops_infrastructure": [],
+    "tools": [],
+    "other_relevant_technologies": [
+      "Investigation",
+      "Safety compliance",
+      "Restraining devices",
+      "Criminal justice knowledge",
+      "Martial arts/Physical combat",
+      "Safety conscious",
+      "Criminal Profiling",
+      "Interviewing Techniques",
+      "Crisis Intervention"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Certified Protection Guard Program (CPOP)",
+      "specialization": null,
+      "institution": "International Foundation for",
+      "start_year": "2021",
+      "end_year": "2022",
+      "grade": null,
+      "raw_text": "Certified Protection Guard Program (CPOP), International Foundation for Protection Guards, Alexandria\nJanuary 2021 — April 2022\nSecurity Guard Certificate Program (SOCP), ASIS International, North Naples"
+    },
+    {
+      "degree": "S.A.F.E. Approach Level II Training",
+      "specialization": null,
+      "institution": "Hawaii Western College",
+      "start_year": "2022",
+      "end_year": "2022",
+      "grade": null,
+      "raw_text": "April 2022 — April 2022\n+ Course Curriculum: Law Enforcement Ethics, Foundations in Criminal Law, Report\nWriting, Criminal Profiling, Interviewing Techniques, Crisis Intervention.\nS.A.F.E. Approach Level II Training, Hawaii Western College"
+    },
+    {
+      "degree": null,
+      "specialization": null,
+      "institution": null,
+      "start_year": "2015",
+      "end_year": "2019",
+      "grade": null,
+      "raw_text": "January 2015 — November 2019"
+    }
+  ],
+  "projects": [],
+  "work_experience": [
+    {
+      "company": "ADT Security",
+      "designation": "SECURITY GUARD",
+      "location": "Port Washington",
+      "start_date": "January 2021",
+      "end_date": "April 2022",
+      "responsibilities": [
+        "Responsible for completing reports by recording information, observations, occurrences, and surveillance activities, including interviewing of witnesses and acquiring signatures."
+      ],
+      "technologies_used": [],
+      "raw_text": "Security Guard at ADT Security, Port Washington\nJanuary 2021 — April 2022\nResponsible for completing reports by recording information, observations, occurrences, and surveillance activities, including interviewing of witnesses and acquiring signatures.\n+ Maintaining environments by monitoring the grounds and equipment controls.\n+ Logging into security headquarters on the hour during the day and every 2 hours with the night shift, notifying control of all in order statuses.\n+ Utilizing armed force when necessary, to protect company belongings, visitors, employees, and clients when needed.\n+ Apprehending suspects in the event of security breaches and detaining them until the police arrive on the scene."
+    },
+    {
+      "company": "Copwatch",
+      "designation": "SECURITY GUARD",
+      "location": "Jogbani",
+      "start_date": "January 2020",
+      "end_date": "April 2022",
+      "responsibilities": [
+        "Security Guard at Copwatch, Jogbani",
+        "Primary purpose is to scan area of grounds for objects/ items that seem out of place and notifying Center management of bags or packages that are unattended.",
+        "+ Inspecting restrooms after closing time for vagrants/ unauthorized personnel.",
+        "+ Monitoring selected areas via CCTV app on smart devices.",
+        "+ Ensure flawless equipment operation by finishing preventive maintenance necessities, reading the manufacturer's instructions, troubleshooting malfunctions, organizing for repairs if needed, and assessing new equipment and techniques"
+      ],
+      "technologies_used": [],
+      "raw_text": "Security Guard at Copwatch, Jogbani\nJanuary 2020 — April 2022\nPrimary purpose is to scan area of grounds for objects/ items that seem out of place and notifying Center management of bags or packages that are unattended.\n+ Inspecting restrooms after closing time for vagrants/ unauthorized personnel.\n+ Monitoring selected areas via CCTV app on smart devices.\n+ Ensure flawless equipment operation by finishing preventive maintenance necessities, reading the manufacturer's instructions, troubleshooting malfunctions, organizing for repairs if needed, and assessing new equipment and techniques"
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "volunteering": []
+}

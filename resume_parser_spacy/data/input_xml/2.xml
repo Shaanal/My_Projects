@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+<label type="Name">Lee Connelly</label>
+<label type="Designation">Software Engineer</label> - <label type="Companies worked at">Disney</label>
+
+<label type="Location">Hyderabad, Telangana</label> - Email me on Indeed: <label type="Email Address">Edwardo.Heller@gmail.com</label>
+
+• Over <label type="Years of Experience">3.5 years</label> of experience in implementing organization <label type="Job Specific Skills">DevOps strategy</label> in various
+environments of <label type="Tech Tools">Linux</label> and <label type="Tech Tools">windows</label> servers along with adopting cloud strategies based on
+<label type="Job Specific Skills">Amazon Web Services</label>.
+• Experience in <label type="Job Specific Skills">Cloud Technologies</label> like <label type="Tech Tools">Amazon Web Services (AWS)</label> <label type="Tech Tools">VPC</label>, <label type="Tech Tools">EC2</label>, <label type="Tech Tools">S3</label>, <label type="Tech Tools">ELB</label>, <label type="Tech Tools">IAM</label>,
+<label type="Tech Tools">Auto Scaling</label>, <label type="Tech Tools">Route 53</label>, <label type="Tech Tools">SQS</label>, <label type="Tech Tools">SNS</label>, <label type="Tech Tools">RDS</label>, <label type="Tech Tools">Cloud Watch</label>, <label type="Tech Tools">Dynamo DB</label>.
+• Utilized <label type="Tech Tools">Cloud Watch</label> to monitor <label type="Tech Tools">AWS</label> resources to set alarms for notification, and to monitor
+logs for a better operation of the system.
+• Experience working with automated build platforms/continuous integration using <label type="Job Specific Skills">DevOps
+architecture</label>.
+• Implementing <label type="Job Specific Skills">DevOps</label> tools like <label type="Tech Tools">Ansible</label> as configuration management for Continuous
+Integration and <label type="Job Specific Skills">Continuous Deployment</label> with build tools using <label type="Tech Tools">Maven</label> on <label type="Job Specific Skills">Cloud Infrastructure</label>
+using <label type="Tech Tools">AWS</label>.
+• Experience on version control tool <label type="Tech Tools">GIT</label>- Creating branches, tracking changes, maintaining the
+history of code and helping the Developers in GIT related issues.
+• Worked on <label type="Tech Tools">Jenkins</label> for continuous integration and for <label type="Job Specific Skills">End to End automation</label> for all build and
+deployments.
+• Worked with <label type="Tech Tools">Ansible</label> as a configuration management tool, created playbooks to automate
+repetitive tasks, quickly deploy applications, and proactively manage change.
+• Knowledge on Docker.
+
+WORK EXPERIENCE
+
+<label type="Designation">Software Engineer</label>
+
+<label type="Companies worked at">Disney</label> -
+
+<label type="Years of Experience">September 2014 to Present</label>
+
+Responsibilities:
+* Coordinate/assist developers with establishing and applying appropriate branching, labeling/
+naming conventions using <label type="Tech Tools">GIT</label> source control.
+* Implemented the setup for Master slave architecture to improve the performance of <label type="Tech Tools">Jenkins</label>.
+* Used <label type="Tech Tools">Jenkins</label> to implement <label type="Job Specific Skills">Continuous Integration</label> and deployment into <label type="Tech Tools">Tomcat</label>/Web logic
+Application server.
+* Created <label type="Tech Tools">Ansible</label> playbooks for automating the Infrastructure, deployment process.
+* Managed clients, roles, tasks, playbooks in Ansible.
+* Deploy and monitor scalable infrastructure on <label type="Tech Tools">AWS</label> &amp; configuration management.
+* Worked on making application more scalable and highly available in <label type="Tech Tools">AWS</label>.
+* Created <label type="Tech Tools">AWS</label> IAM roles &amp; total architecture deployment end to end (creation of EC2 instances
+&amp; its infrastructure)
+
+Environment: <label type="Tech Tools">GIT</label>, <label type="Tech Tools">Maven</label>, <label type="Tech Tools">Jenkins</label>, <label type="Tech Tools">Tomcat</label>, <label type="Tech Tools">Docker</label>, <label type="Tech Tools">Jira</label>, <label type="Tech Tools">AWS</label>, <label type="Tech Tools">Ansible</label>, <label type="Tech Tools">LAMP</label>
+
+<label type="Designation">Software Engineer</label>
+
+https://www.indeed.com/r/lee-connelly
+
+
+<label type="Companies worked at">HCL Technologies</label> -
+
+<label type="Years of Experience">September 2014 to Present</label>
+
+〓 Coordinate/assist developers with establishing and applying appropriate branching, labeling/
+naming conventions using <label type="Tech Tools">GIT</label> source control.
+〓 Implemented the setup for <label type="Job Specific Skills">Master slave architecture</label> to improve the performance of <label type="Tech Tools">Jenkins</label>.
+〓 Used <label type="Tech Tools">Jenkins</label> to implement Continuous Integration and deployment into <label type="Tech Tools">Tomcat</label>/Web logic
+Application server.
+〓 Created Ansible playbooks for automating the Infrastructure, deployment process.
+〓 Managed clients, roles, tasks, playbooks in <label type="Tech Tools">Ansible</label>.
+〓 Deploy and monitor scalable infrastructure on <label type="Tech Tools">AWS</label> &amp; configuration management.
+〓 Worked on making application more scalable and highly available in AWS.
+〓 Created <label type="Tech Tools">AWS</label> IAM roles &amp; total architecture deployment end to end (creation of EC2 instances
+&amp; its infrastructure).
+
+<label type="Designation">Process Associate</label>
+
+<label type="Companies worked at">Microsoft</label> -
+
+<label type="Years of Experience">July 2013 to August 2014</label>
+
+Responsibilities:
+* Collect and document user requirements.
+* Design and develop database architecture for information systems projects.
+* Design, construct, modify, integrate, implement and test <label type="Job Specific Skills">data models</label> and <label type="Job Specific Skills">database
+management systems</label>.
+* Conduct research and provide advice to other informatics professionals regarding the selection,
+application and implementation of database management tools.
+* Operate <label type="Job Specific Skills">database management systems </label>to analyze data and perform <label type="Job Specific Skills">data mining</label> analysis.
+
+EDUCATION
+
+<label type="Degree">Bachelor Of Science</label>
+
+<label type="College Name">Vaughn College of Aeronautics and Technology</label>
+
+SKILLS
+
+<label type="Tech Tools">AWS</label> (3 years), <label type="Tech Tools">Tomcat</label>, <label type="Tech Tools">Ansible</label>, <label type="Tech Tools">git</label>, <label type="Tech Tools">LAMP</label>, <label type="Tech Tools">docker</label>, <label type="Tech Tools">jenkins</label>, <label type="Tech Tools">Maven</label>, <label type="Tech Tools">Jira</label>
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+
+<label type="Job Specific Skills">Cloud Technologies</label>: <label type="Tech Tools">AWS</label>
+
+Operating Systems: <label type="Tech Tools">Linux</label>, <label type="Tech Tools">Windows</label>.
+Version Control Systems: <label type="Tech Tools">GIT</label>
+Automated Build Tools: <label type="Tech Tools">Maven</label>
+Continuous Integration: <label type="Tech Tools">Jenkins</label>
+
+
+
+Scripting Languages: <label type="Tech Tools">Shell Scripting</label>
+Configuration Management: <label type="Tech Tools">Ansible</label>.
+Container service: <label type="Tech Tools">Docker</label>
+</cv>
